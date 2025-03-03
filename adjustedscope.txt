@@ -1,0 +1,40 @@
+Weight links by:
+
+Differentiating between review ratings and engagement metrics
+
+Accounting for influencer reach (e.g., follower count, engagement rates)
+
+Data Sources and Collection Plan
+
+We will collect restaurant and user data from structured review platforms and social media APIs:
+
+Primary Datasets:
+
+1. Review Data:
+
+- Yelp Fusion API (structured reviews, star ratings, restaurant metadata) - this is only used so far 
+
+2. Social Media Data:
+
+- Twitter (via Tweepy): Tweets mentioning restaurants, engagement metrics (only New York, after 2023)
+
+- Instagram (via Instaloader): Influencer posts/tags (only New York, after 2023)
+
+- Reddit (via API): Mentions in food-related subreddits (only New York, after 2023)
+
+Restricted Focus: 
+
+Restaurants in New York (since Beli was founded there)
+
+Social media influencers with 10K+ followers (to capture trends effectively)
+
+User-generated content from 2023 onward to ensure relevance
+
+
+THIS IS BIPARTITE (recommend acknowledgement)
+
+1. Does high review volume correlate with high social media engagement?
+
+2. Can we identify user communities based on shared preferences?
+
+3. How does social proof (people talk online!) contribute to restaurant popularity?
