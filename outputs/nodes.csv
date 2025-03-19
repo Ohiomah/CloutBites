@@ -1,0 +1,2354 @@
+Id,Label,BOROUGH,categories_list,SCORE,GRADE
+0,dosa royale,Brooklyn,Indian; Vegetarian; Vegan,108.0,C
+1,gammeeok,Manhattan,Korean,79.0,C
+2,nishida sho-ten,Manhattan,Ramen,73.0,C
+3,the graham,Brooklyn,Cocktail Bars; Sandwiches; Burgers,73.0,C
+4,cava,Manhattan,Mediterranean; Salad,71.0,C
+5,master wok,Brooklyn,Chinese,70.0,C
+6,the halal bros of ny,Queens,Mediterranean,67.0,C
+7,han dynasty,Manhattan,"Szechuan; Beer, Wine & Spirits",65.0,C
+8,radhuni sweets & restaurant,Brooklyn,Bangladeshi; Pakistani; Indian,65.0,C
+9,sambak sambabjip,Queens,Korean; Barbeque,65.0,C
+10,trinidad golden place,Brooklyn,Chinese; Trinidadian,63.0,C
+11,baar baar,Manhattan,Gastropubs; Indian; Cocktail Bars,62.0,C
+12,casa publica,Brooklyn,Mexican; Cocktail Bars; Breakfast & Brunch,62.0,C
+13,chairman sun,Queens,Szechuan; Dim Sum; Seafood,61.0,C
+14,corthaiyou,Brooklyn,Thai,61.0,C
+15,tamarind island,Queens,Caribbean; Indian,60.0,C
+16,mala project,Manhattan,Dim Sum; Szechuan,59.0,C
+17,rosa's pizza,Brooklyn,Pizza; Italian,59.0,C
+18,blazin chicken & gyro,Bronx,Chicken Shop; Mediterranean,59.0,C
+19,rintintin,Manhattan,Mediterranean,56.0,C
+20,taqueria coatzingo,Queens,Mexican,56.0,C
+21,teriyaki r us,Queens,Seafood; Noodles; Ramen,56.0,C
+22,sen sakana,Manhattan,Japanese; Peruvian; Kosher,55.0,C
+23,adoro lei,Manhattan,Italian; Pizza; Lounges,55.0,C
+24,izakaya fuku,Queens,Japanese,53.0,C
+25,stamatis restaurant,Queens,Greek; Mediterranean,53.0,C
+26,hainan chicken house,Brooklyn,Hainan; Malaysian,53.0,C
+27,ruma's kitchen,Queens,Indian; Bangladeshi; Breakfast & Brunch,53.0,C
+28,el gallo negro,Queens,Mexican; Breakfast & Brunch; Cocktail Bars,52.0,C
+29,nana thai street,Manhattan,Thai,51.0,C
+30,the greek kitchen,Manhattan,Greek; Mediterranean,51.0,C
+31,mezeh,Manhattan,Mediterranean; Salad; Halal,51.0,C
+32,bravo african restaurant,Bronx,Senegalese,51.0,C
+33,long acre tavern,Manhattan,Sports Bars; Pubs; Burgers,50.0,C
+34,la palina restaurant,Brooklyn,Italian,50.0,C
+35,mr. sun,Manhattan,Dim Sum; Seafood,49.0,C
+36,punjabi dhaba catering & sweets,Queens,Caterers; Indian,48.0,C
+37,zutto japanese american pub,Manhattan,Sushi Bars; Ramen; Cocktail Bars,47.0,C
+38,forever thai,Brooklyn,Thai,47.0,C
+39,the kati roll company,Manhattan,Indian; Halal,47.0,C
+40,profit chinese restaurant,Manhattan,Chinese,47.0,C
+41,zurutto ramen & gyoza bar,Manhattan,Ramen,46.0,C
+42,angaar,Manhattan,Indian,46.0,C
+43,nora thai,Brooklyn,Thai; Lounges; Noodles,46.0,C
+44,sushi on me,Queens,Japanese; Sushi Bars; Speakeasies,46.0,C
+45,sakana sushi & hibachi steakhouse,Staten Island,Sushi Bars; Steakhouses,46.0,C
+46,pita pan,Queens,Food Delivery Services; Mediterranean,46.0,C
+47,tikka indian grill,Brooklyn,Indian; Halal,45.0,C
+48,tulcingo restaurant,Queens,Mexican,45.0,C
+49,honey's thai pavilion,Bronx,Thai; Noodles; Beer Bar,45.0,C
+50,kailash parbat,Manhattan,Indian; Vegetarian,44.0,C
+51,shiawase,Brooklyn,Chinese; Japanese; Sushi Bars,44.0,C
+52,66s fusion,Brooklyn,Sushi Bars; Japanese; Buffets,44.0,C
+53,kennedy fried chicken,Brooklyn,Chicken Wings; Seafood; Pizza,44.0,C
+54,tosokchon nyc,Manhattan,Asian Fusion; Korean,43.0,C
+55,sofra mediterranean grill,Queens,Mediterranean; Turkish; Halal,43.0,C
+56,tlaxcalita la bella,Queens,Mexican,43.0,C
+57,ziggle,Queens,Korean,43.0,C
+58,handsome rice,Manhattan,Korean; Burgers,42.0,C
+59,taqueria restaurante mi barrio,Brooklyn,Mexican,42.0,C
+60,750 myrtle diner,Brooklyn,Tapas Bars; Izakaya,42.0,C
+61,to date japanese food,Brooklyn,Japanese; Sushi Bars,42.0,C
+62,star of siam thai kitchen,Queens,Thai,42.0,C
+63,indian express,Manhattan,Indian,42.0,C
+64,rowdy rooster,Manhattan,Indian; Chicken Shop,41.0,C
+65,mughlai indian cuisine,Manhattan,Indian,41.0,C
+66,halal munchies,Queens,Fast Food; Mediterranean; Halal,41.0,C
+67,longhorn steakhouse,Queens,Steakhouses; American; Barbeque,41.0,C
+68,havana social,Manhattan,Cuban; Mexican; Cocktail Bars,41.0,C
+69,mexicue,Manhattan,Mexican,40.0,C
+70,khao kang,Queens,Thai,40.0,C
+71,doaba deli,Manhattan,Indian; Pakistani; Bangladeshi,40.0,C
+72,taqueria milear,Brooklyn,Mexican,40.0,C
+73,xcellent soul food,Brooklyn,Soul Food; Seafood,40.0,C
+74,azalea,Manhattan,Italian; Wine Bars; Cocktail Bars,39.0,C
+75,caffe buon gusto,Manhattan,Italian,39.0,C
+76,dos caminos,Manhattan,Tacos; Steakhouses; Tex-Mex,39.0,C
+77,spy c cuisine,Queens,Chinese,39.0,C
+78,flower brook mifen house,Queens,Chinese; Noodles; Soup,39.0,C
+79,bamboo ya,Queens,Sushi Bars; Japanese; Salad,39.0,C
+80,chick it out,Queens,Thai; Hainan; Fast Food,38.0,C
+81,loi estiatorio,Manhattan,Greek; Mediterranean,38.0,C
+82,king souvlaki,Brooklyn,Greek; Food Trucks,38.0,C
+83,bed stuy fish fry,Brooklyn,Soul Food; Seafood,38.0,C
+84,khalil biryani house,Queens,Indian; Bangladeshi; Halal,38.0,C
+85,sofia's taqueria,Staten Island,Mexican; Empanadas; Cocktail Bars,38.0,C
+86,bunnan,Brooklyn,Haitian; Sandwiches; New American,38.0,C
+87,hello bangladesh,Queens,Bangladeshi; Halal; Indian,37.0,C
+88,hole in the wall,Manhattan,Coffee & Tea; Breakfast & Brunch; Cocktail Bars,37.0,C
+89,gmc temaxcal deli & grocery,Brooklyn,Mexican; Grocery; Delis,37.0,C
+90,b2j tasty pot,Queens,Comfort Food; Szechuan,37.0,C
+91,caridad restaurant,Queens,Spanish,37.0,C
+92,estrellita poblana ii,Bronx,Mexican,37.0,C
+93,las palmas restaurant,Manhattan,Mexican,37.0,C
+94,a-pou's taste,Brooklyn,Taiwanese; Noodles; Chinese,36.0,C
+95,klong,Manhattan,Thai,36.0,C
+96,pelicana chicken,Queens,Korean; Chicken Wings; Chicken Shop,36.0,C
+97,mint masala,Manhattan,Indian; Halal,36.0,C
+98,da nonna rosa,Brooklyn,Italian; Pizza; Venues & Event Spaces,36.0,C
+99,brooklyn waffle house,Brooklyn,Waffles,36.0,C
+100,zaca cafe,Brooklyn,Coffee & Tea; Breakfast & Brunch; French,36.0,C
+101,fish village,Queens,Seafood; Cantonese,36.0,C
+102,fontana famous pizza & gyro,Queens,Pizza; Greek; Burgers,36.0,C
+103,pipo's restaurant,Manhattan,Mexican,35.0,C
+104,yakiniku gen,Manhattan,Japanese; Barbeque,35.0,C
+105,bbf,Manhattan,Japanese; Cocktail Bars; Tapas Bars,35.0,C
+106,kitchen 79,Queens,Thai,35.0,C
+107,don peppe,Queens,Italian; Desserts; Seafood,35.0,C
+108,thaism,Brooklyn,Thai,35.0,C
+109,ramen spot,Brooklyn,Ramen; Noodles,35.0,C
+110,zen fusion cuisine,Queens,Thai; Japanese; Buffets,35.0,C
+111,tru astoria,Queens,Mediterranean; Cafes; Lounges,35.0,C
+112,kuu,Manhattan,Ramen; Noodles; Soup,34.0,C
+113,chipotle mexican grill,Manhattan,Mexican,34.0,C
+114,sarku japan,Queens,Japanese,34.0,C
+115,caribbean taste budz,Queens,Seafood; Breakfast & Brunch; Caribbean,34.0,C
+116,anise,Bronx,Chinese; Desserts; Seafood,34.0,C
+117,renaissance harlem,Manhattan,French; New American; Seafood,34.0,C
+118,dd soup dumpling,Manhattan,Chinese,33.0,C
+119,wu's wonton king,Manhattan,Cantonese; Seafood; Dim Sum,33.0,C
+120,thai diva cuisine,Queens,Thai,33.0,C
+121,miriam,Manhattan,Mediterranean; Cocktail Bars; Middle Eastern,33.0,C
+122,patsy's pizzeria,Queens,Pizza; Italian,33.0,C
+123,panino rustico,Brooklyn,Italian; Sandwiches; Wraps,33.0,C
+124,aroqa,Manhattan,Indian; Bars; Tapas/Small Plates,32.0,C
+125,yia yia's taverna,Brooklyn,Greek,32.0,C
+126,hook & reel cajun seafood & bar,Bronx,Seafood; Bars; Cajun/Creole,32.0,C
+127,the local,Staten Island,Bars; New American,32.0,C
+128,seeyamañana,Manhattan,Mexican; Cocktail Bars,31.0,C
+129,donburiya,Manhattan,Japanese; Seafood; Desserts,31.0,C
+130,mokbar,Manhattan,Korean,31.0,C
+131,east wind snack shop,Brooklyn,Dim Sum; Asian Fusion,31.0,C
+132,born thai,Brooklyn,Thai,31.0,C
+133,jay's quick bites,Brooklyn,Halal; Indian; American,31.0,C
+134,china cocina,Queens,Latin American; Spanish; Chinese,31.0,C
+135,kura revolving sushi bar,Queens,Sushi Bars; Conveyor Belt Sushi,31.0,C
+136,ronnie's sandwich shoppe,Staten Island,Sandwiches; Breakfast & Brunch; Burgers,31.0,C
+137,planet taco,Manhattan,Tacos,30.0,C
+138,bulbap grill,Manhattan,Korean; Asian Fusion,30.0,C
+139,snack taverna,Manhattan,Greek; Mediterranean; Tapas/Small Plates,30.0,C
+140,black iris,Brooklyn,Mediterranean,30.0,C
+141,citrico,Brooklyn,Mexican; Breakfast & Brunch; Vegan,30.0,C
+142,liu's shanghai,Brooklyn,Shanghainese,30.0,C
+143,linda azoguenita bakery & restaurant,Queens,Breakfast & Brunch; Desserts; Italian,30.0,C
+144,greek islands,Queens,Greek; Mediterranean; Seafood,30.0,C
+145,taco mahal,Manhattan,Indian; Tacos; Latin American,29.0,C
+146,niko's souvlaki,Queens,Greek,29.0,C
+147,la ruta del taco,Queens,Tacos; Salad,29.0,C
+148,secret kitchen,Queens,Cantonese,29.0,C
+149,taqueria guerrero,Bronx,Mexican,29.0,C
+150,lena's italian kitchen,Manhattan,Italian,28.0,C
+151,the best sichuan,Manhattan,Szechuan,28.0,C
+152,bua thai ramen & robata grill,Manhattan,Thai; Ramen; Vegetarian,28.0,C
+153,oh k-dog,Manhattan,Korean; Hot Dogs; Fast Food,28.0,C
+154,sahib,Manhattan,Indian,28.0,C
+155,molyvos,Manhattan,Wine Bars; Seafood; Greek,28.0,C
+156,marseille,Manhattan,French; Mediterranean; Brasseries,28.0,C
+157,camillo,Brooklyn,Italian,28.0,C
+158,iron chef house,Brooklyn,Sushi Bars; Japanese,28.0,C
+159,rolly kimbab,Queens,Korean,28.0,C
+160,dera restaurant,Queens,Indian; Pakistani; Bangladeshi,28.0,C
+161,taco bell,Manhattan,Fast Food; Mexican,28.0,C
+162,pier 76,Staten Island,Italian; Pizza,28.0,C
+163,zls bbq,Manhattan,Barbeque; Chinese,16.0,C
+164,ramen danbo,Manhattan,Ramen; Noodles,15.0,C
+165,raja sweets & fast food,Queens,Indian; Vegetarian; Coffee & Tea,14.0,C
+166,himalayan curry house,Manhattan,Indian,11.0,C
+167,tsurutontan udon noodle brasserie,Manhattan,Japanese; Noodles; Sushi Bars,10.0,C
+168,ssam,Brooklyn,Korean; Chicken Wings; Ramen,10.0,C
+169,kobeque,Manhattan,Korean; Barbeque,10.0,C
+170,di di restaurant,Brooklyn,Chinese; Tex-Mex,9.0,C
+171,vanka cafe,Brooklyn,Russian; Cafes; Mediterranean,9.0,C
+172,red panda restaurant,Queens,Himalayan/Nepalese; Indian,8.0,C
+173,sweet wonton house,Queens,Cantonese; Dim Sum,7.0,C
+174,long island dumplings,Manhattan,Chinese,4.0,C
+175,dannee thai,Brooklyn,Thai,4.0,C
+176,spice,Brooklyn,Thai; Cocktail Bars,3.0,C
+177,nur thai,Queens,Thai; Halal,2.0,C
+178,desi grill,Brooklyn,Indian,2.0,C
+179,gyro qila,Brooklyn,Greek,2.0,C
+180,happy garden,Brooklyn,Chinese,2.0,C
+181,carifesta restaurant,Queens,Halal; Caribbean,2.0,C
+182,chirping chicken,Bronx,Barbeque; Salad; Steakhouses,2.0,C
+183,golden wonton king,Queens,Cantonese,40.0,B
+184,tia julia restaurant,Queens,Mexican,33.0,B
+185,masala kitchen and lounge,Queens,Indian; Lounges,31.0,B
+186,almar,Brooklyn,Italian; Breakfast & Brunch; Cocktail Bars,27.0,B
+187,dos toros taqueria,Manhattan,Mexican,27.0,B
+188,barrio chino,Manhattan,Mexican; Bars,27.0,B
+189,calaveras corner,Manhattan,Mexican; Bars,27.0,B
+190,taqueria santa fe,Queens,Mexican,27.0,B
+191,3 times,Manhattan,Dim Sum; Shanghainese; Noodles,27.0,B
+192,ji bei chuan,Manhattan,Chinese; Noodles,27.0,B
+193,mikado,Queens,Sushi Bars; Japanese; Soup,27.0,B
+194,naruto ramen,Manhattan,Ramen,27.0,B
+195,amber,Manhattan,Japanese; Sushi Bars; Pan Asian,27.0,B
+196,obao,Manhattan,Vietnamese; Thai; Asian Fusion,27.0,B
+197,khao nom,Queens,Desserts; Thai,27.0,B
+198,osamil,Manhattan,Korean; Gastropubs; Tapas/Small Plates,27.0,B
+199,rice kitchen,Manhattan,Korean; Asian Fusion,27.0,B
+200,bread & butter,Manhattan,Japanese; Breakfast & Brunch; Korean,27.0,B
+201,angel indian restaurant,Queens,Indian; Vegetarian,27.0,B
+202,desi galli,Manhattan,Indian,27.0,B
+203,bustan,Manhattan,Mediterranean; Middle Eastern,27.0,B
+204,fornino,Brooklyn,Italian; Pizza,27.0,B
+205,graziella's,Brooklyn,Italian; Pizza; Bars,27.0,B
+206,maestro pasta,Manhattan,Italian,27.0,B
+207,kimchi grill,Brooklyn,Korean; Barbeque; Tacos,27.0,B
+208,b'klyn burro,Brooklyn,Mexican,27.0,B
+209,tacos el dorado,Brooklyn,Mexican,27.0,B
+210,zen vegetarian house,Brooklyn,Vegetarian; Chinese; Sandwiches,27.0,B
+211,sushi tokyo,Brooklyn,Japanese; Sushi Bars; Kosher,27.0,B
+212,cafe lily,Brooklyn,Russian; Korean; Uzbek,27.0,B
+213,trini breakfast shed ii,Brooklyn,Caribbean; Pakistani; Indian,27.0,B
+214,el mariachi restaurant,Queens,Mexican,27.0,B
+215,coco hotpot,Queens,Hot Pot; Chinese; Asian Fusion,27.0,B
+216,akino,Queens,Sushi Bars; Japanese,27.0,B
+217,fansway teriyaki & sushi kitchen,Queens,Japanese; Fast Food,27.0,B
+218,pocha pocha,Queens,Korean,27.0,B
+219,joong koog jip,Queens,Korean; Chinese,27.0,B
+220,taste of punjab,Queens,Indian,27.0,B
+221,island foodie,Queens,Seafood; Chicken Wings; American,27.0,B
+222,circulo espanol,Queens,Spanish,27.0,B
+223,don pollo,Queens,Peruvian,27.0,B
+224,taqueria el cebollin,Bronx,Mexican; Food Trucks,27.0,B
+225,mayas snack bar,Brooklyn,Ice Cream & Frozen Yogurt; Mexican; Desserts,27.0,B
+226,king's wok,Brooklyn,Chinese,27.0,B
+227,new china,Brooklyn,Chinese,27.0,B
+228,hook & catch cajun seafood,Bronx,Seafood; Cajun/Creole; Fast Food,27.0,B
+229,cachapas y mas,Manhattan,Venezuelan; Sandwiches; Empanadas,27.0,B
+230,dough by licastri,Staten Island,Pizza; Bars; Italian,27.0,B
+231,the pizza parlor,Staten Island,Pizza; American; Italian,27.0,B
+232,fusion kitchen,Staten Island,Chinese; Czech,27.0,B
+233,rice pie,Brooklyn,Chinese; Coffee & Tea; Desserts,27.0,B
+234,mountain fusion,Staten Island,Sushi Bars; Bars; Ramen,27.0,B
+235,lacey's bridge tavern,Staten Island,Breakfast & Brunch; American; Seafood,27.0,B
+236,nathan's famous,Brooklyn,Hot Dogs; Seafood; Burgers,27.0,B
+237,nino's 46,Manhattan,Italian; Gluten-Free; Pizza,26.0,B
+238,dante west village,Manhattan,Cocktail Bars; Italian; Breakfast & Brunch,26.0,B
+239,szechuan mountain house,Queens,Szechuan,26.0,B
+240,som bo,Manhattan,Asian Fusion; Korean; Chinese,26.0,B
+241,nami nori,Manhattan,Sushi Bars; Japanese; Gluten-Free,26.0,B
+242,sushi ginza,Manhattan,Japanese,26.0,B
+243,mitr thai,Manhattan,Thai,26.0,B
+244,fresh curry,Manhattan,Indian; Pakistani; Bangladeshi,26.0,B
+245,spice & grill,Brooklyn,Indian; Himalayan/Nepalese; Seafood,26.0,B
+246,taboonette,Manhattan,Mediterranean; Middle Eastern; New American,26.0,B
+247,ogliastro,Brooklyn,Pizza; Italian,26.0,B
+248,joe's restaurant,Queens,Italian,26.0,B
+249,grand canyon restaurant,Brooklyn,American; Mexican; Diners,26.0,B
+250,laghman express,Brooklyn,Halal; Chinese; Noodles,26.0,B
+251,simon's bbq ii,Brooklyn,Chinese; Barbeque,26.0,B
+252,new joy garden,Brooklyn,Chinese,26.0,B
+253,teriyaki one,Bronx,Japanese; Sushi Bars,26.0,B
+254,appethaize,Manhattan,Thai,26.0,B
+255,taim,Manhattan,Mediterranean; Coffee & Tea; Breakfast & Brunch,26.0,B
+256,jing fu house,Queens,Chinese,26.0,B
+257,nippon cha,Brooklyn,Japanese; Coffee & Tea; Sushi Bars,26.0,B
+258,ghoroa restaurant,Brooklyn,Indian; Pakistani; Bangladeshi,26.0,B
+259,cheburechnaya,Queens,Kosher; Russian; Uzbek,26.0,B
+260,nora pizza,Bronx,Pizza; Italian,26.0,B
+261,tacos el torito versatile,Bronx,Mexican,26.0,B
+262,merry land buffet,Bronx,Chinese,26.0,B
+263,el valle restaurant,Bronx,New American,26.0,B
+264,jimbo's hamburger palace,Bronx,Burgers,26.0,B
+265,gyro king,Bronx,Pizza; Sandwiches; Greek,26.0,B
+266,americano cafe,Staten Island,Coffee & Tea; Cafes,26.0,B
+267,kabab town,Manhattan,Mediterranean,26.0,B
+268,aiyara thai,Manhattan,Thai; Noodles; Salad,25.0,B
+269,little grenjai,Brooklyn,Thai; Salad; Burgers,25.0,B
+270,dhamaka,Manhattan,Indian,25.0,B
+271,tozton,Queens,Peruvian; Venezuelan; Seafood,25.0,B
+272,entwine,Manhattan,Mediterranean; Cocktail Bars; Venues & Event Spaces,25.0,B
+273,taste of china,Staten Island,Chinese,25.0,B
+274,udom thai,Brooklyn,Thai; Cocktail Bars; Beer Bar,25.0,B
+275,claw daddy's,Manhattan,Cajun/Creole; Seafood,25.0,B
+276,kalye bistro,Queens,Filipino; Comfort Food; Seafood,25.0,B
+277,creme cuisine,Brooklyn,Seafood,25.0,B
+278,the legend cafe house,Brooklyn,Juice Bars & Smoothies; Portuguese; Sandwiches,25.0,B
+279,tibetan japanese restaurant,Queens,Japanese; Himalayan/Nepalese; Sushi Bars,25.0,B
+280,lucky dhaba,Queens,Indian; Vegetarian,25.0,B
+281,la kuchara,Queens,Latin American; Bars; Seafood,25.0,B
+282,la villa restaurant,Bronx,Mexican; Seafood; Breakfast & Brunch,25.0,B
+283,allen restaurant,Bronx,Mexican; Sandwiches; Latin American,25.0,B
+284,jade garden,Queens,Chinese; Seafood,25.0,B
+285,el economico restaurant,Bronx,Latin American; Coffee & Tea; Breakfast & Brunch,25.0,B
+286,osteria del porto,Manhattan,Italian; Wine Bars,24.0,B
+287,toro loco,Manhattan,Cocktail Bars; Mexican; Breakfast & Brunch,24.0,B
+288,mala kitchen,Manhattan,Chinese,24.0,B
+289,sing nyc,Manhattan,Chinese; Hong Kong Style Cafe; Noodles,24.0,B
+290,takumen,Queens,Coffee & Tea; Izakaya; Ramen,24.0,B
+291,hungry bird,Bronx,Indian,24.0,B
+292,the spaniard,Manhattan,New American; Whiskey Bars; Gastropubs,24.0,B
+293,vernon grille,Queens,Greek; Mediterranean; Sandwiches,24.0,B
+294,ten japanese cuisine,Brooklyn,Japanese; Sushi Bars; Soup,24.0,B
+295,bangkok degree,Brooklyn,Thai,24.0,B
+296,come on thai cuisine,Brooklyn,Thai; Desserts; Salad,24.0,B
+297,bombay masala indian dining,Brooklyn,Indian,24.0,B
+298,brooklyn crab,Brooklyn,Seafood; Bars; Live/Raw Food,24.0,B
+299,purbird,Brooklyn,New American; Chicken Shop,24.0,B
+300,holy pita,Brooklyn,Middle Eastern; Falafel; Beer Bar,24.0,B
+301,zula,Brooklyn,Mediterranean,24.0,B
+302,brothers ravioli,Queens,Italian,24.0,B
+303,lao fu zhou,Queens,Chinese,24.0,B
+304,canton manor,Queens,Chinese; Seafood,24.0,B
+305,sake kawa,Queens,Sushi Bars; Ramen,24.0,B
+306,masala box,Queens,Indian,24.0,B
+307,emilia's restaurant,Bronx,Italian,24.0,B
+308,hong kong kei one,Staten Island,Asian Fusion; Chinese; Bubble Tea,24.0,B
+309,casa limone,Manhattan,Italian; Mediterranean,23.0,B
+310,supper,Manhattan,Italian; Desserts; Wine Bars,23.0,B
+311,via quadronno,Manhattan,Sandwiches; Italian,23.0,B
+312,tacombi,Brooklyn,Mexican,23.0,B
+313,hot peppers,Queens,Mexican,23.0,B
+314,red poke,Manhattan,Poke; Korean; Japanese,23.0,B
+315,herbs thai bistro,Manhattan,Thai,23.0,B
+316,thai peppercorn,Manhattan,Thai,23.0,B
+317,bombay grill house,Manhattan,Indian,23.0,B
+318,super rice,Brooklyn,Chinese,23.0,B
+319,trad room,Brooklyn,Japanese; Sushi Bars; Cocktail Bars,23.0,B
+320,kyuramen,Queens,Desserts; Burgers; Ramen,23.0,B
+321,chawlas 2,Queens,Indian,23.0,B
+322,howong seafood restaurant,Brooklyn,Seafood,23.0,B
+323,brooklyn suya,Brooklyn,African; Fast Food,23.0,B
+324,simply greek,Brooklyn,Greek,23.0,B
+325,oasis,Brooklyn,Middle Eastern; Falafel; Halal,23.0,B
+326,charlie's place,Manhattan,Sushi Bars; Japanese; Noodles,23.0,B
+327,enthaice thai kitchen,Queens,Thai; Seafood,23.0,B
+328,sodam,Queens,Korean,23.0,B
+329,sagar restaurant,Queens,Indian; Pakistani; Bangladeshi,23.0,B
+330,pokeworks,Manhattan,Poke; Salad; Seafood,23.0,B
+331,neir's tavern,Queens,Bars; American,23.0,B
+332,tu casa restaurant,Queens,Peruvian; Latin American,23.0,B
+333,tulcingo cafe,Bronx,Mexican,23.0,B
+334,blanquita restaurant,Bronx,Spanish; Dominican; Mexican,23.0,B
+335,hong kong kitchen,Bronx,Chinese,23.0,B
+336,thai cuisine,Bronx,Thai,23.0,B
+337,malecon restaurant,Bronx,Caribbean; Steakhouses; Seafood,23.0,B
+338,an beal bocht cafe,Bronx,Irish; Pubs,23.0,B
+339,dante,Manhattan,Cocktail Bars; Italian; Breakfast & Brunch,22.0,B
+340,roberta's,Brooklyn,Pizza; Italian,22.0,B
+341,soledad,Manhattan,Mexican,22.0,B
+342,maisonetta,Bronx,French; Mexican,22.0,B
+343,345 cantina,Manhattan,Mexican; Cocktail Bars; Breakfast & Brunch,22.0,B
+344,flor de mayo,Manhattan,Chinese; Cuban; Peruvian,22.0,B
+345,katsu-hama,Manhattan,Japanese,22.0,B
+346,jin ramen,Manhattan,Ramen,22.0,B
+347,three roosters,Manhattan,Thai; Comfort Food,22.0,B
+348,hungry bowl,Brooklyn,Thai; Salad; Food Delivery Services,22.0,B
+349,jongro bbq,Queens,Korean; Barbeque; Bars,22.0,B
+350,indian table,Brooklyn,Indian,22.0,B
+351,eggholic,Queens,Indian; Halal,22.0,B
+352,tom's restaurant,Brooklyn,Breakfast & Brunch; Greek; American,22.0,B
+353,bite,Manhattan,Sandwiches; Breakfast & Brunch; Mediterranean,22.0,B
+354,chavela's,Brooklyn,Mexican; Bars,22.0,B
+355,yummy taco brooklyn,Brooklyn,Mexican,22.0,B
+356,el mexicano restaurante & cafe,Brooklyn,Mexican; Juice Bars & Smoothies; Fast Food,22.0,B
+357,soku 1546,Brooklyn,Chinese; Sushi Bars; Cocktail Bars,22.0,B
+358,slow loris,Brooklyn,Korean; Japanese,22.0,B
+359,quick grill japan,Staten Island,Japanese; Fast Food; Sushi Bars,22.0,B
+360,juicy king crab express,Queens,Seafood; Cajun/Creole,22.0,B
+361,roka modern mediterranean,Brooklyn,Juice Bars & Smoothies; Mediterranean; Wraps,22.0,B
+362,puerto plata restaurant,Queens,Dominican; Mexican,22.0,B
+363,chef wong bistro,Queens,Cantonese; Seafood,22.0,B
+364,shanghai you garden,Queens,Shanghainese; Dim Sum; Noodles,22.0,B
+365,congee village,Manhattan,Cantonese; Desserts,22.0,B
+366,nawabari,Queens,Korean; Ramen,22.0,B
+367,el buen ambiente,Bronx,Latin American; Mexican,22.0,B
+368,lucky house,Queens,Chinese,22.0,B
+369,lash west indian & american cuisine,Bronx,Indian; Caribbean; American,22.0,B
+370,greek express,Bronx,Greek,22.0,B
+371,vegan grill,Manhattan,Falafel; Burgers; Sandwiches,22.0,B
+372,cafe luna,Staten Island,Italian; Seafood,22.0,B
+373,sofia's guac bar,Staten Island,Mexican; Bars; Food Court,22.0,B
+374,san marino ristorante,Manhattan,Italian; Wine Bars; Seafood,22.0,B
+375,forsythia,Manhattan,Italian,21.0,B
+376,carbone,Manhattan,Italian,21.0,B
+377,calle dao chelsea,Manhattan,Cuban; Chinese; Asian Fusion,21.0,B
+378,dim sum palace,Manhattan,Dim Sum; Seafood; Cantonese,21.0,B
+379,tipsy shanghai,Manhattan,Chinese; Noodles,21.0,B
+380,oh dumplings,Brooklyn,Chinese; Noodles,21.0,B
+381,hi-collar,Manhattan,Japanese; Coffee & Tea; Bars,21.0,B
+382,zabb putawn,Manhattan,Thai,21.0,B
+383,mad for chicken,Manhattan,Korean; Chicken Wings; Gastropubs,21.0,B
+384,spice mantra,Manhattan,Indian,21.0,B
+385,moti mahal delux,Manhattan,Indian,21.0,B
+386,the folly,Manhattan,Seafood; Gastropubs,21.0,B
+387,mama mia 44 sw,Manhattan,Pizza; Seafood; Italian,21.0,B
+388,jack's wife freda,Manhattan,Breakfast & Brunch; Mediterranean; New American,21.0,B
+389,fazio's,Brooklyn,Pizza; Italian,21.0,B
+390,cruz del sur,Brooklyn,Tacos; Cocktail Bars,21.0,B
+391,yixin restaurant,Brooklyn,Cantonese,21.0,B
+392,indian kitchen,Brooklyn,Indian,21.0,B
+393,singh's roti shop & bar,Queens,Bars; Indian; Trinidadian,21.0,B
+394,hainan,Queens,Chinese; Korean; Noodles,21.0,B
+395,san aroy thai kitchen,Queens,Thai,21.0,B
+396,gulshan terrace,Queens,Indian; Bangladeshi,21.0,B
+397,desi junction,Queens,Indian,21.0,B
+398,the oasis cafe,Queens,Desserts; Bakeries; Breakfast & Brunch,21.0,B
+399,to steki,Queens,Greek; Mediterranean,21.0,B
+400,cantina taqueria & tequila bar,Manhattan,Cocktail Bars; Mexican; Latin American,21.0,B
+401,marisco centro,Manhattan,Spanish; Bars; Seafood,21.0,B
+402,shamrock inn,Bronx,New American; Bars,21.0,B
+403,375 chicken n fries,Manhattan,Barbeque; Chicken Wings; Waffles,21.0,B
+404,boon thai,Brooklyn,Thai; Noodles; Soup,21.0,B
+405,shanghai time,Manhattan,Shanghainese,20.0,B
+406,dashi okume,Brooklyn,Japanese,20.0,B
+407,torien,Manhattan,Japanese,20.0,B
+408,le thai,Queens,Thai; Juice Bars & Smoothies; Soup,20.0,B
+409,let's meat,Manhattan,Korean; Barbeque; Buffets,20.0,B
+410,boka,Manhattan,Korean,20.0,B
+411,india palace,Manhattan,Indian; Whiskey Bars; Cocktail Bars,20.0,B
+412,el greco,Manhattan,Greek,20.0,B
+413,zatar,Brooklyn,Middle Eastern; Falafel; New American,20.0,B
+414,brooklyn pizza crew,Brooklyn,Pizza; Italian,20.0,B
+415,duck wong,Brooklyn,Cantonese; Noodles; Asian Fusion,20.0,B
+416,chef quang guyanese chinese express,Brooklyn,Caribbean; Chinese,20.0,B
+417,thai me,Brooklyn,Thai; Cocktail Bars; Asian Fusion,20.0,B
+418,edo asian fusion,Brooklyn,Japanese; Chinese; Thai,20.0,B
+419,lore,Brooklyn,Indian; Salad; Cocktail Bars,20.0,B
+420,popeyes louisiana kitchen,Bronx,Chicken Wings; Seafood; Fast Food,20.0,B
+421,choice market bar and restaurant,Brooklyn,Breakfast & Brunch; Coffee Roasteries,20.0,B
+422,golda,Brooklyn,Breakfast & Brunch; Middle Eastern; Mediterranean,20.0,B
+423,the juicy box,Brooklyn,Bars; Juice Bars & Smoothies; Burgers,20.0,B
+424,estuary,Brooklyn,Bakeries; Breakfast & Brunch; Cocktail Bars,20.0,B
+425,momo's mediterranean grill,Brooklyn,Mediterranean,20.0,B
+426,porto salvo,Bronx,Italian; Wine Bars; Cocktail Bars,20.0,B
+427,ya valio,Queens,Mexican; Juice Bars & Smoothies; Chicken Wings,20.0,B
+428,takesushi,Queens,Japanese; Sushi Bars,20.0,B
+429,dosa hutt,Queens,Indian; Vegetarian,20.0,B
+430,aa chinese restaurant,Bronx,Chinese,20.0,B
+431,888 hudson thai,Manhattan,Thai,20.0,B
+432,niukee shumai,Manhattan,Dim Sum,20.0,B
+433,café hestia,Manhattan,Sandwiches; Salad; Korean,20.0,B
+434,phil-am kusina,Staten Island,Filipino,20.0,B
+435,mercato,Manhattan,Italian; Cocktail Bars; Desserts,19.0,B
+436,er hotpot,Manhattan,Hot Pot; Chinese,19.0,B
+437,tabata,Manhattan,Japanese; Bars,19.0,B
+438,kati shop,Manhattan,Thai; Gluten-Free,19.0,B
+439,chu ros thai,Manhattan,Thai; Asian Fusion; Desserts,19.0,B
+440,kaew jao jorm,Brooklyn,Thai,19.0,B
+441,sathi,Manhattan,Indian; Himalayan/Nepalese,19.0,B
+442,karahi indian cuisine,Manhattan,Indian,19.0,B
+443,ananda,Manhattan,Indian; Vegetarian; Kosher,19.0,B
+444,earl's beer & cheese,Manhattan,Bars; Comfort Food,19.0,B
+445,lola taverna,Manhattan,Greek; Cocktail Bars,19.0,B
+446,olea,Brooklyn,Tapas Bars; Breakfast & Brunch; Mediterranean,19.0,B
+447,dill & parsley,Manhattan,Mediterranean; Vegetarian; Gluten-Free,19.0,B
+448,dino,Brooklyn,Italian,19.0,B
+449,taqueria el patron,Queens,Mexican,19.0,B
+450,las margaritas,Brooklyn,Seafood; Mexican; Cocktail Bars,19.0,B
+451,yum bao,Brooklyn,Chinese; Noodles,19.0,B
+452,the nuaa table,Brooklyn,Thai,19.0,B
+453,to be thai,Brooklyn,Thai,19.0,B
+454,yaad man thing,Brooklyn,Food Trucks; Smokehouse; Seafood,19.0,B
+455,chuzo culture,Brooklyn,Chicken Wings; Latin American; Sports Bars,19.0,B
+456,newtown,Brooklyn,Vegetarian; Falafel,19.0,B
+457,qdoba mexican eats,Staten Island,Mexican; Fast Food,19.0,B
+458,juqi,Queens,Chinese,19.0,B
+459,gao's crab & kabob,Queens,Chinese; Barbeque; Seafood,19.0,B
+460,yin ji chang fen,Manhattan,Chinese,19.0,B
+461,may chun garden,Queens,Chinese,19.0,B
+462,tea cup cafe,Queens,Thai; Bubble Tea; Noodles,19.0,B
+463,dosa delight,Queens,Indian; Vegetarian; Vegan,19.0,B
+464,taco inn,Manhattan,Mexican,19.0,B
+465,kuttanadan indian restaurant,Queens,Indian; Seafood,19.0,B
+466,farmers restaurant,Brooklyn,Chinese,19.0,B
+467,forest thai cuisine,Staten Island,Thai,19.0,B
+468,mr week,Staten Island,Mediterranean; American; Coffee & Tea,19.0,B
+469,briciola,Manhattan,Italian; Wine Bars; Tapas Bars,18.0,B
+470,rosa mexicano,Manhattan,Mexican,18.0,B
+471,la esquina,Manhattan,Mexican,18.0,B
+472,san jose restaurant,Bronx,Mexican; Sandwiches,18.0,B
+473,atlas kitchen,Manhattan,Chinese,18.0,B
+474,pocha 32,Manhattan,Bars; Korean; Gastropubs,18.0,B
+475,semma,Manhattan,Indian; Wine Bars; Cocktail Bars,18.0,B
+476,bombay bistro,Manhattan,Indian; Cocktail Bars,18.0,B
+477,leroy's,Brooklyn,Cocktail Bars; Seafood,18.0,B
+478,ammos estiatorio,Manhattan,Greek; Seafood,18.0,B
+479,jin feng yuan,Brooklyn,Chinese,18.0,B
+480,wasan brooklyn,Brooklyn,Japanese,18.0,B
+481,stang thai,Brooklyn,Thai; Vietnamese; Sandwiches,18.0,B
+482,la casa de julia,Queens,Tacos; Sports Bars,18.0,B
+483,ittadi garden & grill,Queens,Indian; Bangladeshi,18.0,B
+484,godwin coffee & tex-mex eats,Bronx,Coffee & Tea; Breakfast & Brunch; Mexican,18.0,B
+485,last stop bar & grill,Bronx,Cocktail Bars; Seafood; Caribbean,18.0,B
+486,seppe pizza bar,Staten Island,Pizza; Cocktail Bars; Italian,18.0,B
+487,pizzarte,Manhattan,Pizza; Italian; Gluten-Free,17.0,B
+488,la masseria,Manhattan,Italian,17.0,B
+489,tacovision,Manhattan,Tacos; Tapas/Small Plates; Cocktail Bars,17.0,B
+490,dim sum chelsea,Manhattan,Dim Sum; Szechuan,17.0,B
+491,milu,Manhattan,Chinese,17.0,B
+492,hupo,Queens,Szechuan; Dim Sum; Cocktail Bars,17.0,B
+493,phoshime,Manhattan,Asian Fusion; Japanese; Vietnamese,17.0,B
+494,thai delight,Manhattan,Thai,17.0,B
+495,kpot korean bbq & hot pot,Brooklyn,Korean; Barbeque; Hot Pot,17.0,B
+496,nostrand cafe,Brooklyn,Korean; Breakfast & Brunch; Coffee Roasteries,17.0,B
+497,wok in the clouds,Manhattan,Asian Fusion; Indian,17.0,B
+498,colonia verde,Brooklyn,Latin American,17.0,B
+499,il passatore,Brooklyn,Italian,17.0,B
+500,guac time,Manhattan,Mexican,17.0,B
+501,uncle ng's recipe,Brooklyn,Chinese; Barbeque; Breakfast & Brunch,17.0,B
+502,fortune house,Brooklyn,Chinese; Thai,17.0,B
+503,blazze seafood & chicken,Brooklyn,Seafood,17.0,B
+504,king of the sea,Brooklyn,Seafood; Cocktail Bars,17.0,B
+505,rondel,Brooklyn,Ukrainian; Salad; Seafood,17.0,B
+506,bogota latin bistro,Brooklyn,Bars; Gluten-Free; Colombian,17.0,B
+507,la chacra,Brooklyn,Peruvian,17.0,B
+508,awang kitchen,Queens,Indonesian,17.0,B
+509,jolly tinker,Bronx,Bars; American; Seafood,17.0,B
+510,johnny's bakery,Bronx,Caribbean; Bakeries,17.0,B
+511,soba totto,Manhattan,Japanese; Salad; Bars,16.0,B
+512,fish cheeks,Manhattan,Seafood; Thai; Live/Raw Food,16.0,B
+513,masala king,Manhattan,Indian; Bars,16.0,B
+514,yara,Manhattan,Lebanese; Mediterranean; Cocktail Bars,16.0,B
+515,casa dani,Manhattan,Spanish; Mediterranean,16.0,B
+516,yozi,Brooklyn,Chinese,16.0,B
+517,heights falafel,Brooklyn,Middle Eastern; Falafel,16.0,B
+518,antonio's trattoria,Bronx,Italian; Pizza; Desserts,16.0,B
+519,lin's asian cuisine,Bronx,Chinese; Sushi Bars; Asian Fusion,16.0,B
+520,fresh tortillas,Staten Island,Japanese; Chinese; Tex-Mex,16.0,B
+521,suross thai bistro,Manhattan,Thai; Seafood; Soup,16.0,B
+522,sushi wen,Staten Island,Japanese; Sushi Bars,16.0,B
+523,chang noi thai,Staten Island,Thai,16.0,B
+524,gelso & grand,Manhattan,Italian; Pasta Shops; Pizza,15.0,B
+525,la cocina de mama,Queens,Mexican,15.0,B
+526,dimsum garden,Queens,Dim Sum,15.0,B
+527,ai ki ya,Manhattan,Ramen; Tapas/Small Plates; Sushi Bars,15.0,B
+528,raku it's japanese,Manhattan,Sushi Bars; Ramen,15.0,B
+529,koba korean bbq,Manhattan,Korean; Barbeque; Fast Food,15.0,B
+530,dhaba indian cuisine,Manhattan,Indian; Buffets,15.0,B
+531,hummus kitchen,Manhattan,Middle Eastern; Mediterranean,15.0,B
+532,pizza secret,Brooklyn,Pizza; Italian; Wine Bars,15.0,B
+533,ashoka grill,Brooklyn,Indian; Halal,15.0,B
+534,kuzina the greek kitchen,Staten Island,Greek,15.0,B
+535,toscana 49,Manhattan,Italian,14.0,B
+536,milk and roses,Brooklyn,Italian; Venues & Event Spaces; New American,14.0,B
+537,vanessa's dumpling house,Manhattan,Chinese,14.0,B
+538,yakitori totto,Manhattan,Japanese,14.0,B
+539,one two thai,Manhattan,Thai,14.0,B
+540,thip osha,Brooklyn,Thai,14.0,B
+541,turntable chicken jazz,Manhattan,Chicken Wings; Korean; Gastropubs,14.0,B
+542,gyro uno,Queens,Greek,14.0,B
+543,marlow bistro,Manhattan,Mediterranean; Pizza; Venues & Event Spaces,14.0,B
+544,for all things good,Brooklyn,Cafes; Mexican,14.0,B
+545,mama's noodle house,Brooklyn,Cantonese; Szechuan; Noodles,14.0,B
+546,kings kitchen,Brooklyn,Cantonese; Desserts,14.0,B
+547,momo ramen,Brooklyn,Ramen; Himalayan/Nepalese; Vegetarian,14.0,B
+548,shokunin bbq,Brooklyn,Japanese; Sushi Bars; Barbeque,14.0,B
+549,the crabby shack,Brooklyn,Seafood; Desserts,14.0,B
+550,lupo rosso,Queens,Pizza; Italian; Salad,14.0,B
+551,singas famous pizza,Queens,Pizza; Italian,14.0,B
+552,taco veloz,Queens,Seafood; Mexican; Sandwiches,14.0,B
+553,sushi island,Queens,Sushi Bars; Ramen,14.0,B
+554,seoul tofu,Queens,Korean,14.0,B
+555,elsa la reina del chicharron,Manhattan,Dominican; Desserts; Seafood,14.0,B
+556,ricardo steak house,Manhattan,Steakhouses; New American; Seafood,14.0,B
+557,nino's restaurant,Manhattan,Italian,14.0,B
+558,takahachi bakery,Manhattan,Bakeries; Japanese; Coffee & Tea,14.0,B
+559,gugu room,Manhattan,Izakaya; Filipino; Cocktail Bars,14.0,B
+560,jing li,Queens,Shanghainese; Cantonese; Szechuan,11.0,B
+561,atoboy,Manhattan,Korean; Tapas/Small Plates; Asian Fusion,9.0,B
+562,spanglish,Queens,Mexican; Breakfast & Brunch; Cocktail Bars,27.0,A
+563,tandoor restaurant,Queens,Indian; Buffets,22.0,A
+564,lilly's craft and kitchen,Manhattan,New American; Breakfast & Brunch; Comfort Food,18.0,A
+565,piccola cucina uptown,Manhattan,Sicilian,13.0,A
+566,osteria la baia,Manhattan,Italian; Venues & Event Spaces; Wine Bars,13.0,A
+567,osteria delbianco,Manhattan,Italian,13.0,A
+568,la pecora bianca,Manhattan,Bars; Italian; Breakfast & Brunch,13.0,A
+569,forma pasta factory,Brooklyn,Pasta Shops; Italian; Salad,13.0,A
+570,tavola,Manhattan,Italian; Pizza; Wine Bars,13.0,A
+571,norma,Manhattan,Pizza; Sicilian,13.0,A
+572,felice 56,Manhattan,Italian; Wine Bars,13.0,A
+573,tony's di napoli,Manhattan,Italian; Wine Bars; Seafood,13.0,A
+574,piccola cucina osteria,Manhattan,Italian,13.0,A
+575,a pasta bar,Manhattan,Italian; Bars,13.0,A
+576,fumo,Manhattan,Italian; Bars; Pizza,13.0,A
+577,via carota,Manhattan,Italian,13.0,A
+578,arco cafe,Manhattan,Sardinian; Pasta Shops,13.0,A
+579,spaghetti incident,Manhattan,Italian; Salad; Pasta Shops,13.0,A
+580,maiella,Queens,Italian; Seafood; Cocktail Bars,13.0,A
+581,polpette 71,Manhattan,Italian,13.0,A
+582,osteria 57,Manhattan,Italian; Seafood; Vegetarian,13.0,A
+583,the odeon,Manhattan,New American; French; Italian,13.0,A
+584,cotenna,Manhattan,Italian,13.0,A
+585,andiamo pizza,Manhattan,Pizza; Italian; Caterers,13.0,A
+586,misirizzi,Manhattan,Italian,13.0,A
+587,gran morsi,Manhattan,Italian; Venues & Event Spaces; Cocktail Bars,13.0,A
+588,osteria nando,Manhattan,Italian; Cocktail Bars; French,13.0,A
+589,felice,Manhattan,Italian,13.0,A
+590,arthur & sons ny italian,Manhattan,Italian,13.0,A
+591,mamo restaurant,Manhattan,Italian; Wine Bars; Cocktail Bars,13.0,A
+592,ainslie bowery,Manhattan,Italian; Venues & Event Spaces; Cocktail Bars,13.0,A
+593,patsy's italian restaurant,Manhattan,Italian; Southern; Wine Bars,13.0,A
+594,fossetta,Manhattan,Italian; Wine Bars,13.0,A
+595,5ive spice,Manhattan,Vietnamese; Salad; Tacos,13.0,A
+596,kahlo,Manhattan,New Mexican Cuisine; Tacos,13.0,A
+597,jajaja mexicana,Manhattan,Mexican; Bars,13.0,A
+598,pink taco,Manhattan,Tacos; Bars; Breakfast & Brunch,13.0,A
+599,anejo tribeca,Manhattan,Mexican; Tapas/Small Plates; Tapas Bars,13.0,A
+600,the maze,Manhattan,Korean; Cocktail Bars; Mexican,13.0,A
+601,summer salt,Manhattan,Tacos; New Mexican Cuisine,13.0,A
+602,la contenta oeste,Manhattan,Mexican; Breakfast & Brunch; Cocktail Bars,13.0,A
+603,casa carmen,Manhattan,Mexican; Wine Bars; Cocktail Bars,13.0,A
+604,javelina,Manhattan,Tex-Mex; Mexican; Southern,13.0,A
+605,super burrito,Brooklyn,Mexican,13.0,A
+606,taco mix,Brooklyn,Mexican,13.0,A
+607,cemitas el tigre,Queens,Mexican,13.0,A
+608,rancho tequileria,Manhattan,Mexican,13.0,A
+609,sobre masa,Brooklyn,Mexican; Cocktail Bars,13.0,A
+610,adobo mexican grill,Brooklyn,Halal; Tacos,13.0,A
+611,cafe xochimilco,Queens,Breakfast & Brunch; Cafes; Mexican,13.0,A
+612,bar bruno,Brooklyn,Bars; Mexican,13.0,A
+613,tacos y quesadillas mexico,Queens,Food Trucks; Mexican,13.0,A
+614,el gallo taqueria,Brooklyn,Mexican,13.0,A
+615,chihuahua,Queens,Mexican,13.0,A
+616,el mitote,Manhattan,Mexican; Juice Bars & Smoothies; Sandwiches,13.0,A
+617,mad dog & beans mexican cantina,Manhattan,Mexican,13.0,A
+618,taqueria diana,Manhattan,Mexican,13.0,A
+619,el coco,Manhattan,Tacos,13.0,A
+620,buena onda,Manhattan,Cocktail Bars; Mexican,13.0,A
+621,cascalote latin bistro,Manhattan,Latin American; Mexican,13.0,A
+622,din tai fung,Manhattan,Taiwanese; Shanghainese; Dim Sum,13.0,A
+623,chi restaurant & bar,Manhattan,Szechuan; Cocktail Bars,13.0,A
+624,xi'an famous foods,Manhattan,Chinese; Burgers; Noodles,13.0,A
+625,silky kitchen,Manhattan,Chinese; Salad; Noodles,13.0,A
+626,uluh,Manhattan,Tea Rooms; Asian Fusion; Szechuan,13.0,A
+627,the dolar shop,Queens,Hot Pot; Chinese,13.0,A
+628,awesum dimsum,Manhattan,Dim Sum; Cantonese,13.0,A
+629,bites of xi'an,Manhattan,Chinese; Noodles,13.0,A
+630,tang by mr sun,Manhattan,Chinese; Seafood; Cocktail Bars,13.0,A
+631,dun huang,Brooklyn,Chinese; Noodles,13.0,A
+632,joe's steam rice roll,Manhattan,Cantonese,13.0,A
+633,cozy rice,Manhattan,Dim Sum; Cantonese,13.0,A
+634,lunar,Manhattan,Chinese,13.0,A
+635,shan,Brooklyn,Cocktail Bars; Szechuan; Noodles,13.0,A
+636,shanghai villa,Manhattan,Shanghainese,13.0,A
+637,baodega,Manhattan,Dim Sum; Noodles,13.0,A
+638,for u,Manhattan,Dim Sum; Szechuan; Asian Fusion,13.0,A
+639,cheli,Queens,Shanghainese; Desserts; Soup,13.0,A
+640,noodle village,Manhattan,Chinese; Noodles,13.0,A
+641,emperor dumpling,Manhattan,Chinese,13.0,A
+642,la salle dumpling room,Manhattan,Asian Fusion; Chinese,13.0,A
+643,wu & nussbaum,Manhattan,Chinese; Noodles; Bagels,13.0,A
+644,brooklyn dumpling shop,Manhattan,Dim Sum; Asian Fusion,13.0,A
+645,tengri tagh uyghur cuisine,Queens,Chinese; Halal; Noodles,13.0,A
+646,ea dumpling,Manhattan,Chinese; Noodles; Soup,13.0,A
+647,shanghai 21,Manhattan,Shanghainese,13.0,A
+648,shaxian snacks,Brooklyn,Chinese,13.0,A
+649,raku,Manhattan,Japanese; Noodles,13.0,A
+650,kame,Manhattan,Ramen; Japanese Curry; Salad,13.0,A
+651,soba noodle azuma,Manhattan,Noodles; Izakaya,13.0,A
+652,suram,Manhattan,Sushi Bars; Ramen; Soup,13.0,A
+653,ippudo ny,Manhattan,Ramen,13.0,A
+654,kushi kushi yaki,Manhattan,Tapas/Small Plates; Izakaya; Ramen,13.0,A
+655,hibino,Brooklyn,Japanese; Sushi Bars,13.0,A
+656,udon lab,Manhattan,Noodles; Japanese; Sushi Bars,13.0,A
+657,blue ribbon sushi,Manhattan,Sushi Bars; Japanese,13.0,A
+658,nare sushi,Manhattan,Sushi Bars; Japanese; Cocktail Bars,13.0,A
+659,benemon,Manhattan,Japanese; Tapas/Small Plates; Cocktail Bars,13.0,A
+660,sip & guzzle,Manhattan,Izakaya; Cocktail Bars,13.0,A
+661,suzuki shokudo,Queens,Sushi Bars; Ramen,13.0,A
+662,maki kosaka,Manhattan,Japanese; Sushi Bars; Wine Bars,13.0,A
+663,bar moga,Manhattan,Cocktail Bars; Japanese; Salad,13.0,A
+664,kin gin,Manhattan,Japanese,13.0,A
+665,toribro ramen,Manhattan,Ramen,13.0,A
+666,bond st,Manhattan,Sushi Bars; Japanese; Seafood,13.0,A
+667,koku ramen,Manhattan,Ramen; Korean,13.0,A
+668,sushi ishikawa,Manhattan,Sushi Bars; Japanese,13.0,A
+669,thai villa,Manhattan,Thai,13.0,A
+670,soothr,Manhattan,Thai; Noodles; Cocktail Bars,13.0,A
+671,chalong,Manhattan,Thai,13.0,A
+672,malii gramercy,Manhattan,Thai,13.0,A
+673,tong,Brooklyn,Thai; Bars; Tapas/Small Plates,13.0,A
+674,ginger and lemongrass,Queens,Vietnamese; Thai; Asian Fusion,13.0,A
+675,thai food near me,Manhattan,Thai; Asian Fusion; Seafood,13.0,A
+676,tha phraya,Manhattan,Thai; Noodles; Bars,13.0,A
+677,tuk tuk,Queens,Thai,13.0,A
+678,zaab zaab,Manhattan,Thai; Seafood,13.0,A
+679,sea,Manhattan,Thai; Asian Fusion; Cocktail Bars,13.0,A
+680,glin thai bistro,Brooklyn,Thai; Asian Fusion,13.0,A
+681,plue,Manhattan,Thai; Asian Fusion; Vegan,13.0,A
+682,pye boat noodle,Queens,Thai; Noodles,13.0,A
+683,curry house,Manhattan,Malaysian; Thai,13.0,A
+684,bangkok 2 thai,Manhattan,Thai,13.0,A
+685,dock asian eatery,Brooklyn,Ramen; Thai; Asian Fusion,13.0,A
+686,krob kreung krob ros,Queens,Thai,13.0,A
+687,chai thai kitchen,Manhattan,Thai,13.0,A
+688,thank you come again,Brooklyn,Thai; Dim Sum; Asian Fusion,13.0,A
+689,williamsburg thai cuisine,Brooklyn,Thai,13.0,A
+690,tommy thai,Queens,Thai,13.0,A
+691,thai bkk,Manhattan,Thai,13.0,A
+692,spicy shallot,Queens,Thai; Japanese; Bars,13.0,A
+693,lovely day,Manhattan,Thai; Breakfast & Brunch; Irish,13.0,A
+694,thai tree,Queens,Thai,13.0,A
+695,yum yum too,Manhattan,Thai,13.0,A
+696,sticky rice,Manhattan,Thai; Cocktail Bars,13.0,A
+697,thai terminal,Manhattan,Thai,13.0,A
+698,her name is han,Manhattan,Korean; Breakfast & Brunch,13.0,A
+699,moono,Manhattan,Korean,13.0,A
+700,barn joo 35,Manhattan,Korean; Gastropubs; Tapas/Small Plates,13.0,A
+701,kjun,Manhattan,Korean; Cajun/Creole,13.0,A
+702,bcd tofu house,Manhattan,Korean,13.0,A
+703,8282,Manhattan,Korean,13.0,A
+704,ongi,Manhattan,Korean,13.0,A
+705,jua,Manhattan,Korean,13.0,A
+706,hyun,Manhattan,Korean; Barbeque; Steakhouses,13.0,A
+707,jungsik,Manhattan,Korean,13.0,A
+708,bangia,Manhattan,Korean; Gastropubs,13.0,A
+709,delicacy,Manhattan,Korean; Buffets; American,13.0,A
+710,gen korean bbq house,Manhattan,Korean; Barbeque; Asian Fusion,13.0,A
+711,nangman bbq,Manhattan,Korean; Barbeque,13.0,A
+712,little dokebi,Brooklyn,Korean,13.0,A
+713,duke eatery,Manhattan,New American; Juice Bars & Smoothies; Korean,13.0,A
+714,tofu tofu,Manhattan,Korean; Juice Bars & Smoothies; Barbeque,13.0,A
+715,yubu soho,Manhattan,Coffee & Tea; Korean,13.0,A
+716,wonder pig kbbq,Queens,Korean; Barbeque,13.0,A
+717,cote korean steakhouse,Manhattan,Korean; Steakhouses; Cocktail Bars,13.0,A
+718,reception bar,Manhattan,Cocktail Bars; Korean,13.0,A
+719,chingoo restaurant,Brooklyn,Korean,13.0,A
+720,shanghai mong,Manhattan,Korean; Chinese; Asian Fusion,13.0,A
+721,franchia vegan cafe,Manhattan,Korean; Vegan; Asian Fusion,13.0,A
+722,shingane,Manhattan,Fast Food; Korean; Desserts,13.0,A
+723,global kitchen,Manhattan,Sandwiches; Japanese; Korean,13.0,A
+724,joa kitchen,Manhattan,Korean; Coffee & Tea; Sandwiches,13.0,A
+725,bonchon,Manhattan,Korean; Chicken Wings; Asian Fusion,13.0,A
+726,rokstar chicken,Queens,Chicken Shop; Korean; Chicken Wings,13.0,A
+727,red onion,Manhattan,Vegetarian; Indian; Halal,13.0,A
+728,gazab,Manhattan,Indian,13.0,A
+729,ahimsa,Manhattan,Indian; Vegetarian; Kosher,13.0,A
+730,thelewala,Manhattan,Indian,13.0,A
+731,inday,Manhattan,Indian; Salad; Gluten-Free,13.0,A
+732,raj's indian kitchen,Queens,Indian,13.0,A
+733,chola,Manhattan,Indian; Soup; Seafood,13.0,A
+734,anar,Manhattan,Indian,13.0,A
+735,cardamom indian cuisine,Queens,Indian,13.0,A
+736,darbar grill,Manhattan,Indian; Wine Bars; Caterers,13.0,A
+737,tagmo,Manhattan,Indian; Beer Bar; Cocktail Bars,13.0,A
+738,jaz indian cuisine,Manhattan,Indian; Seafood; Bars,13.0,A
+739,chote miya,Manhattan,Indian,13.0,A
+740,adyar ananda bhavan,Manhattan,Indian; Vegetarian,13.0,A
+741,sunshine,Brooklyn,Pakistani; Indian; Bangladeshi,13.0,A
+742,manhattan indian flavor,Manhattan,Desserts; Indian,13.0,A
+743,delbianco prime,Manhattan,Steakhouses; Desserts; Seafood,13.0,A
+744,limani,Manhattan,Mediterranean; Seafood,13.0,A
+745,del frisco's grille,Manhattan,Steakhouses; New American; Seafood,13.0,A
+746,the ten bells,Manhattan,Wine Bars; Seafood,13.0,A
+747,the capital grille,Manhattan,Steakhouses; Seafood; Wine Bars,13.0,A
+748,point seven,Manhattan,Seafood; American; Cocktail Bars,13.0,A
+749,carro cafe,Brooklyn,Seafood; Lounges; Cocktail Bars,13.0,A
+750,aoc east,Manhattan,Wine Bars; French; Seafood,13.0,A
+751,meraki greek bistro,Brooklyn,"Greek; Seafood; Beer, Wine & Spirits",13.0,A
+752,estiatorio milos,Manhattan,Seafood; Greek; Mediterranean,13.0,A
+753,heidi's house by the side of the road,Manhattan,Wine Bars; Comfort Food,13.0,A
+754,smith & mills,Manhattan,Lounges; New American,13.0,A
+755,miss ada,Brooklyn,Mediterranean; Cocktail Bars,13.0,A
+756,marc forgione,Manhattan,New American,13.0,A
+757,perrine,Manhattan,New American; French,13.0,A
+758,the beast next door,Queens,New American; Tapas/Small Plates; Wine Bars,13.0,A
+759,la bonne soupe,Manhattan,French; Breakfast & Brunch,13.0,A
+760,merchants ny,Manhattan,Lounges; American,13.0,A
+761,jerk house,Manhattan,Caribbean,13.0,A
+762,fresh salt,Manhattan,Bars; New American,13.0,A
+763,rose lane,Manhattan,Lounges; Breakfast & Brunch; Cocktail Bars,13.0,A
+764,westville,Manhattan,Mediterranean,13.0,A
+765,sereneco,Brooklyn,New American; Wine Bars; Coffee & Tea,13.0,A
+766,eleni's,Manhattan,Greek,13.0,A
+767,kiki's,Manhattan,Greek; Mediterranean; Desserts,13.0,A
+768,nish nush,Manhattan,Vegetarian; Moroccan; Greek,13.0,A
+769,yasouvlaki,Manhattan,Greek; Wine Bars,13.0,A
+770,greca,Manhattan,Coffee & Tea; Lounges; Greek,13.0,A
+771,kyma,Manhattan,Greek; Mediterranean,13.0,A
+772,souvlaki gr,Manhattan,Greek,13.0,A
+773,pita yeero,Manhattan,Greek; Comfort Food,13.0,A
+774,bahari estiatorio,Queens,Greek,13.0,A
+775,stafili wine cafe,Manhattan,Wine Bars; Greek; Cafes,13.0,A
+776,aliada,Queens,Greek; Mediterranean; Seafood,13.0,A
+777,chicken feastin,Brooklyn,Chicken Shop; Greek; American,13.0,A
+778,barbounia,Manhattan,Greek; Mediterranean; Middle Eastern,13.0,A
+779,gold n honey,Queens,Desserts; Greek,13.0,A
+780,gregory's 26 corner taverna,Queens,Greek; Mediterranean,13.0,A
+781,9 jones,Manhattan,Supper Clubs; Greek; Cocktail Bars,13.0,A
+782,pita grill,Manhattan,Greek; Mediterranean; Sandwiches,13.0,A
+783,crave,Queens,Greek; Burgers; Fish & Chips,13.0,A
+784,bz grill,Queens,Greek; Mediterranean,13.0,A
+785,victory sweet shop,Queens,Bakeries; Greek,13.0,A
+786,towers cafe,Brooklyn,New American; Delis; Greek,13.0,A
+787,zizi,Manhattan,Mediterranean; Middle Eastern,13.0,A
+788,abaita,Manhattan,Mediterranean; Kosher; Pizza,13.0,A
+789,naya,Manhattan,Middle Eastern; Mediterranean,13.0,A
+790,balzem,Manhattan,Mediterranean; Tapas/Small Plates; Wine Bars,13.0,A
+791,ravagh persian grill,Manhattan,Middle Eastern; Persian/Iranian; Mediterranean,13.0,A
+792,lighthouse,Brooklyn,Wine Bars; Mediterranean; Cocktail Bars,13.0,A
+793,miznon,Manhattan,Mediterranean; Middle Eastern; Sandwiches,13.0,A
+794,omar's mediterranean cuisine,Manhattan,Mediterranean,13.0,A
+795,sami & susu,Manhattan,Mediterranean; Wine Bars,13.0,A
+796,shoo shoo nolita,Manhattan,Mediterranean,13.0,A
+797,mum feteer,Queens,Mediterranean; Egyptian,13.0,A
+798,aba turkish restaurant,Manhattan,Turkish; Mediterranean; Middle Eastern,13.0,A
+799,gazala's,Manhattan,Middle Eastern; Mediterranean,13.0,A
+800,gardenia terrace,Manhattan,Hookah Bars; Mediterranean; Wine Bars,13.0,A
+801,harissa grill,Queens,Mediterranean,13.0,A
+802,queen's room,Queens,Coffee & Tea; Cocktail Bars; Mediterranean,13.0,A
+803,aromi,Brooklyn,Italian; Pizza,13.0,A
+804,piccoli trattoria,Brooklyn,Italian; Pasta Shops; Wine Bars,13.0,A
+805,fausto,Brooklyn,Italian; Cocktail Bars,13.0,A
+806,cafe mars,Brooklyn,Italian,13.0,A
+807,brooklyn roots italian,Brooklyn,Italian; Salad; Desserts,13.0,A
+808,rosticceria evelina,Brooklyn,Italian; Pizza; Breakfast & Brunch,13.0,A
+809,pasta louise,Brooklyn,Italian; Coffee & Tea; Pasta Shops,13.0,A
+810,belli osteria,Brooklyn,Italian; Breakfast & Brunch; Burgers,13.0,A
+811,gino's brick oven pizza & trattoria,Brooklyn,Italian; Pizza; Wine Bars,13.0,A
+812,convivium osteria,Brooklyn,Italian; Wine Bars; Venues & Event Spaces,13.0,A
+813,piccante,Brooklyn,Italian,13.0,A
+814,panzerotti bites,Brooklyn,Italian,13.0,A
+815,pizza d'amore,Brooklyn,Pizza; Italian,13.0,A
+816,bar toto,Brooklyn,Italian; Bars,13.0,A
+817,da francesco,Brooklyn,Italian,13.0,A
+818,siempre,Brooklyn,Mexican,13.0,A
+819,claro,Brooklyn,Mexican; New Mexican Cuisine; Cocktail Bars,13.0,A
+820,sonora,Brooklyn,Bars; Mexican,13.0,A
+821,the steel mill,Brooklyn,Cocktail Bars; Mexican,13.0,A
+822,el nopal restaurant & juice bar,Brooklyn,Mexican; Juice Bars & Smoothies,13.0,A
+823,tacos el bronco,Brooklyn,Food Trucks; Mexican; Burgers,13.0,A
+824,cafe nube,Brooklyn,Tacos; Coffee & Tea; Breakfast & Brunch,13.0,A
+825,bushwick taco company,Brooklyn,Mexican,13.0,A
+826,mallenche mexican grill,Brooklyn,Mexican,13.0,A
+827,pronto cafe,Brooklyn,Mexican; Breakfast & Brunch; American,13.0,A
+828,el zason,Brooklyn,Mexican,13.0,A
+829,don patron bar & grill,Brooklyn,Mexican,13.0,A
+830,la taqueria,Brooklyn,Tacos,13.0,A
+831,el tenampa,Queens,Mexican; Salad; Soup,13.0,A
+832,xochitl taqueria,Brooklyn,Mexican,13.0,A
+833,bk seafood market,Brooklyn,Cantonese; Seafood,13.0,A
+834,petite dumpling,Brooklyn,Dim Sum; Noodles; Tapas/Small Plates,13.0,A
+835,like cafe,Brooklyn,Breakfast & Brunch; Cantonese; Hong Kong Style Cafe,13.0,A
+836,ji bei chuan authentic asian noodles,Brooklyn,Noodles; Chinese; Soup,13.0,A
+837,the rogue panda,Brooklyn,Chinese; Vegan; Vegetarian,13.0,A
+838,jj kitchen,Brooklyn,Chinese,13.0,A
+839,wu la bu huan,Brooklyn,Chinese,13.0,A
+840,jin jin hong kong cafe,Brooklyn,Chinese; Hong Kong Style Cafe; Sushi Bars,13.0,A
+841,red bowl,Brooklyn,Cantonese; Szechuan; Seafood,13.0,A
+842,prime avenue,Brooklyn,Chinese; Kosher,13.0,A
+843,golden palace,Bronx,Dim Sum; Seafood,13.0,A
+844,funny bbq,Manhattan,Barbeque; Chinese,13.0,A
+845,bamboo seafood restaurant,Brooklyn,Cantonese; Seafood,13.0,A
+846,chowtime,Brooklyn,Vietnamese; Bubble Tea; Chinese,13.0,A
+847,asia harbor,Brooklyn,Chinese; Asian Fusion; Sushi Bars,13.0,A
+848,ozakaya,Brooklyn,Izakaya; Sushi Bars,13.0,A
+849,muteki udon,Brooklyn,Japanese,13.0,A
+850,izakaya tenzo,Brooklyn,Salad; Japanese; Tapas/Small Plates,13.0,A
+851,suzume,Brooklyn,Ramen; Hawaiian; Asian Fusion,13.0,A
+852,nana ramen,Brooklyn,Ramen; Noodles; Soup,13.0,A
+853,karazishi botan,Brooklyn,Ramen,13.0,A
+854,bushniwa,Brooklyn,Japanese; Sushi Bars; Asian Fusion,13.0,A
+855,shalom japan,Brooklyn,Japanese,13.0,A
+856,u-gu,Brooklyn,Sushi Bars; Japanese,13.0,A
+857,enso,Brooklyn,Japanese; Cocktail Bars,13.0,A
+858,ippudo,Manhattan,Ramen,13.0,A
+859,izakaya ajimi,Brooklyn,Izakaya; Ramen,13.0,A
+860,kuma nyc,Brooklyn,Poke; Asian Fusion; Ramen,13.0,A
+861,ninja japan teriyaki & sushi,Brooklyn,Japanese,13.0,A
+862,sushi yashin,Brooklyn,Japanese; Sushi Bars,13.0,A
+863,le chai,Brooklyn,Thai; Asian Fusion; Steakhouses,13.0,A
+864,amy thai bistro,Brooklyn,Thai,13.0,A
+865,am thai bistro,Brooklyn,Thai,13.0,A
+866,bangkok bar,Brooklyn,Thai; Noodles; Bars,13.0,A
+867,beds thai,Brooklyn,Thai; Noodles,13.0,A
+868,ricepot thai cookhouse,Brooklyn,Thai; Food Delivery Services; Noodles,13.0,A
+869,huge thai,Brooklyn,Thai,13.0,A
+870,uni thai bistro,Brooklyn,Thai,13.0,A
+871,golden thai,Brooklyn,Thai,13.0,A
+872,mr wonton,Queens,Chinese; Asian Fusion; Thai,13.0,A
+873,sweet basil,Brooklyn,Thai,13.0,A
+874,cafe chili,Brooklyn,Thai; Cafes; Asian Fusion,13.0,A
+875,yummy thai,Manhattan,Thai; Chinese,13.0,A
+876,insa,Brooklyn,Korean; Barbeque; Karaoke,13.0,A
+877,pier 53 coffee & sandwich shop,Brooklyn,American; Korean; Burgers,13.0,A
+878,hunny,Bronx,Korean,13.0,A
+879,tandoori masala,Brooklyn,Indian,13.0,A
+880,king of tandoor,Brooklyn,Indian; Halal,13.0,A
+881,diwali indian cuisine,Brooklyn,Indian; Venues & Event Spaces,13.0,A
+882,punjabi kabab and gyro,Queens,Indian; Pakistani; Greek,13.0,A
+883,mayoor indian bistro,Brooklyn,Indian,13.0,A
+884,kanan indian restaurant,Brooklyn,Indian; Vegan,13.0,A
+885,bombay heights,Brooklyn,Indian,13.0,A
+886,masala grill,Brooklyn,Indian,13.0,A
+887,sher e punjab gyro & grill,Queens,Indian; Middle Eastern; Halal,13.0,A
+888,london tandoori,Brooklyn,Indian,13.0,A
+889,curry roti box,Queens,Caribbean; Indian,13.0,A
+890,curry leaf indian cuisine,Brooklyn,Indian,13.0,A
+891,delhi heights,Queens,Food Delivery Services; Indian,13.0,A
+892,apna pind,Queens,Indian,13.0,A
+893,red hook lobster pound,Brooklyn,Seafood,13.0,A
+894,the boil,Brooklyn,Cajun/Creole; Seafood,13.0,A
+895,pips,Brooklyn,Seafood; Cocktail Bars; Wine Bars,13.0,A
+896,peaches grand,Brooklyn,Seafood; Breakfast & Brunch; Sandwiches,13.0,A
+897,cap't loui,Manhattan,Cajun/Creole; Seafood; Bars,13.0,A
+898,royal cuisine yard food,Brooklyn,Caribbean; Seafood,13.0,A
+899,dallas bbq,Manhattan,Barbeque; Seafood; Sandwiches,13.0,A
+900,big 5 seafood restaurant,Brooklyn,Seafood,13.0,A
+901,ocean prime bar & restaurant,Queens,Burgers; Lounges; Seafood,13.0,A
+902,bed-stuy fish fry,Brooklyn,Seafood,13.0,A
+903,golden blue bar & restaurant,Brooklyn,Caribbean; Bars,13.0,A
+904,house brooklyn,Brooklyn,French,13.0,A
+905,brooklyn ice house,Brooklyn,Barbeque; Pubs,13.0,A
+906,el jeffe,Brooklyn,New Mexican Cuisine,13.0,A
+907,footprints cafe,Brooklyn,Caribbean; Desserts; Vegetarian,13.0,A
+908,dog day afternoon,Brooklyn,Hot Dogs,13.0,A
+909,barely disfigured,Brooklyn,Cocktail Bars; Tapas Bars,13.0,A
+910,holy schnitzel,Manhattan,Kosher; Burgers; Wraps,13.0,A
+911,the broadway,Brooklyn,Bars; Music Venues; Noodles,13.0,A
+912,falansai,Brooklyn,Vietnamese; Wine Bars,13.0,A
+913,cheryl's global soul,Brooklyn,Breakfast & Brunch; Comfort Food; Caribbean,13.0,A
+914,wheated,Brooklyn,Pizza; Cocktail Bars; Whiskey Bars,13.0,A
+915,samuels top ranking fish shop,Brooklyn,Caribbean; Fish & Chips,13.0,A
+916,white maize,Manhattan,Venezuelan; Empanadas,13.0,A
+917,spiro's cafe & pizza,Brooklyn,Mexican; Diners; Greek,13.0,A
+918,somethingreek,Brooklyn,Greek,13.0,A
+919,gyro grill,Queens,Greek; Mediterranean,13.0,A
+920,mazzat,Brooklyn,Tapas Bars; Mediterranean; Cocktail Bars,13.0,A
+921,ringolevio,Brooklyn,Mediterranean; Tapas/Small Plates; Cocktail Bars,13.0,A
+922,darna falafel,Brooklyn,Falafel; Middle Eastern; Halal,13.0,A
+923,pita palace,Brooklyn,Middle Eastern; Falafel,13.0,A
+924,kabob shack,Brooklyn,Afghan; Middle Eastern; Mediterranean,13.0,A
+925,fuel fever,Brooklyn,Juice Bars & Smoothies; Mediterranean; Burgers,13.0,A
+926,doc wine bar,Brooklyn,Sardinian; Mediterranean; Cocktail Bars,13.0,A
+927,baku nights,Brooklyn,Mediterranean; Modern European,13.0,A
+928,halalify,Queens,Halal; Mediterranean; Burgers,13.0,A
+929,claudette,Manhattan,French; Seafood; Mediterranean,13.0,A
+930,tuscan hills,Queens,Italian; Pizza; Wine Bars,13.0,A
+931,liola,Queens,Italian; Pizza; Cocktail Bars,13.0,A
+932,manetta's ristorante,Queens,Italian,13.0,A
+933,manducatis,Queens,Italian,13.0,A
+934,il falco,Queens,Italian; Venues & Event Spaces; Wine Bars,13.0,A
+935,cascata,Queens,Italian,13.0,A
+936,antica trattoria,Queens,Italian,13.0,A
+937,nonnas 1977,Queens,Italian; Salad,13.0,A
+938,trattoria 35,Queens,Pizza; Italian,13.0,A
+939,pizza classica,Queens,Pizza; Italian; Salad,13.0,A
+940,spolini's,Queens,Italian,13.0,A
+941,palermo restaurant & bar,Queens,Italian; Bars,13.0,A
+942,da capo,Manhattan,Wine Bars; Cocktail Bars; Italian,13.0,A
+943,follia,Manhattan,Wine Bars; Italian; Pizza,13.0,A
+944,forno siciliano,Queens,Italian,13.0,A
+945,la casa del mariachi,Queens,Mexican,13.0,A
+946,el mero mero,Queens,Mexican,13.0,A
+947,burrito republic,Queens,Tacos; New Mexican Cuisine; Vegetarian,13.0,A
+948,laly's restaurant,Queens,New American; Mexican; Breakfast & Brunch,13.0,A
+949,las chilangas,Queens,New Mexican Cuisine; Mexican,13.0,A
+950,los tres potrillos,Queens,Mexican,13.0,A
+951,dos toros,Manhattan,Mexican,13.0,A
+952,latino bites,Queens,Food Trucks; Mexican; Colombian,13.0,A
+953,blue tijuana,Queens,Mexican,13.0,A
+954,moho mexican grill,Queens,Mexican,13.0,A
+955,el vaquerito,Queens,Mexican,13.0,A
+956,astoria taco factory,Queens,Tacos,13.0,A
+957,gan-hoo bbq,Queens,Barbeque; Chinese; Japanese,13.0,A
+958,beijing dumpling house,Queens,Bubble Tea; Chinese; Noodles,13.0,A
+959,ooodles noodle house,Queens,Chinese; Taiwanese; Noodles,13.0,A
+960,noodle lab,Queens,Chinese; Noodles; Taiwanese,13.0,A
+961,the bund,Queens,Shanghainese,13.0,A
+962,mr. wonton,Queens,Chinese,13.0,A
+963,nueva victoria,Queens,Chinese; Cuban; Spanish,13.0,A
+964,he nan hui mian,Queens,Chinese; Noodles; Soup,13.0,A
+965,white bear,Queens,Chinese,13.0,A
+966,china fun,Queens,Chinese; Hot Pot,13.0,A
+967,great wall chinese restaurant,Brooklyn,Chinese,13.0,A
+968,mito,Queens,Japanese; Sushi Bars; Asian Fusion,13.0,A
+969,sakura 7,Queens,Japanese,13.0,A
+970,tokyo ya,Queens,Sushi Bars; Japanese,13.0,A
+971,three bowls ramen,Queens,Noodles; Ramen,13.0,A
+972,mochiron izakaya,Queens,Izakaya; Ramen,13.0,A
+973,yellowstone sushi,Queens,Sushi Bars; Japanese,13.0,A
+974,tamashii ramen,Queens,Ramen,13.0,A
+975,bkny thai restaurant,Queens,Thai; Seafood; Salad,13.0,A
+976,buddha asian,Queens,Asian Fusion; Thai; Seafood,13.0,A
+977,jang dok dae,Queens,Korean,13.0,A
+978,mahsil,Queens,Korean; Chicken Shop; Pizza,13.0,A
+979,hahm ji bach,Queens,Korean,13.0,A
+980,i am kimchi,Queens,Korean,13.0,A
+981,the cast iron pot 3,Queens,Korean; Buffets; Barbeque,13.0,A
+982,pho che,Queens,Vietnamese; Korean,13.0,A
+983,ssam tong,Queens,Korean; Barbeque,13.0,A
+984,naju gomtang,Queens,Korean; Seafood; Breakfast & Brunch,13.0,A
+985,daori bbq,Queens,Korean,13.0,A
+986,jeong yook,Queens,Korean; Barbeque,13.0,A
+987,nyc tikka masala,Queens,Indian,13.0,A
+988,kababish,Queens,Indian; Pakistani; Bangladeshi,13.0,A
+989,nabanno restaurant,Queens,Chinese; Indian; Sandwiches,13.0,A
+990,jackson diner,Queens,Indian,13.0,A
+991,punjabi kabab house,Queens,Indian; Pakistani,13.0,A
+992,the buffet,Queens,Buffets; Sushi Bars; Seafood,13.0,A
+993,fabrika,Queens,Seafood; Cocktail Bars,13.0,A
+994,oceanic boil,Queens,Cajun/Creole; Seafood; Bars,13.0,A
+995,la hueca epa,Queens,Seafood; Spanish; Latin American,13.0,A
+996,the door,Queens,Caribbean; Desserts; Seafood,13.0,A
+997,mistura peruana,Queens,Peruvian; Juice Bars & Smoothies; Seafood,13.0,A
+998,truth restaurant and lounge,Queens,Lounges; Caribbean; Seafood,13.0,A
+999,mar's,Queens,Seafood; New American; Cocktail Bars,13.0,A
+1000,off the hook raw bar & grill,Queens,Seafood; Cocktail Bars; Sandwiches,13.0,A
+1001,west bar & lounge,Queens,Bars; Seafood; Caribbean,13.0,A
+1002,pho grand,Manhattan,Vietnamese; Seafood; Soup,13.0,A
+1003,la fusta restaurant,Queens,Argentine; Seafood; Salad,13.0,A
+1004,rove,Queens,American; Gastropubs; Beer Bar,13.0,A
+1005,la vecina,Queens,Cocktail Bars; Venues & Event Spaces; New American,13.0,A
+1006,sotto le stelle,Queens,Pizza,13.0,A
+1007,sangria tapas bar & restaurant,Queens,Tapas Bars; Spanish; Portuguese,13.0,A
+1008,spicy lanka,Queens,Sri Lankan; Vegan; Vegetarian,13.0,A
+1009,andrea's chicken,Queens,Peruvian; Latin American; Chicken Shop,13.0,A
+1010,jackson hole,Manhattan,Burgers; American,13.0,A
+1011,gottscheer hall,Queens,Caterers; German; Beer Bar,13.0,A
+1012,burger city,Queens,Burgers,13.0,A
+1013,greek family kitchen,Queens,Greek,13.0,A
+1014,gyro world,Queens,Greek; American,13.0,A
+1015,the halal guys,Manhattan,Halal; Middle Eastern; Mediterranean,13.0,A
+1016,shawarmania,Queens,Halal; Middle Eastern; Mediterranean,13.0,A
+1017,bayahibe fusion,Bronx,Latin American; Mediterranean; Coffee & Tea,13.0,A
+1018,romanian garden,Queens,Mediterranean; Modern European; Desserts,13.0,A
+1019,ukus,Queens,Modern European; Mediterranean,13.0,A
+1020,orrico's italian restaurant,Bronx,Italian,13.0,A
+1021,beccofino,Bronx,Italian,13.0,A
+1022,la casa del mofongo,Manhattan,Italian; Tapas/Small Plates; Hookah Bars,13.0,A
+1023,niccolo pizzeria,Manhattan,Pizza; Gelato; Italian,13.0,A
+1024,sofia,Brooklyn,Steakhouses; Italian; Cocktail Bars,13.0,A
+1025,bella notte,Bronx,Italian; Pasta Shops; Pizza,13.0,A
+1026,colima taqueria,Bronx,Tacos; Cocktail Bars,13.0,A
+1027,estrellita poblana,Bronx,Mexican,13.0,A
+1028,los girasoles restaurant,Bronx,Mexican,13.0,A
+1029,queen of tacos,Bronx,Mexican,13.0,A
+1030,mexicana deli grocery,Bronx,Mexican,13.0,A
+1031,taqueria sinaloense,Bronx,Mexican,13.0,A
+1032,estrellita mixteca,Bronx,Mexican,13.0,A
+1033,vista hermosa restaurant,Bronx,Mexican; Cocktail Bars,13.0,A
+1034,las maravillas de mexico restaurant,Bronx,Mexican; Beer Bar,13.0,A
+1035,noches mexicanas,Bronx,Mexican,13.0,A
+1036,panda restaurant,Bronx,Chinese,13.0,A
+1037,china mia,Bronx,Chinese,13.0,A
+1038,peking house,Brooklyn,Chinese,13.0,A
+1039,golden chef,Bronx,Fast Food; Chinese,13.0,A
+1040,dynasty taste,Staten Island,Chinese; Korean,13.0,A
+1041,king dragon,Bronx,Chinese,13.0,A
+1042,golden dragon restaurant,Brooklyn,Chinese,13.0,A
+1043,panda express,Queens,Chinese; Fast Food,13.0,A
+1044,good taste chinese restaurant,Manhattan,Chinese,13.0,A
+1045,chinese gourmet,Bronx,Chinese,13.0,A
+1046,lucky star,Bronx,Chinese,13.0,A
+1047,flame,Manhattan,Asian Fusion; Teppanyaki; Sushi Bars,13.0,A
+1048,mama sushi,Bronx,Sushi Bars; Japanese; Cocktail Bars,13.0,A
+1049,sushi noz,Manhattan,Sushi Bars; Japanese; Seafood,13.0,A
+1050,i love bibimbap,Manhattan,Korean,13.0,A
+1051,wooga,Manhattan,Korean; Barbeque,13.0,A
+1052,mughal curry spot,Bronx,Indian,13.0,A
+1053,halal fresh chinese & indian cuisine,Bronx,Indian; Chinese; Halal,13.0,A
+1054,johnny's reef restaurant,Bronx,Seafood,13.0,A
+1055,umi,Queens,Sushi Bars; Seafood; Buffets,13.0,A
+1056,galicia tapas,Manhattan,Tapas/Small Plates; Spanish; Seafood,13.0,A
+1057,hard rock cafe,Manhattan,American; Sports Bars; Seafood,13.0,A
+1058,seafood city,Bronx,Seafood,13.0,A
+1059,napa in the heights,Manhattan,Wine Bars; Seafood; Cocktail Bars,13.0,A
+1060,shangerila restaurant,Bronx,Sushi Bars; Buffets; Seafood,13.0,A
+1061,los amigos restaurant,Bronx,Breakfast & Brunch; Seafood; Salad,13.0,A
+1062,up top grill,Bronx,Caribbean; Soul Food; Seafood,13.0,A
+1063,sylvia's restaurant,Manhattan,Southern; Soul Food; Seafood,13.0,A
+1064,la masa,Bronx,Colombian; Empanadas,13.0,A
+1065,nana's kitchen,Bronx,Mediterranean,13.0,A
+1066,tortoise & hare,Bronx,Bars; American; Barbeque,13.0,A
+1067,fiorentina steakhouse,Bronx,Steakhouses,13.0,A
+1068,hudson smokehouse,Bronx,Barbeque; Steakhouses,13.0,A
+1069,tasty choice,Bronx,Mediterranean; Middle Eastern,13.0,A
+1070,the uptown garrison,Manhattan,Coffee & Tea; Pizza; Bars,13.0,A
+1071,parisienne cafe,Bronx,Cafes,13.0,A
+1072,avenue gyro,Bronx,Mediterranean,13.0,A
+1073,milly's corner restaurant and bar,Bronx,Dominican; Latin American,13.0,A
+1074,cozy cottage restaurant,Bronx,Breakfast & Brunch; Greek,13.0,A
+1075,don cheech,Staten Island,Italian,13.0,A
+1076,coral bay cafe,Staten Island,Italian,13.0,A
+1077,trattoria toscana,Staten Island,Italian; Pizza; Cocktail Bars,13.0,A
+1078,panini grill,Staten Island,Pizza; Italian; Desserts,13.0,A
+1079,angelina's ristorante,Staten Island,Italian,13.0,A
+1080,la strada restaurant,Staten Island,Italian,13.0,A
+1081,eat italian,Staten Island,Italian,13.0,A
+1082,luce,Staten Island,Italian; Wine Bars,13.0,A
+1083,artie's,Bronx,Pizza; Italian; Sandwiches,13.0,A
+1084,denino's pizzeria & tavern,Manhattan,Pizza; Italian; Chicken Wings,13.0,A
+1085,pizzeria giove,Staten Island,Italian,13.0,A
+1086,cantina mexicana,Staten Island,Mexican,13.0,A
+1087,la candela espanola,Staten Island,Spanish; Mexican; Seafood,13.0,A
+1088,los pastorcitos g's,Staten Island,Breakfast & Brunch; Burgers; Mexican,13.0,A
+1089,taquito,Manhattan,Tacos,13.0,A
+1090,siu kitchen,Staten Island,Chinese; Hot Pot,13.0,A
+1091,moon & flower house,Queens,Burgers; Chinese,13.0,A
+1092,fish noodle house,Staten Island,Chinese,13.0,A
+1093,new york vybes,Manhattan,Dim Sum; Cantonese; Venues & Event Spaces,13.0,A
+1094,hitto ramen,Staten Island,Ramen,13.0,A
+1095,teriyaki one japanese grill,Queens,Japanese,13.0,A
+1096,noodlefan,Staten Island,Thai; Noodles,13.0,A
+1097,3 guys sushi,Staten Island,Japanese; Thai; Sushi Bars,13.0,A
+1098,soho thai,Manhattan,Thai,13.0,A
+1099,aroy dee thai kitchen,Manhattan,Thai,13.0,A
+1100,once more thai,Manhattan,Thai; Chicken Shop; Noodles,13.0,A
+1101,thai cafe,Brooklyn,Thai,13.0,A
+1102,randiwa,Staten Island,Sri Lankan; Indian,13.0,A
+1103,blue,Staten Island,Mediterranean; Seafood; Desserts,13.0,A
+1104,the kova,Staten Island,Breakfast & Brunch; Coffee & Tea,13.0,A
+1105,bite burger,Staten Island,Burgers; Chicken Wings; Fast Food,13.0,A
+1106,the point tavern,Staten Island,American; Pubs; Sports Bars,13.0,A
+1107,cafe juliet,Staten Island,Cafes,13.0,A
+1108,richmond republic,Staten Island,American; Gastropubs,13.0,A
+1109,mike's unicorn diner,Staten Island,American; Diners; Greek,13.0,A
+1110,chinar on the island,Staten Island,Mediterranean; Bars; Venues & Event Spaces,13.0,A
+1111,lebanese eatery,Staten Island,Middle Eastern; Mediterranean; Halal,13.0,A
+1112,eat offbeat,Manhattan,Food Delivery Services; Mediterranean,13.0,A
+1113,scarpetta,Manhattan,Italian; Bars; Desserts,12.0,A
+1114,nittis,Manhattan,Italian; Cocktail Bars; Breakfast & Brunch,12.0,A
+1115,locanda verde,Manhattan,Italian; Cocktail Bars; Breakfast & Brunch,12.0,A
+1116,l'artusi,Manhattan,Italian; Cocktail Bars,12.0,A
+1117,da raffaele,Manhattan,Italian,12.0,A
+1118,da toscano,Manhattan,Italian,12.0,A
+1119,barolo east,Manhattan,Italian,12.0,A
+1120,aunt jake's,Manhattan,Italian; Wine Bars; Cocktail Bars,12.0,A
+1121,da claudio,Manhattan,Italian; Cocktail Bars; Seafood,12.0,A
+1122,mareluna,Manhattan,Italian; Breakfast & Brunch; Cocktail Bars,12.0,A
+1123,lilia,Brooklyn,Italian; Cocktail Bars,12.0,A
+1124,fiaschetteria pistoia,Manhattan,Tuscan; Pasta Shops,12.0,A
+1125,vic's,Manhattan,Italian; Cocktail Bars; Pizza,12.0,A
+1126,all'antico vinaio,Manhattan,Italian; Sandwiches,12.0,A
+1127,go nonna,Queens,Argentine; Italian,12.0,A
+1128,santi,Manhattan,Italian; Desserts; Cocktail Bars,12.0,A
+1129,rucola,Brooklyn,Italian; Diners; Breakfast & Brunch,12.0,A
+1130,trapizzino,Manhattan,Italian; Wine Bars; Cocktail Bars,12.0,A
+1131,il bambino,Queens,Italian; Sandwiches; Tapas Bars,12.0,A
+1132,jupiter,Manhattan,Italian; Cocktail Bars; Sandwiches,12.0,A
+1133,cafe spaghetti,Brooklyn,Italian; Bars; Sandwiches,12.0,A
+1134,botte ues,Manhattan,Italian; Pizza; Cocktail Bars,12.0,A
+1135,levante,Queens,Pizza; Bars; Italian,12.0,A
+1136,sergimmo salumeria,Manhattan,Italian; Sandwiches,12.0,A
+1137,sofia wine bar,Manhattan,Italian; Wine Bars,12.0,A
+1138,los tacos no.1,Manhattan,Tacos,12.0,A
+1139,frida midtown,Manhattan,Mexican; Peruvian; Cocktail Bars,12.0,A
+1140,amor loco,Manhattan,Mexican,12.0,A
+1141,cafe habana,Manhattan,Cuban; Mexican,12.0,A
+1142,mezcali,Manhattan,Tacos; Tapas/Small Plates; Cocktail Bars,12.0,A
+1143,taqueria 86,Manhattan,Mexican,12.0,A
+1144,street taco,Manhattan,Cocktail Bars; Tacos; Beer Bar,12.0,A
+1145,the calaveras,Manhattan,Bars; Mexican; Tapas/Small Plates,12.0,A
+1146,taqueria ramirez,Brooklyn,Mexican,12.0,A
+1147,taqueria gramercy,Manhattan,Bars; Tacos,12.0,A
+1148,oso,Manhattan,Mexican; Cocktail Bars,12.0,A
+1149,conmigo,Manhattan,Cocktail Bars; Tacos,12.0,A
+1150,cinco de mayo,Queens,Mexican; Juice Bars & Smoothies; Wraps,12.0,A
+1151,de mole,Queens,Mexican; Breakfast & Brunch; Cocktail Bars,12.0,A
+1152,nina's great burrito bar,Manhattan,Mexican; Comfort Food,12.0,A
+1153,mayahuel,Queens,Mexican,12.0,A
+1154,pho 39,Manhattan,Vietnamese; Tacos; Seafood,12.0,A
+1155,sullivan taqueria,Manhattan,Tacos,12.0,A
+1156,joe's home of soup dumplings,Manhattan,Shanghainese; Noodles,12.0,A
+1157,the handpulled noodle,Manhattan,Noodles; Chinese; Comfort Food,12.0,A
+1158,very fresh noodles,Manhattan,Taiwanese; Chinese; Noodles,12.0,A
+1159,grandma's home,Manhattan,Chinese; Cocktail Bars,12.0,A
+1160,mala town,Brooklyn,Hot Pot; Szechuan; Seafood,12.0,A
+1161,buddakan,Manhattan,Chinese; Bars; Asian Fusion,12.0,A
+1162,peng's noodle folk,Manhattan,Chinese; Noodles; Ramen,12.0,A
+1163,little alley,Manhattan,Shanghainese,12.0,A
+1164,kings co imperial,Brooklyn,Dim Sum; Noodles; Szechuan,12.0,A
+1165,yunnan rice noodle house,Brooklyn,Chinese; Noodles; Asian Fusion,12.0,A
+1166,brooklyn chop house,Manhattan,Dim Sum; Steakhouses; Asian Fusion,12.0,A
+1167,taiwan pork chop house,Manhattan,Taiwanese; Chinese; Noodles,12.0,A
+1168,rice bird,Manhattan,Cantonese; Asian Fusion,12.0,A
+1169,king's kitchen,Brooklyn,Chinese,12.0,A
+1170,chi chicken,Queens,Hot Pot; Chinese,12.0,A
+1171,bonnie's,Brooklyn,Cantonese,12.0,A
+1172,phoenix palace,Manhattan,Cantonese,12.0,A
+1173,kin ramen,Manhattan,Ramen; Izakaya,12.0,A
+1174,izakaya toribar,Manhattan,Tapas/Small Plates; Izakaya; Bars,12.0,A
+1175,sozai,Manhattan,Izakaya; Ramen,12.0,A
+1176,nobu fifty seven,Manhattan,Sushi Bars; Japanese,12.0,A
+1177,sapps,Queens,Japanese; Sushi Bars,12.0,A
+1178,tensai,Manhattan,Japanese; Bars; Tapas/Small Plates,12.0,A
+1179,sushi w,Manhattan,Japanese; Sushi Bars,12.0,A
+1180,towa,Manhattan,Japanese; Sushi Bars; Cocktail Bars,12.0,A
+1181,hakurakuso,Manhattan,Japanese; Sushi Bars,12.0,A
+1182,kohoku-ku ramen,Manhattan,Ramen,12.0,A
+1183,sushi lab - east village,Manhattan,Japanese; Sushi Bars,12.0,A
+1184,jun-men ramen bar,Manhattan,Ramen,12.0,A
+1185,gu japanese fusion sushi & bar,Manhattan,Japanese; Sushi Bars; Bars,12.0,A
+1186,chikarashi,Manhattan,Japanese; Hawaiian; Poke,12.0,A
+1187,aqua,Manhattan,Japanese; Italian; Bars,12.0,A
+1188,susuru ramen,Queens,Ramen; Noodles,12.0,A
+1189,the lobster club,Manhattan,Sushi Bars; Japanese; Asian Fusion,12.0,A
+1190,momokawa,Manhattan,Japanese; Sushi Bars; Hot Pot,12.0,A
+1191,ramen by ra,Manhattan,Ramen; Southern; Asian Fusion,12.0,A
+1192,thai diner,Manhattan,Thai,12.0,A
+1193,sukh,Brooklyn,Thai,12.0,A
+1194,pig and khao,Manhattan,Filipino; Thai; Pan Asian,12.0,A
+1195,kraam,Manhattan,Thai,12.0,A
+1196,kru,Brooklyn,Thai,12.0,A
+1197,sripraphai thai restaurant,Queens,Thai,12.0,A
+1198,lil chef mama,Manhattan,Thai,12.0,A
+1199,gai chicken & rice,Manhattan,Thai; Chicken Shop,12.0,A
+1200,ros niyom thai restaurant,Queens,Thai; Cocktail Bars,12.0,A
+1201,thai hot box,Manhattan,Thai,12.0,A
+1202,gai kitchen,Manhattan,Thai; Chicken Shop,12.0,A
+1203,thai super,Manhattan,Thai,12.0,A
+1204,rasa,Manhattan,Malaysian; Thai; Halal,12.0,A
+1205,7 elephants,Manhattan,Thai; Noodles; Comfort Food,12.0,A
+1206,thailicious,Manhattan,Thai; Noodles; Cocktail Bars,12.0,A
+1207,somtum der,Brooklyn,Thai,12.0,A
+1208,raenu thai,Manhattan,Thai,12.0,A
+1209,at nine restaurant & bar,Manhattan,Thai; Bars,12.0,A
+1210,ditmars thai,Queens,Thai; Salad; Noodles,12.0,A
+1211,hug esan,Queens,Thai,12.0,A
+1212,terra thai,Manhattan,Thai,12.0,A
+1213,laut,Manhattan,Thai; Malaysian; Singaporean,12.0,A
+1214,thai tai eatery,Queens,Thai,12.0,A
+1215,nubiani,Manhattan,Korean; Barbeque,12.0,A
+1216,jeju noodle bar,Manhattan,Korean; Noodles; Wine Bars,12.0,A
+1217,kisa,Manhattan,Korean,12.0,A
+1218,naro,Manhattan,Korean,12.0,A
+1219,sae ron,Manhattan,Korean; Desserts; Cocktail Bars,12.0,A
+1220,five senses,Manhattan,Korean; Barbeque,12.0,A
+1221,sam woo jung,Manhattan,Korean; Bars; Seafood,12.0,A
+1222,barn joo,Manhattan,Korean; Cocktail Bars; Tapas/Small Plates,12.0,A
+1223,mari,Manhattan,Korean,12.0,A
+1224,mokja,Queens,Korean; Burgers; Cocktail Bars,12.0,A
+1225,danji,Manhattan,Korean; Wine Bars; Cocktail Bars,12.0,A
+1226,atomix,Manhattan,Korean,12.0,A
+1227,yoon haeundae galbi,Manhattan,Korean; Barbeque; Steakhouses,12.0,A
+1228,atti,Brooklyn,Korean; Barbeque; Desserts,12.0,A
+1229,hortus nyc,Manhattan,Asian Fusion; Korean; Tapas/Small Plates,12.0,A
+1230,mochick tea,Brooklyn,Chinese; Korean; Burgers,12.0,A
+1231,kal,Queens,Korean; Seafood; Soup,12.0,A
+1232,koji chicken,Manhattan,Chicken Wings; Korean; Bubble Tea,12.0,A
+1233,sik gaek,Queens,Korean,12.0,A
+1234,koreatgo,Manhattan,Korean,12.0,A
+1235,noona noodles,Manhattan,Noodles; Korean; Ramen,12.0,A
+1236,hangawi,Manhattan,Vegetarian; Korean; Vegan,12.0,A
+1237,new wonjo restaurant,Manhattan,Korean; Barbeque; Soup,12.0,A
+1238,cloves indian cuisine,Manhattan,Indian,12.0,A
+1239,indian accent,Manhattan,Indian,12.0,A
+1240,mumbai place,Brooklyn,Indian,12.0,A
+1241,veeray da dhaba,Manhattan,Indian,12.0,A
+1242,atithi indian cuisine,Brooklyn,Indian,12.0,A
+1243,curry in handi,Brooklyn,Halal; Indian; Vegetarian,12.0,A
+1244,tandoor oven,Manhattan,Indian,12.0,A
+1245,tangra masala,Queens,Chinese; Indian; Seafood,12.0,A
+1246,nerai,Manhattan,Greek; Seafood; Mediterranean,12.0,A
+1247,sagaponack,Manhattan,Bars; Seafood; Asian Fusion,12.0,A
+1248,american brass,Queens,Seafood; Cocktail Bars; New American,12.0,A
+1249,aqua boil,Manhattan,Seafood; Cajun/Creole; Comfort Food,12.0,A
+1250,nisi,Manhattan,Breakfast & Brunch; American; Seafood,12.0,A
+1251,oceana,Manhattan,Seafood,12.0,A
+1252,del frisco's double eagle steakhouse,Manhattan,Steakhouses; New American; Seafood,12.0,A
+1253,lure fishbar,Manhattan,Seafood; Sushi Bars; Bars,12.0,A
+1254,jeffrey's grocery,Manhattan,Seafood; Bars; Breakfast & Brunch,12.0,A
+1255,the golden swan,Manhattan,Bars; Seafood; Fondue,12.0,A
+1256,grand banks,Manhattan,Bars; Seafood; New American,12.0,A
+1257,do not disturb,Manhattan,Speakeasies; Seafood,12.0,A
+1258,drift in,Manhattan,Seafood; Bars,12.0,A
+1259,ampersand,Manhattan,Cocktail Bars; New American,12.0,A
+1260,majorelle,Manhattan,French,12.0,A
+1261,albert's bar,Manhattan,Cocktail Bars; New American; Breakfast & Brunch,12.0,A
+1262,anassa taverna,Manhattan,Greek; Mediterranean,12.0,A
+1263,terra mediterrania,Manhattan,Mediterranean,12.0,A
+1264,greek from greece,Manhattan,Greek; Cafes; Sandwiches,12.0,A
+1265,taverna kyclades,Queens,Seafood; Greek; Mediterranean,12.0,A
+1266,loukoumi taverna,Queens,Greek,12.0,A
+1267,korali estiatorio,Manhattan,Greek; Seafood,12.0,A
+1268,blue sea taverna,Queens,Greek; Bars; Mediterranean,12.0,A
+1269,greek xpress,Manhattan,Burgers; Greek; Sandwiches,12.0,A
+1270,amylos taverna,Queens,Seafood; Greek; Breakfast & Brunch,12.0,A
+1271,sunset diner,Brooklyn,Diners; Breakfast & Brunch; Greek,12.0,A
+1272,cafe mogador,Brooklyn,Moroccan; Breakfast & Brunch; Mediterranean,12.0,A
+1273,dagon,Manhattan,Bars; Mediterranean; Tapas/Small Plates,12.0,A
+1274,acadia,Manhattan,Mediterranean,12.0,A
+1275,shuka,Manhattan,Mediterranean; Cocktail Bars; Breakfast & Brunch,12.0,A
+1276,kashkaval garden,Manhattan,Mediterranean; Fondue; Tapas Bars,12.0,A
+1277,mamoun's falafel,Manhattan,Middle Eastern; Falafel,12.0,A
+1278,qanoon,Manhattan,Middle Eastern; Mediterranean; Sandwiches,12.0,A
+1279,maite,Brooklyn,Mediterranean; Wine Bars; Empanadas,12.0,A
+1280,fotia mediterranean,Manhattan,Mediterranean,12.0,A
+1281,little rascal,Manhattan,Middle Eastern; Turkish; Mediterranean,12.0,A
+1282,dua kafe,Manhattan,Cafes; Mediterranean; Modern European,12.0,A
+1283,rebecca's,Brooklyn,Venues & Event Spaces; Mediterranean; Desserts,12.0,A
+1284,istanbul bay,Brooklyn,Mediterranean; Turkish,12.0,A
+1285,terasa north ninth,Brooklyn,Mediterranean; Bars; Tapas/Small Plates,12.0,A
+1286,miraj healthy grill,Manhattan,Persian/Iranian; Mediterranean; Halal,12.0,A
+1287,cafe mado,Brooklyn,Cafes; Coffee & Tea; Italian,12.0,A
+1288,l&b spumoni gardens,Brooklyn,Pizza; Italian,12.0,A
+1289,bar mario,Brooklyn,Italian; Bars,12.0,A
+1290,al di la trattoria,Brooklyn,Italian,12.0,A
+1291,battle hill tavern,Brooklyn,Pizza; Beer Bar; Italian,12.0,A
+1292,river deli,Brooklyn,Italian,12.0,A
+1293,amuni,Brooklyn,Sicilian,12.0,A
+1294,testo,Brooklyn,Italian; Gluten-Free; Breakfast & Brunch,12.0,A
+1295,vineapple,Brooklyn,Italian; Cocktail Bars; Breakfast & Brunch,12.0,A
+1296,impasto,Brooklyn,Pizza; Italian,12.0,A
+1297,lenny's clam bar,Queens,Seafood; Italian; Barbeque,12.0,A
+1298,pastavino,Staten Island,Italian; Wine Bars,12.0,A
+1299,la nonna ristorante & bar,Brooklyn,Italian; Bars,12.0,A
+1300,campania coal fired pizza,Brooklyn,Pizza; Italian,12.0,A
+1301,rome to brooklyn pizza,Brooklyn,Pizza; Italian,12.0,A
+1302,alta calidad,Brooklyn,Mexican,12.0,A
+1303,the king of fish,Brooklyn,Seafood; Tacos; Cocktail Bars,12.0,A
+1304,nacho macho taco,Brooklyn,Mexican,12.0,A
+1305,tiny's cantina,Brooklyn,Mexican; Cocktail Bars; Breakfast & Brunch,12.0,A
+1306,sweet talk,Brooklyn,Cocktail Bars; Hawaiian; Tacos,12.0,A
+1307,mama lupita's bistro,Brooklyn,Mexican,12.0,A
+1308,warude,Brooklyn,Tacos; Ramen; Japanese Curry,12.0,A
+1309,pico,Queens,Mexican; Bars; Salad,12.0,A
+1310,east coast street tacos,Brooklyn,Tacos; Spanish; Fast Food,12.0,A
+1311,guac time mexican grill,Brooklyn,Mexican,12.0,A
+1312,viva toro,Brooklyn,Mexican; Latin American; Cocktail Bars,12.0,A
+1313,bk taco factory,Brooklyn,Tacos; Seafood,12.0,A
+1314,rinconcito domex,Brooklyn,Dominican; Mexican,12.0,A
+1315,leslie's kitchen,Brooklyn,New American; Burgers; Mexican,12.0,A
+1316,sabor azteca,Brooklyn,Mexican; American,12.0,A
+1317,campos grill,Brooklyn,Mexican,12.0,A
+1318,taqueria kermes,Queens,Mexican,12.0,A
+1319,hot space,Queens,Szechuan; Seafood,12.0,A
+1320,hardee,Brooklyn,Chinese,12.0,A
+1321,china restaurant,Queens,Chinese,12.0,A
+1322,chun bai wei,Brooklyn,Chinese; Noodles,12.0,A
+1323,hainan jones,Manhattan,Chinese; Singaporean,12.0,A
+1324,ten seconds yunnan rice noodles,Brooklyn,Chinese; Noodles,12.0,A
+1325,peking kitchen,Bronx,Chinese,12.0,A
+1326,friendship bbq,Queens,Barbeque; Chinese,12.0,A
+1327,wing hing chinese restaurant,Brooklyn,Chinese,12.0,A
+1328,shoo loong kan,Queens,Hot Pot; Seafood; Szechuan,12.0,A
+1329,bk asian express,Brooklyn,Chinese; Noodles; Soup,12.0,A
+1330,momo test kitchen,Brooklyn,Japanese; Comfort Food; Sushi Bars,12.0,A
+1331,omakase sushi by hiro,Brooklyn,Sushi Bars; Japanese,12.0,A
+1332,izakaya sushi & lounge,Brooklyn,Japanese; Sushi Bars; Seafood,12.0,A
+1333,south slope ramen,Brooklyn,Ramen,12.0,A
+1334,ki sushi,Brooklyn,Sushi Bars; Japanese,12.0,A
+1335,happy canteen,Brooklyn,Sushi Bars; Japanese,12.0,A
+1336,gohan sushi,Brooklyn,Japanese; Sushi Bars,12.0,A
+1337,rockmeisha,Manhattan,Izakaya,12.0,A
+1338,ma kin,Queens,Thai; Noodles,12.0,A
+1339,sage,Brooklyn,Thai,12.0,A
+1340,syko,Brooklyn,Syrian; Korean,12.0,A
+1341,eats & poke,Brooklyn,Bubble Tea; Poke; Korean,12.0,A
+1342,cafe de novo,Manhattan,Korean; Pizza; Breakfast & Brunch,12.0,A
+1343,the kunjip,Manhattan,Korean; Barbeque,12.0,A
+1344,bombay grill,Brooklyn,Indian,12.0,A
+1345,namaste,Queens,Indian,12.0,A
+1346,taza mkt,Brooklyn,Indian,12.0,A
+1347,joy indian restaurant,Brooklyn,Indian,12.0,A
+1348,kolkata chai co,Manhattan,Coffee & Tea; Indian,12.0,A
+1349,curry heights,Brooklyn,Indian; Seafood; Chicken Shop,12.0,A
+1350,lowerline,Brooklyn,Cajun/Creole; Seafood; Southern,12.0,A
+1351,anything,Brooklyn,Pizza; Seafood; Cocktail Bars,12.0,A
+1352,okey,Brooklyn,Empanadas; Seafood; Steakhouses,12.0,A
+1353,island shack,Brooklyn,Caribbean; Salad; Seafood,12.0,A
+1354,crab shack seafood boil,Queens,Seafood; Southern,12.0,A
+1355,pitkin seafood,Brooklyn,Seafood,12.0,A
+1356,achilles heel,Brooklyn,Seafood; Cocktail Bars,12.0,A
+1357,east harbor seafood palace,Brooklyn,Seafood; Desserts; Cocktail Bars,12.0,A
+1358,clarendon cuisine,Brooklyn,Juice Bars & Smoothies; Seafood; Breakfast & Brunch,12.0,A
+1359,chadwick's,Brooklyn,American; Steakhouses; Seafood,12.0,A
+1360,chateau de capitaine,Brooklyn,Seafood; Modern European; French,12.0,A
+1361,la caleta ecuatoriana,Brooklyn,Seafood,12.0,A
+1362,loqma cafe,Brooklyn,Turkish; Cafes; Seafood,12.0,A
+1363,istanblue kebab house,Brooklyn,Mediterranean; Seafood; Salad,12.0,A
+1364,the canary,Brooklyn,Bars; Salad; Sandwiches,12.0,A
+1365,altar,Brooklyn,Cocktail Bars; Wine Bars; Tapas/Small Plates,12.0,A
+1366,mayfield,Brooklyn,New American; Breakfast & Brunch,12.0,A
+1367,dar525,Brooklyn,Mediterranean,12.0,A
+1368,the munchies,Brooklyn,Fast Food; Halal; Chicken Wings,12.0,A
+1369,the swan,Brooklyn,Sports Bars; Chicken Wings,12.0,A
+1370,bar goto niban,Brooklyn,Cocktail Bars; Tapas/Small Plates,12.0,A
+1371,cafe tibet,Brooklyn,Himalayan/Nepalese,12.0,A
+1372,french louie,Brooklyn,French,12.0,A
+1373,skytown,Brooklyn,New American; Bars; Cafes,12.0,A
+1374,hilltop tavern,Brooklyn,Burgers; Breakfast & Brunch; Sandwiches,12.0,A
+1375,the castello plan,Brooklyn,New American; Breakfast & Brunch; Cocktail Bars,12.0,A
+1376,diner,Brooklyn,Diners; New American; Breakfast & Brunch,12.0,A
+1377,pho table,Brooklyn,Vietnamese; Asian Fusion; Coffee & Tea,12.0,A
+1378,la vara,Brooklyn,Spanish,12.0,A
+1379,maloya,Brooklyn,French; Cajun/Creole; Cocktail Bars,12.0,A
+1380,otway,Brooklyn,New American; Wine Bars; Breakfast & Brunch,12.0,A
+1381,peppa's jerk chicken restaurant,Brooklyn,Caribbean; Chicken Shop,12.0,A
+1382,fat rabbit,Brooklyn,New American,12.0,A
+1383,brasserie le mistral,Brooklyn,French; Breakfast & Brunch; Wine Bars,12.0,A
+1384,the brooklyn tree,Brooklyn,Comfort Food; New American; Breakfast & Brunch,12.0,A
+1385,llama inn,Brooklyn,Peruvian; Bars,12.0,A
+1386,village grill,Queens,Greek; American,12.0,A
+1387,agora taverna,Queens,Greek; Seafood; Mediterranean,12.0,A
+1388,falafel tanami,Brooklyn,Falafel,12.0,A
+1389,bakery by textbook,Brooklyn,Bakeries; Coffee & Tea; Mediterranean,12.0,A
+1390,zamzam halal,Brooklyn,Mediterranean; Halal; Chicken Wings,12.0,A
+1391,levantine,Brooklyn,Mediterranean; Middle Eastern; Cocktail Bars,12.0,A
+1392,the rusty face,Brooklyn,Mediterranean; Tapas Bars; Cocktail Bars,12.0,A
+1393,taste of akko,Brooklyn,Kosher; Middle Eastern; Falafel,12.0,A
+1394,il poeta,Queens,Italian; Wine Bars,12.0,A
+1395,benateri's italian gourmet deli,Queens,Delis; Sandwiches; Italian,12.0,A
+1396,mercato lic,Queens,Italian; Wine Bars; Breakfast & Brunch,12.0,A
+1397,il nocello ristorante italiano,Queens,Italian,12.0,A
+1398,tartina,Manhattan,Italian,12.0,A
+1399,lucia pizza,Queens,Italian; Pizza; Salad,12.0,A
+1400,masseria east,Manhattan,Italian,12.0,A
+1401,botte bar,Queens,Cocktail Bars; Wine Bars; Italian,12.0,A
+1402,bigoi venezia,Manhattan,Italian; Pasta Shops,12.0,A
+1403,union pizza works,Brooklyn,Italian; Pizza,12.0,A
+1404,mas tortilla,Queens,Mexican,12.0,A
+1405,nuevo tacos al suadero,Queens,Tacos,12.0,A
+1406,burrito blvd,Queens,Mexican,12.0,A
+1407,5 burro cafe,Queens,Mexican; Cocktail Bars,12.0,A
+1408,fresco's cantina,Queens,Mexican,12.0,A
+1409,la casita mexicana,Queens,Mexican,12.0,A
+1410,tacos al suadero,Queens,Mexican,12.0,A
+1411,girasoles mexican cuisine,Queens,Mexican,12.0,A
+1412,guacstop,Queens,Mexican,12.0,A
+1413,la cevicheria by de mole,Queens,Mexican,12.0,A
+1414,nanking,Queens,Indian; Thai; Chinese,12.0,A
+1415,dumpling town,Staten Island,Chinese,12.0,A
+1416,alley 41,Queens,Asian Fusion; Szechuan,12.0,A
+1417,izakaya nana,Queens,Izakaya,12.0,A
+1418,umi sushi,Queens,Japanese; Sushi Bars,12.0,A
+1419,969 nyc coffee,Queens,Coffee & Tea; Japanese,12.0,A
+1420,cha menya,Queens,Ramen; Tea Rooms; Vegetarian,12.0,A
+1421,rakuzen,Queens,Japanese; Buffets; Sushi Bars,12.0,A
+1422,hinomaru ramen,Queens,Ramen,12.0,A
+1423,spring thai fusion & bar,Queens,Thai; Asian Fusion; Sushi Bars,12.0,A
+1424,ddee thai,Queens,Thai,12.0,A
+1425,eatzy thai,Queens,Thai; Hot Pot; Barbeque,12.0,A
+1426,boon chu thai street food,Queens,Thai,12.0,A
+1427,gupji,Queens,Korean; Seafood,12.0,A
+1428,haneul babsang,Queens,Korean,12.0,A
+1429,goo gong tan,Queens,Korean; Barbeque,12.0,A
+1430,chicken is back,Queens,Korean; Chicken Wings; Fast Food,12.0,A
+1431,crispy cloud,Queens,Acai Bowls; Korean; Sandwiches,12.0,A
+1432,ju bang jang,Queens,Korean; Pan Asian; Noodles,12.0,A
+1433,new york ban jum,Queens,Chinese; Korean,12.0,A
+1434,jan chi ma eul,Queens,Korean,12.0,A
+1435,sati's roti shop,Queens,Indian,12.0,A
+1436,friend restaurant,Queens,Chinese; Indian,12.0,A
+1437,eatzy chinese,Queens,Chinese; Seafood; Indian,12.0,A
+1438,shahi darbar,Queens,Halal; Indian; Bangladeshi,12.0,A
+1439,yaar indian restaurant,Queens,Indian; Halal,12.0,A
+1440,lassi lounge,Queens,Indian,12.0,A
+1441,supreme empanadas,Queens,Empanadas; Seafood; Chicken Wings,12.0,A
+1442,sea bar,Staten Island,Seafood,12.0,A
+1443,encebollado machaleno,Queens,Seafood,12.0,A
+1444,cabana,Queens,Latin American; Cuban; Caribbean,12.0,A
+1445,the quimby,Queens,American; Breakfast & Brunch; Cocktail Bars,12.0,A
+1446,el toum,Queens,Lebanese,12.0,A
+1447,amar peruvian kitchen,Queens,Peruvian; Breakfast & Brunch,12.0,A
+1448,bajeko sekuwa,Queens,Himalayan/Nepalese,12.0,A
+1449,matiz latin cuisine,Queens,Latin American; Bars,12.0,A
+1450,sanger hall,Queens,"Burgers; Cocktail Bars; Beer, Wine & Spirits",12.0,A
+1451,the bonnie,Queens,Cocktail Bars; New American; Breakfast & Brunch,12.0,A
+1452,celtic gasthaus,Queens,Pubs; German; Irish,12.0,A
+1453,dar al-yemen,Queens,Middle Eastern,12.0,A
+1454,porta 23,Queens,Cocktail Bars; New American; Tapas/Small Plates,12.0,A
+1455,88 canteen,Queens,Hong Kong Style Cafe; Custom Cakes,12.0,A
+1456,the pomeroy,Queens,New American; Bars,12.0,A
+1457,brooklyn diner,Manhattan,Diners; New American; Cocktail Bars,12.0,A
+1458,poprice,Queens,Chicken Wings; Asian Fusion,12.0,A
+1459,diwine,Queens,New American,12.0,A
+1460,plateia gr,Queens,Greek; Mediterranean; Salad,12.0,A
+1461,rafaelis palace,Queens,Mediterranean; Venues & Event Spaces; Kosher,12.0,A
+1462,grill point,Queens,Middle Eastern; Kosher; Mediterranean,12.0,A
+1463,taim mediterranean kitchen,Brooklyn,Mediterranean,12.0,A
+1464,moonlite grill & chicken,Queens,Middle Eastern; Mediterranean; Halal,12.0,A
+1465,lena trattoria,Bronx,Pizza; Pasta Shops; Italian,12.0,A
+1466,pastitalia,Manhattan,Pasta Shops; Cafes; Italian,12.0,A
+1467,legendary bar & grill,Bronx,Bars; Italian; Burgers,12.0,A
+1468,taqueria tlaxcalli,Bronx,Mexican,12.0,A
+1469,rey tacos taqueria,Bronx,Tacos; Burgers; Chicken Wings,12.0,A
+1470,la catrina mexican bistro,Manhattan,Mexican,12.0,A
+1471,plaza tulcingo restaurant,Bronx,Mexican,12.0,A
+1472,reyna restaurant,Bronx,Dominican; Mexican; Latin American,12.0,A
+1473,la perla mexicana,Bronx,Mexican,12.0,A
+1474,little frida's eatery,Bronx,Mexican; American,12.0,A
+1475,taqueria lupita ii,Bronx,Mexican,12.0,A
+1476,cantina tarasca,Bronx,Mexican; Cocktail Bars,12.0,A
+1477,la fiesta restaurant,Manhattan,Mexican,12.0,A
+1478,kai sushi asian fusion,Bronx,Asian Fusion; Chinese; Japanese,12.0,A
+1479,king's chef chinese restaurant,Bronx,Chinese,12.0,A
+1480,number 1 chinese restaurant,Brooklyn,Chinese,12.0,A
+1481,lin home chinese restaurant,Bronx,Chinese,12.0,A
+1482,kai fan asian cuisine,Bronx,Kosher; Japanese; Chinese,12.0,A
+1483,no. 1 restaurant,Manhattan,Tex-Mex; Chinese,12.0,A
+1484,osaka sushi,Bronx,Japanese,12.0,A
+1485,tandoori place,Bronx,Indian; Halal,12.0,A
+1486,musette wine bar,Manhattan,Wine Bars; Coffee & Tea; Seafood,12.0,A
+1487,famous fish market,Manhattan,Seafood; Fish & Chips,12.0,A
+1488,havana cafe,Bronx,Cuban; Latin American,12.0,A
+1489,caribbean sunshine restaurant,Bronx,Caribbean,12.0,A
+1490,morris park inn,Bronx,Sports Bars; American; Wraps,12.0,A
+1491,steven restaurant,Bronx,Latin American; Fast Food; Sandwiches,12.0,A
+1492,the grill house,Bronx,Middle Eastern,12.0,A
+1493,tinto tapas restaurant & wine bar,Manhattan,Tapas Bars; Wine Bars; Breakfast & Brunch,12.0,A
+1494,georgina restaurant,Bronx,Latin American,12.0,A
+1495,chicken ranch,Manhattan,Spanish; Greek; Chicken Shop,12.0,A
+1496,ungaro coal fired pizza cafe,Staten Island,Pizza; Italian; Chicken Wings,12.0,A
+1497,trattoria oliveto,Staten Island,Italian,12.0,A
+1498,fiore di mare,Staten Island,Italian; Seafood; Pasta Shops,12.0,A
+1499,basil cucina & catering,Staten Island,Italian; Sandwiches; Salad,12.0,A
+1500,pete's brooklyn eats,Brooklyn,Italian,12.0,A
+1501,leon's,Manhattan,Italian; Breakfast & Brunch; Cocktail Bars,12.0,A
+1502,mexican cantina,Staten Island,Mexican,12.0,A
+1503,el patron,Queens,Mexican; Breakfast & Brunch,12.0,A
+1504,las chelitas,Brooklyn,Mexican,12.0,A
+1505,jimbo slims,Brooklyn,Cocktail Bars; Tacos; Wine Bars,12.0,A
+1506,evodio's place,Brooklyn,Cafes; Mexican; American,12.0,A
+1507,happy home cuisine,Staten Island,Cantonese,12.0,A
+1508,noodle queen,Brooklyn,Cantonese; Noodles; Breakfast & Brunch,12.0,A
+1509,seafood hibachi,Staten Island,Seafood; Chinese; Chicken Wings,12.0,A
+1510,china chalet,Staten Island,Dim Sum; Cantonese,12.0,A
+1511,mei lai wah wonton noodle,Manhattan,Chinese; Noodles; Soup,12.0,A
+1512,chef tan,Manhattan,Szechuan,12.0,A
+1513,ohkami ramen,Staten Island,Ramen,12.0,A
+1514,wendy teriyaki,Queens,Bubble Tea; Ramen; Korean,12.0,A
+1515,yummy machi,Staten Island,Japanese; Bubble Tea; Chicken Wings,12.0,A
+1516,arirang hibachi steakhouse,Brooklyn,Sushi Bars; Steakhouses; Japanese,12.0,A
+1517,taiyaki nyc,Manhattan,Desserts; Japanese; Ice Cream & Frozen Yogurt,12.0,A
+1518,avocado sushi,Staten Island,Sushi Bars; Japanese; Thai,12.0,A
+1519,imm thai,Manhattan,Thai,12.0,A
+1520,kati thai cuisine,Manhattan,Thai,12.0,A
+1521,the sabieng thai,Manhattan,Thai,12.0,A
+1522,pad thai noodle lounge,Manhattan,Thai; Noodles; Cocktail Bars,12.0,A
+1523,thai v express,Manhattan,Thai,12.0,A
+1524,caravan,Brooklyn,Sushi Bars; Korean; Uzbek,12.0,A
+1525,deep indian kitchen,Manhattan,Indian; Pizza,12.0,A
+1526,wild crab house,Staten Island,Cajun/Creole; Seafood,12.0,A
+1527,half moon,Manhattan,Bars; Seafood,12.0,A
+1528,grand sahara mediterranean grill,Staten Island,Turkish; Mediterranean; Seafood,12.0,A
+1529,canlon's restaurant,Staten Island,American; Seafood; Cocktail Bars,12.0,A
+1530,real madrid restaurant,Staten Island,Spanish; Seafood,12.0,A
+1531,the stone house at clove lakes,Staten Island,New American; Venues & Event Spaces; Steakhouses,12.0,A
+1532,cantina cubana,Manhattan,Cuban,12.0,A
+1533,bloom cafe,Staten Island,Breakfast & Brunch; Coffee & Tea; Cafes,12.0,A
+1534,holland bay restaurant,Staten Island,Caribbean,12.0,A
+1535,cafe hugo,Manhattan,New American,12.0,A
+1536,griff's place,Staten Island,Sports Bars; American; Desserts,12.0,A
+1537,taiwan station,Brooklyn,Taiwanese; Bubble Tea,12.0,A
+1538,antojitos bk,Brooklyn,Comfort Food; Caribbean,12.0,A
+1539,raising cane's chicken fingers,Brooklyn,Fast Food; Chicken Shop,12.0,A
+1540,madre,Brooklyn,New American,12.0,A
+1541,kuzina,Staten Island,Mediterranean; Greek; Coffee & Tea,12.0,A
+1542,sumac,Staten Island,Mediterranean; Turkish; Halal,12.0,A
+1543,naked dog,Brooklyn,Italian; Wine Bars; Cocktail Bars,11.0,A
+1544,l'osteria,Manhattan,Italian; Desserts; Salad,11.0,A
+1545,tuscany steakhouse,Manhattan,Steakhouses; Italian; Seafood,11.0,A
+1546,aperibar,Manhattan,Italian; Bars,11.0,A
+1547,pazza notte,Manhattan,Italian; Lounges; Pizza,11.0,A
+1548,roscioli,Manhattan,Italian,11.0,A
+1549,la lanterna di vittorio,Manhattan,Italian; Cafes; Pizza,11.0,A
+1550,ciccio,Manhattan,Italian; Cocktail Bars; Diners,11.0,A
+1551,lolita,Manhattan,Cocktail Bars; Mexican; Breakfast & Brunch,11.0,A
+1552,xolo,Brooklyn,Mexican,11.0,A
+1553,bar verde,Manhattan,Mexican; Vegan; Gluten-Free,11.0,A
+1554,ofrenda,Manhattan,Mexican; Breakfast & Brunch,11.0,A
+1555,casa maya,Manhattan,Bars; Dance Clubs; Tacos,11.0,A
+1556,mariscos el submarino,Queens,Mexican; Seafood,11.0,A
+1557,tacos grand central,Manhattan,Mexican,11.0,A
+1558,hacienda agave,Bronx,Mexican,11.0,A
+1559,pico de gallo bar & kitchen,Manhattan,Mexican; Breakfast & Brunch,11.0,A
+1560,jiang nan,Queens,Chinese,11.0,A
+1561,dim sum sam,Manhattan,Barbeque; Dim Sum; Coffee & Tea,11.0,A
+1562,lisa's dumplings,Manhattan,Chinese,11.0,A
+1563,mala house,Manhattan,Szechuan; Dim Sum; Asian Fusion,11.0,A
+1564,the jin,Manhattan,Korean; Chicken Wings; Ramen,11.0,A
+1565,rule of thirds,Brooklyn,Japanese; Breakfast & Brunch; Cocktail Bars,11.0,A
+1566,handroll bar rolling,Manhattan,Japanese; Sushi Bars,11.0,A
+1567,sake bar hagi,Manhattan,Japanese; Wine Bars; Beer Bar,11.0,A
+1568,bangkok supper club,Manhattan,Thai; Cocktail Bars; Seafood,11.0,A
+1569,little tiffin,Brooklyn,Thai,11.0,A
+1570,chachawan,Queens,Thai; Noodles; Asian Fusion,11.0,A
+1571,hojokban,Manhattan,Korean,11.0,A
+1572,woorijip,Manhattan,Korean,11.0,A
+1573,mokyo,Manhattan,Korean; Tapas/Small Plates; Cocktail Bars,11.0,A
+1574,tiger box,Brooklyn,Korean,11.0,A
+1575,seoul salon,Manhattan,Korean; Cocktail Bars,11.0,A
+1576,loopy's eatery,Manhattan,Korean; Asian Fusion; Cheesesteaks,11.0,A
+1577,indian tanpura,Manhattan,Indian,11.0,A
+1578,sea salt,Manhattan,Mediterranean; Cocktail Bars; Seafood,11.0,A
+1579,mezze on the river,Manhattan,Seafood; Mediterranean,11.0,A
+1580,mermaid oyster bar,Manhattan,Seafood,11.0,A
+1581,ocean prime,Manhattan,Seafood; Steakhouses; New American,11.0,A
+1582,peaches prime,Brooklyn,Southern; New American; Seafood,11.0,A
+1583,all & sundry,Manhattan,Sandwiches; Bars; Seafood,11.0,A
+1584,villa berulia,Manhattan,Italian; Mediterranean; Seafood,11.0,A
+1585,the standard east village,Manhattan,Pop-Up Restaurants,11.0,A
+1586,fig & olive,Manhattan,Mediterranean; French; Bars,11.0,A
+1587,ilili restaurant,Manhattan,Mediterranean; Lebanese; Cocktail Bars,11.0,A
+1588,pascalou,Manhattan,French,11.0,A
+1589,joju,Manhattan,Coffee & Tea; Vietnamese; Sandwiches,11.0,A
+1590,bubo,Manhattan,Cocktail Bars; Beer Bar; Tapas Bars,11.0,A
+1591,eons greek food for life,Manhattan,Greek; Mediterranean; Salad,11.0,A
+1592,balaboosta,Manhattan,Mediterranean; Middle Eastern,11.0,A
+1593,fandi mata,Brooklyn,Mediterranean; Tapas/Small Plates,11.0,A
+1594,antique garage tribeca,Manhattan,Mediterranean; Turkish,11.0,A
+1595,bonafini,Brooklyn,Breakfast & Brunch; Italian,11.0,A
+1596,martha's cocina mexicana,Brooklyn,Mexican,11.0,A
+1597,mama taco,Manhattan,Mexican; Cocktail Bars,11.0,A
+1598,king david tacos,Brooklyn,Breakfast & Brunch; Tacos; Tex-Mex,11.0,A
+1599,cherokee deli,Brooklyn,Mexican; Breakfast & Brunch; Sandwiches,11.0,A
+1600,bozu,Brooklyn,Japanese; Bars,11.0,A
+1601,wanpaku,Brooklyn,Ramen; Cocktail Bars; Izakaya,11.0,A
+1602,lantern,Brooklyn,Thai,11.0,A
+1603,green leaf,Queens,Thai; Szechuan,11.0,A
+1604,a mix 47,Brooklyn,Sushi Bars; Chinese; Thai,11.0,A
+1605,thai for thought,Manhattan,Thai; Noodles; Salad,11.0,A
+1606,chao thai,Queens,Thai,11.0,A
+1607,tikka n talk,Queens,Indian; Halal; Breakfast & Brunch,11.0,A
+1608,peaches,Brooklyn,Southern; Seafood; Breakfast & Brunch,11.0,A
+1609,deux chats,Brooklyn,Bars; Seafood,11.0,A
+1610,ochi jamaican and seafood grill,Brooklyn,Seafood; Caribbean,11.0,A
+1611,bay ridge fish bar,Brooklyn,Fish & Chips; Seafood; Burgers,11.0,A
+1612,the little pig,Brooklyn,Tapas/Small Plates; Cocktail Bars; Beer Bar,11.0,A
+1613,winona's,Brooklyn,American,11.0,A
+1614,bricolage,Brooklyn,Vietnamese; Gastropubs; Cocktail Bars,11.0,A
+1615,el born,Brooklyn,Spanish; Wine Bars; Tapas/Small Plates,11.0,A
+1616,athena mediterranean cuisine,Brooklyn,Mediterranean; Greek,11.0,A
+1617,concettina,Queens,Italian; Southern; Mediterranean,11.0,A
+1618,paola's osteria,Manhattan,Italian; Pizza,11.0,A
+1619,taco azul,Queens,Mexican,11.0,A
+1620,teriyaki king,Queens,Sushi Bars; Japanese; Poke,11.0,A
+1621,wasabi point,Queens,Japanese; Asian Fusion; Noodles,11.0,A
+1622,casa asia,Queens,Asian Fusion; Sushi Bars; Thai,11.0,A
+1623,thai 101,Queens,Thai,11.0,A
+1624,yuk jun gui,Queens,Korean; Barbeque; Seafood,11.0,A
+1625,the queensboro,Queens,Gastropubs; New American; Breakfast & Brunch,11.0,A
+1626,main street imperial taiwanese,Queens,Taiwanese,11.0,A
+1627,kissfish,Queens,Poke; Sushi Bars,11.0,A
+1628,sangarita's,Queens,Spanish; Tapas Bars; Mediterranean,11.0,A
+1629,the alley pizza lounge,Bronx,Pizza; Italian; Cocktail Bars,11.0,A
+1630,mr. capri,Manhattan,Italian; Cocktail Bars,11.0,A
+1631,made in mexico,Manhattan,Mexican,11.0,A
+1632,pink pitaya,Bronx,Juice Bars & Smoothies; Acai Bowls; Mexican,11.0,A
+1633,tipico express,Bronx,Mexican,11.0,A
+1634,happy dragon,Bronx,Chinese,11.0,A
+1635,empire chinese restaurant,Queens,Chinese,11.0,A
+1636,double dragon restaurant,Brooklyn,Chinese,11.0,A
+1637,yummy house,Bronx,Chinese; Seafood; Soup,11.0,A
+1638,curry king,Manhattan,Indian; Halal; Pakistani,11.0,A
+1639,sabor latino seafood restaurant,Bronx,Seafood,11.0,A
+1640,the barbecue pit,Bronx,Barbeque; Comfort Food; Seafood,11.0,A
+1641,barrio bx,Bronx,Puerto Rican; Cocktail Bars,11.0,A
+1642,bangla garden restaurant,Bronx,Bangladeshi,11.0,A
+1643,city island yacht club,Bronx,New American; Cocktail Bars; Buffets,11.0,A
+1644,peking,Bronx,New American,11.0,A
+1645,the bronx beer hall,Bronx,"New American; Pubs; Beer, Wine & Spirits",11.0,A
+1646,gurra cafe,Bronx,Mediterranean,11.0,A
+1647,angelina's kitchen,Staten Island,Italian,11.0,A
+1648,ho'brah a taco joint,Staten Island,Mexican; Hawaiian,11.0,A
+1649,maya's cafe mexican cuisine,Staten Island,Mexican; Desserts; Burgers,11.0,A
+1650,la carreta restaurant,Brooklyn,Latin American; Seafood,11.0,A
+1651,bad roman,Manhattan,New American; Italian,10.0,A
+1652,uva,Manhattan,Italian; Wine Bars; Pizza,10.0,A
+1653,lulla,Manhattan,Italian; Breakfast & Brunch; Cocktail Bars,10.0,A
+1654,la voglia,Manhattan,Italian,10.0,A
+1655,giardino 54,Manhattan,Wine Bars; Italian; Cocktail Bars,10.0,A
+1656,osteria accademia,Manhattan,Italian,10.0,A
+1657,malaparte,Manhattan,Italian; Coffee & Tea; Pizza,10.0,A
+1658,osteria carlina,Manhattan,Italian,10.0,A
+1659,aurora,Brooklyn,Italian; Comfort Food,10.0,A
+1660,bar b,Manhattan,Italian; Bars; Tapas Bars,10.0,A
+1661,briciola harlem,Manhattan,Pizza; Italian; Wine Bars,10.0,A
+1662,osteria brooklyn,Queens,Italian,10.0,A
+1663,casa enrique,Queens,Mexican,10.0,A
+1664,la contenta les,Manhattan,Mexican; Bars; Breakfast & Brunch,10.0,A
+1665,rosie's,Manhattan,Mexican,10.0,A
+1666,leyenda,Brooklyn,Latin American; Mexican; Cocktail Bars,10.0,A
+1667,luchadores,Manhattan,Mexican,10.0,A
+1668,nenes taqueria,Brooklyn,Mexican,10.0,A
+1669,atla,Manhattan,Mexican; Breakfast & Brunch; Cocktail Bars,10.0,A
+1670,hey yuet,Manhattan,Dim Sum; Cantonese,10.0,A
+1671,dumpling n' dips,Manhattan,Dim Sum,10.0,A
+1672,redfarm,Manhattan,Dim Sum; Cantonese; Asian Fusion,10.0,A
+1673,excellent dumpling house,Manhattan,Dim Sum; Shanghainese,10.0,A
+1674,huuma,Manhattan,Chinese; Cocktail Bars; Seafood,10.0,A
+1675,szechuan garden,Manhattan,Szechuan; Dim Sum; Seafood,10.0,A
+1676,hutong,Manhattan,Dim Sum; Cocktail Bars; Breakfast & Brunch,10.0,A
+1677,the corner chinese restaurant,Manhattan,Chinese,10.0,A
+1678,bites of xian,Manhattan,Noodles; Burgers; Chinese,10.0,A
+1679,kimura,Manhattan,Japanese; Hot Pot; Sushi Bars,10.0,A
+1680,momosan ramen & sake,Manhattan,Ramen; Asian Fusion,10.0,A
+1681,teppen ramen,Manhattan,Ramen,10.0,A
+1682,an'nam,Manhattan,Japanese; Vietnamese; Sushi Bars,10.0,A
+1683,acre,Brooklyn,Breakfast & Brunch; Japanese; Coffee & Tea,10.0,A
+1684,gosuke,Manhattan,Japanese; Sushi Bars,10.0,A
+1685,sappe,Manhattan,Thai; Bars; Barbeque,10.0,A
+1686,the buffs,Queens,Thai,10.0,A
+1687,mekong,Manhattan,Thai; Vietnamese,10.0,A
+1688,bangklyn east harlem,Manhattan,Thai; Comfort Food; Asian Fusion,10.0,A
+1689,little thai kitchen,Manhattan,Thai,10.0,A
+1690,link thai,Brooklyn,Thai; Noodles,10.0,A
+1691,eim dee thai,Brooklyn,Thai,10.0,A
+1692,nari,Manhattan,Korean,10.0,A
+1693,c as in charlie,Manhattan,Korean; Tapas/Small Plates; Southern,10.0,A
+1694,itaewon pocha,Manhattan,Gastropubs; Korean,10.0,A
+1695,plan b,Manhattan,Lounges; Korean,10.0,A
+1696,korean express,Manhattan,Korean,10.0,A
+1697,muna,Manhattan,Himalayan/Nepalese; Indian,10.0,A
+1698,divya's kitchen,Manhattan,Vegan; Vegetarian; Indian,10.0,A
+1699,joy curry & tandoor,Manhattan,Indian,10.0,A
+1700,ambo,Manhattan,Indian; Fast Food,10.0,A
+1701,tinos,Manhattan,Greek; Mediterranean; Seafood,10.0,A
+1702,buena vista restaurant & bar,Manhattan,Bars; Latin American; Seafood,10.0,A
+1703,copinette,Manhattan,French; American; Seafood,10.0,A
+1704,vestry,Manhattan,Seafood; New American; Steakhouses,10.0,A
+1705,the sisteryard,Manhattan,Coffee & Tea; Cafes,10.0,A
+1706,the horny ram,Manhattan,New American; Bars; Venues & Event Spaces,10.0,A
+1707,while we were young,Manhattan,New American; Cocktail Bars,10.0,A
+1708,sundays well,Manhattan,Gastropubs; Irish Pub,10.0,A
+1709,the commodore,Brooklyn,Bars; American; Sandwiches,10.0,A
+1710,pylos,Manhattan,Greek,10.0,A
+1711,butterflied chicken,Manhattan,"Greek; Salad; Beer, Wine & Spirits",10.0,A
+1712,yefsi estiatorio,Manhattan,Greek; Mediterranean,10.0,A
+1713,telly's taverna,Queens,Greek; Mediterranean; Seafood,10.0,A
+1714,glasserie,Brooklyn,Mediterranean; Bars,10.0,A
+1715,cibo e vino,Manhattan,Italian; Mediterranean; Wine Bars,10.0,A
+1716,adria,Manhattan,Desserts; Mediterranean; Salad,10.0,A
+1717,safir mediterranean,Queens,Mediterranean; Turkish,10.0,A
+1718,michael's,Manhattan,Italian; Seafood; Pasta Shops,10.0,A
+1719,bar camillo,Brooklyn,"Italian; Pizza; Beer, Wine & Spirits",10.0,A
+1720,bomberino,Brooklyn,Cafes; Italian; Breakfast & Brunch,10.0,A
+1721,roman's,Brooklyn,Italian,10.0,A
+1722,sottocasa pizzeria,Manhattan,Pizza; Italian,10.0,A
+1723,dolce vita,Brooklyn,Bars; Italian,10.0,A
+1724,rocco’s of roc beach coal brick oven pizza,Queens,Pizza; Italian; Wine Bars,10.0,A
+1725,mama capri,Brooklyn,Italian; Seafood,10.0,A
+1726,pomo,Brooklyn,Cocktail Bars; Mexican,10.0,A
+1727,chilo's,Brooklyn,Bars; Mexican; Food Trucks,10.0,A
+1728,maya fusion cafe,Brooklyn,Mexican,10.0,A
+1729,la fondita,Bronx,Mexican; Spanish; Breakfast & Brunch,10.0,A
+1730,el caminante,Brooklyn,Mexican,10.0,A
+1731,jefe tacos,Brooklyn,Tacos; Bars,10.0,A
+1732,cafe mez,Brooklyn,Mexican; Cocktail Bars,10.0,A
+1733,mesa coyoacan,Brooklyn,Mexican; Bars,10.0,A
+1734,tacoomar,Brooklyn,Tacos; Desserts; Salad,10.0,A
+1735,china kitchen,Brooklyn,Mexican; Chinese; American,10.0,A
+1736,nai brother,Brooklyn,Chinese,10.0,A
+1737,new china pavilion,Brooklyn,Szechuan; Cantonese,10.0,A
+1738,fu yuan kitchen,Queens,Chinese,10.0,A
+1739,silver rice,Brooklyn,Japanese; Sushi Bars; Soup,10.0,A
+1740,za-ya,Brooklyn,Ramen; Breakfast & Brunch; Izakaya,10.0,A
+1741,obentoyasan,Brooklyn,Japanese,10.0,A
+1742,samurai mama,Brooklyn,Japanese; Noodles,10.0,A
+1743,enerugi ramen,Brooklyn,Ramen; Tapas/Small Plates,10.0,A
+1744,one more charm,Brooklyn,Thai; Coffee & Tea,10.0,A
+1745,pata cafe,Queens,Bubble Tea; Cafes; Thai,10.0,A
+1746,uthai,Queens,Thai; Vegan; Vegetarian,10.0,A
+1747,haenyeo,Brooklyn,Korean; Cocktail Bars,10.0,A
+1748,memphis seoul,Manhattan,Soul Food; Asian Fusion; Korean,10.0,A
+1749,wadadli jerk,Brooklyn,Caribbean; Street Vendors; Seafood,10.0,A
+1750,pilot,Brooklyn,Cocktail Bars; Seafood,10.0,A
+1751,taste yummy,Brooklyn,Seafood; Barbeque; Specialty Food,10.0,A
+1752,castillo restaurant,Brooklyn,Spanish; Seafood; Steakhouses,10.0,A
+1753,the islands,Brooklyn,Caribbean,10.0,A
+1754,zatar cafe & bistro,Brooklyn,Sandwiches; Falafel; Halal,10.0,A
+1755,uncle peter's,Queens,Italian; Seafood; Steakhouses,10.0,A
+1756,armondo's italian restaurant,Queens,Italian,10.0,A
+1757,sotto la luna,Queens,Italian; Pizza; Sandwiches,10.0,A
+1758,serafina,Manhattan,Italian; Pizza,10.0,A
+1759,tandoori pizza,Queens,Pizza; Indian; Italian,10.0,A
+1760,caffe rustico,Queens,Italian; Pizza,10.0,A
+1761,le fanfare,Brooklyn,Italian; Wine Bars; Cocktail Bars,10.0,A
+1762,la chula,Queens,Mexican,10.0,A
+1763,fidela's restaurant,Queens,Mexican,10.0,A
+1764,dai hachi sushi,Queens,Sushi Bars; Ramen,10.0,A
+1765,kin'd,Queens,Thai,10.0,A
+1766,black thai,Queens,Thai,10.0,A
+1767,dangol,Queens,Korean,10.0,A
+1768,the sweet sap,Queens,New American; Korean; Cocktail Bars,10.0,A
+1769,the basac,Queens,Korean,10.0,A
+1770,haveli indian restaurant & lounge,Queens,Lounges; Indian,10.0,A
+1771,king kabab,Queens,Indian; Halal; Pakistani,10.0,A
+1772,what the fish,Queens,Seafood; Sushi Bars; Cocktail Bars,10.0,A
+1773,meet the meat,Queens,Steakhouses; Seafood,10.0,A
+1774,the monster crab,Queens,Cajun/Creole; Seafood; Cocktail Bars,10.0,A
+1775,beija flor,Queens,Brazilian; Cocktail Bars,10.0,A
+1776,el pollo peruano,Queens,Peruvian,10.0,A
+1777,mojitos restaurant bar,Queens,Latin American; Breakfast & Brunch; Cocktail Bars,10.0,A
+1778,bakers cafe,Queens,Coffee & Tea; Breakfast & Brunch; Juice Bars & Smoothies,10.0,A
+1779,avli the little greek tavern,Queens,Greek; Mediterranean; Wraps,10.0,A
+1780,cafe premiata,Queens,Kosher; Mediterranean,10.0,A
+1781,ann & tony's restaurant,Bronx,Italian,10.0,A
+1782,the kitchen,Bronx,Burgers; Irish; Tacos,10.0,A
+1783,kam man kitchen,Bronx,Mexican,10.0,A
+1784,la casa del taco,Staten Island,Mexican,10.0,A
+1785,mi lindo san miguelito,Bronx,Mexican,10.0,A
+1786,chinese fried chicken,Bronx,Chinese,10.0,A
+1787,china palace,Bronx,Chinese,10.0,A
+1788,sushi mambo,Manhattan,Sushi Bars; Japanese; Bars,10.0,A
+1789,pick up six,Bronx,Chinese; Japanese; Thai,10.0,A
+1790,prime halal restaurant,Bronx,Indian; Halal; Middle Eastern,10.0,A
+1791,brothers seafood,Bronx,Seafood; Soul Food; Southern,10.0,A
+1792,moon star grill,Bronx,Asian Fusion; Vietnamese,10.0,A
+1793,dolce fantasia,Staten Island,Italian; Breakfast & Brunch; Burgers,10.0,A
+1794,kimika,Manhattan,Italian; Cocktail Bars; Asian Fusion,10.0,A
+1795,taqueria el gallo azteca,Staten Island,Mexican,10.0,A
+1796,yolpaqui taqueria,Staten Island,Mexican,10.0,A
+1797,senshi ramen,Manhattan,Ramen,10.0,A
+1798,rustic pizza & pasteria,Staten Island,Salad; Pizza; Cocktail Bars,10.0,A
+1799,chito gvrito,Manhattan,Georgian,10.0,A
+1800,harvest cafe,Staten Island,Cafes,10.0,A
+1801,petisco brazuca,Manhattan,Brazilian,10.0,A
+1802,misi,Brooklyn,Italian,9.0,A
+1803,noodle pudding,Brooklyn,Italian,9.0,A
+1804,travelers poets & friends,Manhattan,Coffee & Tea; Breakfast & Brunch; Italian,9.0,A
+1805,il divino,Manhattan,Italian; Breakfast & Brunch; Cocktail Bars,9.0,A
+1806,barano,Brooklyn,Pizza; Italian; Desserts,9.0,A
+1807,bar madonna,Brooklyn,Cocktail Bars; Italian; Salad,9.0,A
+1808,ruta oaxaca mexican cuisine,Queens,Mexican; Breakfast & Brunch; Cocktail Bars,9.0,A
+1809,avenida,Manhattan,Mexican; Salad; Cocktail Bars,9.0,A
+1810,factory tamal,Manhattan,Mexican; Breakfast & Brunch,9.0,A
+1811,chiko,Brooklyn,Szechuan,9.0,A
+1812,tangy noodle,Manhattan,Noodles; Chinese,9.0,A
+1813,le sia,Manhattan,Asian Fusion; Chinese; Cajun/Creole,9.0,A
+1814,house of the red pearl,Manhattan,Chinese; Asian Fusion,9.0,A
+1815,junzi kitchen,Manhattan,Chinese; Noodles; Salad,9.0,A
+1816,pig heaven,Manhattan,Barbeque; Szechuan; Dim Sum,9.0,A
+1817,nama,Manhattan,Japanese,9.0,A
+1818,tomi jazz,Manhattan,Japanese; Jazz & Blues,9.0,A
+1819,sushi yasaka,Manhattan,Japanese; Sushi Bars,9.0,A
+1820,shogun omakase,Manhattan,Sushi Bars; Japanese,9.0,A
+1821,rokc,Manhattan,Ramen; Seafood; Cocktail Bars,9.0,A
+1822,dokodemo,Manhattan,Ramen; Fast Food; Noodles,9.0,A
+1823,ashbox,Brooklyn,Coffee & Tea; Japanese; Sandwiches,9.0,A
+1824,evil katsu,Manhattan,Japanese,9.0,A
+1825,momoya,Manhattan,Sushi Bars; Japanese; Salad,9.0,A
+1826,shinbashi 72,Manhattan,Japanese; International Grocery,9.0,A
+1827,matsuri,Queens,Japanese,9.0,A
+1828,soju haus,Manhattan,Korean; Bars,9.0,A
+1829,nudibranch,Manhattan,Spanish; Wine Bars; Korean,9.0,A
+1830,oh k-dog & egg toast,Manhattan,Korean; Hot Dogs,9.0,A
+1831,the ssam,Manhattan,Korean; Asian Fusion; Salad,9.0,A
+1832,taste from everest,Manhattan,Himalayan/Nepalese; Indian; Desserts,9.0,A
+1833,flames indian aroma,Manhattan,Indian; Halal; Bangladeshi,9.0,A
+1834,agra taj mahal,Brooklyn,Indian,9.0,A
+1835,em vietnamese bistro,Brooklyn,Vietnamese; Noodles; Seafood,9.0,A
+1836,haswell green's,Manhattan,New American; Piano Bars; Sports Bars,9.0,A
+1837,r40,Queens,Argentine; Cocktail Bars,9.0,A
+1838,the milling room,Manhattan,New American; Wine Bars; Cocktail Bars,9.0,A
+1839,boutros,Brooklyn,New American; Lebanese; Cocktail Bars,9.0,A
+1840,anassa taverna astoria,Queens,Mediterranean; Greek; Breakfast & Brunch,9.0,A
+1841,bijan's,Brooklyn,New American; Cocktail Bars; Mediterranean,9.0,A
+1842,il posto,Brooklyn,Italian,9.0,A
+1843,pecoraro latteria,Brooklyn,Italian; Specialty Food; Sandwiches,9.0,A
+1844,pizzette,Brooklyn,Pizza; Cocktail Bars; Italian,9.0,A
+1845,casa azul,Brooklyn,Mexican; Cocktail Bars,9.0,A
+1846,jauja mexican kitchen,Brooklyn,Tacos,9.0,A
+1847,bar san miguel,Brooklyn,Mexican; Cocktail Bars; Venues & Event Spaces,9.0,A
+1848,plaza ortega,Brooklyn,Mexican; Acai Bowls; Ice Cream & Frozen Yogurt,9.0,A
+1849,fatty daddy taco,Brooklyn,Mexican,9.0,A
+1850,antojitos del patron mexican snacks,Brooklyn,Mexican,9.0,A
+1851,taqueria talavera,Brooklyn,Mexican,9.0,A
+1852,golden 11 seafood restaurant,Brooklyn,Dim Sum; Seafood; Cantonese,9.0,A
+1853,birds of a feather,Brooklyn,Szechuan,9.0,A
+1854,cotra,Brooklyn,Izakaya; Sushi Bars,9.0,A
+1855,chuko,Brooklyn,Asian Fusion; Ramen,9.0,A
+1856,okozushi,Brooklyn,Sushi Bars; Japanese,9.0,A
+1857,brooklyn ball factory,Brooklyn,Coffee & Tea; Japanese; Sandwiches,9.0,A
+1858,hachi,Brooklyn,Japanese,9.0,A
+1859,savory thai,Brooklyn,Thai; Noodles; Vegetarian,9.0,A
+1860,cuts & slices,Brooklyn,Pizza,9.0,A
+1861,opera cafe lounge,Brooklyn,Turkish; Mediterranean; Breakfast & Brunch,9.0,A
+1862,gyro express,Brooklyn,Desserts; Mediterranean; Halal,9.0,A
+1863,oshi's cafe,Brooklyn,Kosher; Vegetarian; Mediterranean,9.0,A
+1864,bosna express,Queens,Burgers; Mediterranean; Halal,9.0,A
+1865,wo kee noodle,Queens,Cantonese; Noodles; Barbeque,9.0,A
+1866,taste of canton,Queens,Chinese; Noodles; Hong Kong Style Cafe,9.0,A
+1867,fish with you,Queens,Szechuan,9.0,A
+1868,katsuno,Queens,Japanese; Sushi Bars,9.0,A
+1869,beat mazesoba,Queens,Ramen; Noodles; Beer Bar,9.0,A
+1870,chopped parsley,Manhattan,Japanese,9.0,A
+1871,sushi time,Queens,Sushi Bars; Japanese,9.0,A
+1872,when in bangkok,Queens,Thai; Cocktail Bars; Seafood,9.0,A
+1873,taan thai kitchen,Queens,Thai,9.0,A
+1874,pho tan,Queens,Vietnamese; Thai,9.0,A
+1875,asian cafe,Queens,Chinese; Thai,9.0,A
+1876,haat bazaar,Queens,Bangladeshi; Indian; Halal,9.0,A
+1877,sazon de mi tierra,Queens,Seafood; Breakfast & Brunch; Latin American,9.0,A
+1878,cali aji con sabor restaurant,Queens,Colombian,9.0,A
+1879,lido,Manhattan,Italian; Breakfast & Brunch; Cocktail Bars,9.0,A
+1880,family's cafe,Bronx,Mexican; Breakfast & Brunch; Diners,9.0,A
+1881,taqueria el tanque,Bronx,Mexican,9.0,A
+1882,master grill,Bronx,Mexican; Japanese; Bubble Tea,9.0,A
+1883,lechonera pollo sabroso del valle,Bronx,Mexican,9.0,A
+1884,taichi bubble tea,Bronx,Ramen; Bubble Tea; Poke,9.0,A
+1885,rain ii,Manhattan,Thai,9.0,A
+1886,neem indian cuisine,Bronx,Indian; Vegetarian; Halal,9.0,A
+1887,city island lobster house,Bronx,Seafood,9.0,A
+1888,teuta qebaptore,Bronx,Modern European; Halal,9.0,A
+1889,dancing crane cafe,Manhattan,Fast Food,9.0,A
+1890,mello bistro,Staten Island,Italian; Desserts; Salad,9.0,A
+1891,aunt butchies of brooklyn,Staten Island,Italian; Cocktail Bars; Venues & Event Spaces,9.0,A
+1892,1468 hylan cafe,Staten Island,Chinese,9.0,A
+1893,thai leaf,Brooklyn,Thai,9.0,A
+1894,non solo piada,Manhattan,Italian; Breakfast & Brunch; Piadina,8.0,A
+1895,oxomoco,Brooklyn,Mexican,8.0,A
+1896,corima,Manhattan,Mexican,8.0,A
+1897,xixa,Brooklyn,Mexican; Tapas/Small Plates; Cocktail Bars,8.0,A
+1898,the monkey king,Brooklyn,Chinese; Asian Fusion; Bangladeshi,8.0,A
+1899,da long yi hot pot,Manhattan,Szechuan; Hot Pot,8.0,A
+1900,yummy stick,Manhattan,Japanese; Korean,8.0,A
+1901,tsukimi,Manhattan,Japanese,8.0,A
+1902,sushi blossoms,Manhattan,Sushi Bars; Japanese,8.0,A
+1903,izakaya juraku,Manhattan,Bars; Izakaya; Ramen,8.0,A
+1904,oramen,Manhattan,Ramen; Sushi Bars,8.0,A
+1905,asuka sushi,Manhattan,Japanese; Thai; Cocktail Bars,8.0,A
+1906,hub thai,Manhattan,Thai,8.0,A
+1907,sam sunny,Manhattan,Korean; Cocktail Bars; Barbeque,8.0,A
+1908,kimganae,Queens,Korean; Seafood; Noodles,8.0,A
+1909,chote nawab,Manhattan,Indian,8.0,A
+1910,tolo,Manhattan,Wine Bars; Seafood; Noodles,8.0,A
+1911,the clam,Manhattan,Seafood; New American; Cocktail Bars,8.0,A
+1912,la marchande,Manhattan,French; Brasseries,8.0,A
+1913,bersi ethiopian restaurant,Brooklyn,Ethiopian,8.0,A
+1914,psaraki,Brooklyn,Greek; Salad; Seafood,8.0,A
+1915,12 chairs cafe,Brooklyn,Middle Eastern; Breakfast & Brunch; Mediterranean,8.0,A
+1916,the deep end,Queens,Bars; New American; Mexican,8.0,A
+1917,welcome chili,Brooklyn,Szechuan,8.0,A
+1918,sushi katsuei,Brooklyn,Sushi Bars; Japanese; Seafood,8.0,A
+1919,luck thai,Brooklyn,Thai,8.0,A
+1920,tasty house,Brooklyn,Chinese; Thai,8.0,A
+1921,omar's indian fine cuisine,Brooklyn,Indian; Pizza; Bagels,8.0,A
+1922,green chilli,Brooklyn,Indian,8.0,A
+1923,bombay kabab,Brooklyn,Kebab; Indian; Soup,8.0,A
+1924,tandoori hut,Queens,Indian,8.0,A
+1925,aeronuova,Queens,Italian; Bars; American,8.0,A
+1926,crazy meat,Queens,Salad; Burgers; Mexican,8.0,A
+1927,pacific moon,Queens,Chinese; Japanese; Seafood,8.0,A
+1928,kaizen,Queens,Sushi Bars; Japanese; Cocktail Bars,8.0,A
+1929,lucy's asian kitchen,Queens,Asian Fusion; Chinese; Thai,8.0,A
+1930,ny beer garden,Queens,Beer Bar; Korean; Tapas/Small Plates,8.0,A
+1931,danny's athens restaurant,Bronx,Greek; Mediterranean,8.0,A
+1932,tacos el chuleton,Bronx,Mexican,8.0,A
+1933,maki,Manhattan,Japanese; Cafes,8.0,A
+1934,family indian restaurant,Bronx,Halal; Indian; Bangladeshi,8.0,A
+1935,bora bora smoothie cafe,Bronx,Creperies; Acai Bowls; Juice Bars & Smoothies,8.0,A
+1936,la barca restaurant,Manhattan,Dominican,8.0,A
+1937,el mirador restaurant,Brooklyn,New American; Mexican; American,8.0,A
+1938,gold bao,Manhattan,Chinese,8.0,A
+1939,ci siamo,Manhattan,Italian; Bars; Pizza,7.0,A
+1940,osteria 106,Manhattan,Italian,7.0,A
+1941,osteria nonnino,Manhattan,Italian; Pasta Shops; Cocktail Bars,7.0,A
+1942,pepe giallo,Manhattan,Italian,7.0,A
+1943,cucina alba,Manhattan,Italian,7.0,A
+1944,larina pastificio & vino,Brooklyn,Bars; Italian; Pasta Shops,7.0,A
+1945,felice on hudson,Manhattan,Bars; Italian,7.0,A
+1946,siena cafe,Manhattan,Italian; Cocktail Bars; Tapas/Small Plates,7.0,A
+1947,los tacos no. 1,Manhattan,Tacos,7.0,A
+1948,los mariscos,Manhattan,Mexican; Cocktail Bars,7.0,A
+1949,goku kitchen,Staten Island,Asian Fusion; Japanese,7.0,A
+1950,izakaya nomad,Manhattan,Gastropubs; Izakaya; Bars,7.0,A
+1951,ito,Manhattan,Sushi Bars; Japanese,7.0,A
+1952,katana kitten,Manhattan,Cocktail Bars; Izakaya,7.0,A
+1953,thai market,Manhattan,Thai; Noodles; Soup,7.0,A
+1954,house of thai,Queens,Thai,7.0,A
+1955,untable,Brooklyn,Thai,7.0,A
+1956,heng thai,Queens,Thai,7.0,A
+1957,the am-thai,Brooklyn,Thai; Noodles; Desserts,7.0,A
+1958,don don,Manhattan,Barbeque; Specialty Food; Korean,7.0,A
+1959,kuun,Brooklyn,Korean,7.0,A
+1960,soogil,Manhattan,Korean; French; Tapas/Small Plates,7.0,A
+1961,cafe joah,Manhattan,Coffee & Tea; Cafes; Korean,7.0,A
+1962,mysttik masaala,Manhattan,Indian; Food Trucks,7.0,A
+1963,mint heights,Brooklyn,Indian,7.0,A
+1964,seva indian cuisine,Queens,Indian; Vegetarian; Vegan,7.0,A
+1965,swagat,Manhattan,Indian,7.0,A
+1966,home kitchen,Manhattan,American; Desserts; Burgers,7.0,A
+1967,the red stache,Manhattan,Bars; American; Breakfast & Brunch,7.0,A
+1968,mino brasserie,Manhattan,French; Brasseries,7.0,A
+1969,paros,Manhattan,Greek,7.0,A
+1970,saigon social,Manhattan,Vietnamese,7.0,A
+1971,five acres,Manhattan,New American; Breakfast & Brunch; Cocktail Bars,7.0,A
+1972,marche madison,Manhattan,Delis; Italian; Greek,7.0,A
+1973,leyla,Manhattan,Turkish; Mediterranean; Breakfast & Brunch,7.0,A
+1974,tamam,Manhattan,Falafel; Vegan,7.0,A
+1975,cafe ornithology,Brooklyn,Jazz & Blues; Bars; Mediterranean,7.0,A
+1976,nerea,Manhattan,Italian; Cocktail Bars; Mediterranean,7.0,A
+1977,palmetto,Brooklyn,Wine Bars; Mediterranean; Cocktail Bars,7.0,A
+1978,anthony's place,Brooklyn,Italian,7.0,A
+1979,limosneros,Brooklyn,Tacos; Cocktail Bars; Beer Bar,7.0,A
+1980,moon wok,Brooklyn,Szechuan; Dim Sum,7.0,A
+1981,china tastes,Brooklyn,Chinese,7.0,A
+1982,misc,Brooklyn,Thai; Ramen; Asian Fusion,7.0,A
+1983,sawasde thai cooking,Brooklyn,Thai,7.0,A
+1984,noor palace,Brooklyn,Indian,7.0,A
+1985,exotic eats nyc,Brooklyn,Comfort Food; Seafood; Soul Food,7.0,A
+1986,bunny,Brooklyn,Turkish; German,7.0,A
+1987,werkstatt,Brooklyn,Austrian; Cocktail Bars,7.0,A
+1988,public display of affection,Brooklyn,Pizza; Breakfast & Brunch; Vegetarian,7.0,A
+1989,jerusalem falafel house,Brooklyn,Middle Eastern; Falafel,7.0,A
+1990,panino rustico of howard beach,Queens,Sandwiches; Wraps; Italian,7.0,A
+1991,astoria pizza factory,Queens,Pizza; Italian; Chicken Wings,7.0,A
+1992,grand sichuan,Queens,Szechuan,7.0,A
+1993,marathon cafe,Queens,Chicken Wings; Hong Kong Style Cafe; Chinese,7.0,A
+1994,nom wah,Manhattan,Dim Sum,7.0,A
+1995,tj asian bistro,Queens,Japanese; Sushi Bars,7.0,A
+1996,nine thai,Queens,Thai,7.0,A
+1997,tianxia asian cuisine,Queens,Seafood; Noodles; Asian Fusion,7.0,A
+1998,forest cafe,Queens,Cafes,7.0,A
+1999,ramro,Queens,Himalayan/Nepalese; Filipino; Cocktail Bars,7.0,A
+2000,urban halal grill,Queens,Halal; Greek; Burgers,7.0,A
+2001,bono trattoria,Manhattan,Pizza; Italian,7.0,A
+2002,ramen ku-raku,Manhattan,Ramen; Sushi Bars,7.0,A
+2003,eso pesco,Manhattan,Seafood; Cocktail Bars; Breakfast & Brunch,7.0,A
+2004,stoned pizza,Manhattan,Pizza; Gelato; Desserts,7.0,A
+2005,the black whale,Bronx,New American; Diners; Breakfast & Brunch,7.0,A
+2006,fito,Manhattan,Latin American; Cocktail Bars; Tapas/Small Plates,7.0,A
+2007,casa verde,Staten Island,Italian; Pizza; Caterers,7.0,A
+2008,marina cafe,Staten Island,Italian; Seafood; Lounges,7.0,A
+2009,maizal restaurant,Staten Island,Mexican; Bars,7.0,A
+2010,simple food,Staten Island,Chinese; Soup; Sandwiches,7.0,A
+2011,chakra,Manhattan,Vegan; Asian Fusion; Thai,7.0,A
+2012,zara cafe grill,Staten Island,Mediterranean; Turkish,7.0,A
+2013,don angie,Manhattan,Italian; New American,6.0,A
+2014,osteria delbianco bryant park,Manhattan,Italian,6.0,A
+2015,gersi,Brooklyn,Italian; Wine Bars; Breakfast & Brunch,6.0,A
+2016,olle,Manhattan,Korean,6.0,A
+2017,kochi,Manhattan,Korean; Venues & Event Spaces; Wine Bars,6.0,A
+2018,cervo's,Manhattan,Seafood,6.0,A
+2019,il monello,Manhattan,Italian; Seafood,6.0,A
+2020,recette,Brooklyn,French; New American,6.0,A
+2021,zizi wine bar,Manhattan,Wine Bars; Middle Eastern; Mediterranean,6.0,A
+2022,garlic to the chicken,Queens,Chicken Wings; Korean,6.0,A
+2023,meze,Brooklyn,Greek; Mediterranean; Seafood,6.0,A
+2024,inca paisa,Queens,Peruvian; Colombian; Cocktail Bars,6.0,A
+2025,diamante poblano restaurant,Bronx,Mexican,6.0,A
+2026,la cocina de yala,Bronx,Caribbean; Spanish,6.0,A
+2027,van cafe,Manhattan,Dim Sum; Noodles; Cafes,6.0,A
+2028,craft house,Staten Island,Bars; Barbeque,6.0,A
+2029,sartiano's,Manhattan,Italian,5.0,A
+2030,water & wheat,Manhattan,Italian,5.0,A
+2031,botte brooklyn,Brooklyn,Italian; Pizza,5.0,A
+2032,coletta,Manhattan,Vegan; Italian; Kosher,5.0,A
+2033,vida verde,Manhattan,Cocktail Bars; Mexican; Venues & Event Spaces,5.0,A
+2034,chela & garnacha,Queens,Mexican; Wine Bars; Breakfast & Brunch,5.0,A
+2035,gyu-kaku japanese bbq,Manhattan,Japanese; Barbeque; Asian Fusion,5.0,A
+2036,valla table,Manhattan,Thai,5.0,A
+2037,ariari,Manhattan,Korean; Tapas/Small Plates; Gastropubs,5.0,A
+2038,yubu,Manhattan,Korean; Coffee & Tea,5.0,A
+2039,abracadabra magic diner,Queens,Vegetarian; Turkish; Indian,5.0,A
+2040,kairos greek street food,Manhattan,Greek,5.0,A
+2041,flora,Brooklyn,Italian; Cocktail Bars; Wine Bars,5.0,A
+2042,washoku kyo,Brooklyn,Japanese,5.0,A
+2043,nem's japandi bistro,Brooklyn,Izakaya; Breakfast & Brunch; Cocktail Bars,5.0,A
+2044,kitchen grill,Brooklyn,Indian,5.0,A
+2045,ital kitchen,Brooklyn,Vegetarian; Vegan,5.0,A
+2046,sea witch,Brooklyn,Lounges; Gastropubs; Beer Bar,5.0,A
+2047,shimiaodao yunnan rice noodle,Queens,Chinese; Noodles,5.0,A
+2048,ok ryan restaurant,Queens,Chinese; Taiwanese,5.0,A
+2049,u-me sushi,Queens,Japanese; Sushi Bars,5.0,A
+2050,bangkok avenue,Queens,Thai; Noodles; Seafood,5.0,A
+2051,momo crave,Queens,Himalayan/Nepalese; Beverage Store; Noodles,5.0,A
+2052,art of grill,Queens,Kosher; Mediterranean; Steakhouses,5.0,A
+2053,roberto's,Bronx,Italian,5.0,A
+2054,taqueria los angeles,Bronx,Mexican,5.0,A
+2055,crab du jour,Brooklyn,Seafood; Cajun/Creole,5.0,A
+2056,enoteca maria,Staten Island,Italian,5.0,A
+2057,sapori ristorante,Staten Island,Italian,5.0,A
+2058,mercado ariana,Staten Island,Mexican; Tex-Mex,5.0,A
+2059,wonderland,Manhattan,New American,5.0,A
+2060,popina,Brooklyn,Southern; Italian,4.0,A
+2061,ayy chihuahua,Queens,Mexican; Cocktail Bars,4.0,A
+2062,shinjuku ramen,Manhattan,Ramen,4.0,A
+2063,juban,Manhattan,Japanese; Sushi Bars; Seafood,4.0,A
+2064,yezo thai isankaya,Manhattan,Thai; Izakaya; Noodles,4.0,A
+2065,marwin thai restaurant,Manhattan,Thai,4.0,A
+2066,baby's buns & buckets,Brooklyn,Thai; Fish & Chips; Fast Food,4.0,A
+2067,chicken insider,Manhattan,Chicken Wings; Chicken Shop; Korean,4.0,A
+2068,white olive,Manhattan,Mediterranean; Seafood; Cocktail Bars,4.0,A
+2069,tina's cuban cuisine,Manhattan,Cuban,4.0,A
+2070,the landing,Manhattan,Cocktail Bars; American; Burgers,4.0,A
+2071,garnacha bite,Brooklyn,Mexican; Tex-Mex,4.0,A
+2072,alma negra,Brooklyn,Mexican; Cocktail Bars; Salad,4.0,A
+2073,seagasm,Brooklyn,Seafood; Seafood Markets,4.0,A
+2074,friendly restaurant,Queens,Chinese,4.0,A
+2075,my kitchen,Queens,New American; Venues & Event Spaces,4.0,A
+2076,sugar cafe,Manhattan,Wine Bars; Latin American; Seafood,4.0,A
+2077,raval steakhouse,Staten Island,Steakhouses; Bars,4.0,A
+2078,los tacos no 1,Manhattan,Tacos,3.0,A
+2079,k-kimbap,Manhattan,Korean,3.0,A
+2080,the orchard townhouse,Manhattan,American,3.0,A
+2081,teriyaki bowl,Brooklyn,Japanese,3.0,A
+2082,golden kitchen,Queens,Chinese; Japanese; Thai,3.0,A
+2083,tipico56,Manhattan,Dominican; Latin American; Seafood,3.0,A
+2084,gran via,Manhattan,"Tapas Bars; Spanish; Beer, Wine & Spirits",3.0,A
+2085,il tinello,Manhattan,Italian,2.0,A
+2086,tri dim shanghai,Manhattan,Shanghainese; Dim Sum; Szechuan,2.0,A
+2087,nyonya,Manhattan,Malaysian; Chinese,2.0,A
+2088,nai brother chinese sauerkraut fish,Queens,Chinese,2.0,A
+2089,vert frais,Queens,Cocktail Bars; Ramen,2.0,A
+2090,up thai,Manhattan,Thai,2.0,A
+2091,wayla,Brooklyn,Thai,2.0,A
+2092,pho aob,Manhattan,Thai; Noodles; Soup,2.0,A
+2093,wondee siam,Manhattan,Thai,2.0,A
+2094,rice x beans,Manhattan,Brazilian; Seafood; Salad,2.0,A
+2095,flex mussels,Manhattan,Seafood; Desserts,2.0,A
+2096,sama street,Brooklyn,Cocktail Bars; Pan Asian; Tapas/Small Plates,2.0,A
+2097,holy cow burgers,Brooklyn,Burgers; Fast Food; Hot Dogs,2.0,A
+2098,ted's corner tavern,Manhattan,"Cocktail Bars; Mediterranean; Beer, Wine & Spirits",2.0,A
+2099,santa panza,Brooklyn,Pizza; Italian; Breakfast & Brunch,2.0,A
+2100,arancini bros,Manhattan,Italian,2.0,A
+2101,la taq,Brooklyn,Mexican,2.0,A
+2102,taqueria el torito,Brooklyn,Mexican,2.0,A
+2103,fuding wok,Brooklyn,Chinese; Noodles,2.0,A
+2104,musha sushi,Brooklyn,Japanese; Bubble Tea; Sushi Bars,2.0,A
+2105,muse,Brooklyn,Thai; Cocktail Bars,2.0,A
+2106,holic thai bistro,Brooklyn,Thai,2.0,A
+2107,tasty thai,Queens,Thai,2.0,A
+2108,indian curry heights,Brooklyn,Indian,2.0,A
+2109,maison premiere,Brooklyn,Seafood; Bars; Venues & Event Spaces,2.0,A
+2110,maison sun,Brooklyn,French; Asian Fusion,2.0,A
+2111,the lonesome club,Brooklyn,Irish Pub; Irish,2.0,A
+2112,the westbury inn,Brooklyn,American; Beer Bar; Chicken Wings,2.0,A
+2113,mark's off madison,Manhattan,Breakfast & Brunch; Italian; American,2.0,A
+2114,future taste,Queens,Chinese,2.0,A
+2115,shi,Queens,Asian Fusion; Sushi Bars; Japanese,2.0,A
+2116,steamed bun laboratory,Queens,Korean,2.0,A
+2117,kpop karaoke,Queens,Karaoke; Bars; Korean,2.0,A
+2118,tung thong thai restaurant,Manhattan,Thai,2.0,A
+2119,lin & daughters,Manhattan,Chinese; Noodles; Bubble Tea,0.0,A
+2120,szechuan gourmet,Manhattan,Szechuan,0.0,A
+2121,tam sang thai kitchen,Manhattan,Thai,0.0,A
+2122,szechuan opera,Queens,Szechuan; Cantonese; Dim Sum,100.0,
+2123,tokuyamatcha & onigirazu bar,Manhattan,Japanese; Bars,98.0,
+2124,pecking house,Manhattan,Chicken Shop; Chinese; Southern,95.0,
+2125,ammi,Manhattan,Indian,95.0,
+2126,indian spice,Brooklyn,Indian,94.0,
+2127,mumbai masala,Manhattan,Indian,92.0,
+2128,falguni restaurant,Queens,Halal; Indian,90.0,
+2129,taqueria al pastor,Brooklyn,Mexican,87.0,
+2130,tihu the noodle house,Queens,Noodles; Chinese; Taiwanese,80.0,
+2131,riverdale indian grill,Bronx,Indian; Caterers; Vegetarian,76.0,
+2132,pattanian thai,Queens,Thai,75.0,
+2133,sky pavilion,Manhattan,Chinese,74.0,
+2134,queens seafood restaurant,Queens,Seafood; Cantonese,72.0,
+2135,sally's smokehouse,Staten Island,Barbeque; Smokehouse; Cocktail Bars,71.0,
+2136,bombay chowk,Manhattan,Indian,70.0,
+2137,mockingbird,Brooklyn,Breakfast & Brunch; Tacos,69.0,
+2138,k-street food,Manhattan,Korean; Bubble Tea; Juice Bars & Smoothies,67.0,
+2139,taberu nomu,Manhattan,Japanese; Seafood,66.0,
+2140,seth thai restaurant,Queens,Thai,65.0,
+2141,taco express mexican grill,Bronx,Halal; Mexican,65.0,
+2142,mezban house,Queens,Indian; Bangladeshi; Desserts,64.0,
+2143,ciccio cincin,Manhattan,Italian,61.0,
+2144,utshob restaurant,Manhattan,Bangladeshi; Pakistani; Indian,61.0,
+2145,david burke tavern,Manhattan,Steakhouses; American; Seafood,61.0,
+2146,red chilli,Queens,Indian,60.0,
+2147,rodeo,Brooklyn,Wine Bars; Cocktail Bars; Sandwiches,58.0,
+2148,sweet wonton king,Queens,Cantonese,57.0,
+2149,nan xiang express,Brooklyn,Shanghainese; Dim Sum; Noodles,55.0,
+2150,lucky cat,Manhattan,Ramen; Izakaya; Sushi Bars,55.0,
+2151,soup on soup,Brooklyn,Noodles; Chinese; Soup,55.0,
+2152,duk soo goong,Queens,Korean; Noodles; Sushi Bars,55.0,
+2153,el jobo seafood restaurant,Bronx,Seafood; Latin American,55.0,
+2154,singh pizza & pasta,Queens,Pizza; Seafood; Breakfast & Brunch,54.0,
+2155,panda harlem,Manhattan,Chinese; Bars; Asian Fusion,53.0,
+2156,thai time,Manhattan,Thai; Asian Fusion; Gluten-Free,53.0,
+2157,riverdale indian kitchen,Bronx,Indian; Halal; Bangladeshi,52.0,
+2158,new china buffet,Staten Island,Chinese; Buffets,51.0,
+2159,gaia restaurant,Manhattan,Mediterranean,50.0,
+2160,carnation restaurant,Brooklyn,Chinese,50.0,
+2161,a bite of fuzhou,Queens,Chinese; Breakfast & Brunch,50.0,
+2162,lea,Brooklyn,Italian; Pizza; Breakfast & Brunch,49.0,
+2163,pho thai,Queens,Vietnamese; Thai,49.0,
+2164,fomo momo,Manhattan,Indian; Dim Sum; Sandwiches,48.0,
+2165,omg shawarma,Manhattan,Mediterranean,48.0,
+2166,ilegal taqueria,Brooklyn,Mexican; Bars,48.0,
+2167,tong sam gyup goo yi,Queens,Korean,48.0,
+2168,seawalk restaurant,Manhattan,Salad; Seafood; Cocktail Bars,47.0,
+2169,ikigai,Brooklyn,Japanese; Asian Fusion,45.0,
+2170,ygf malatang,Manhattan,Chinese; Soup,44.0,
+2171,conohen,Brooklyn,Japanese; Breakfast & Brunch,44.0,
+2172,paratha wala,Queens,Indian; Halal; Bangladeshi,44.0,
+2173,radici,Queens,Italian; Venues & Event Spaces; Pizza,44.0,
+2174,shuya,Manhattan,Ramen,43.0,
+2175,thai ros thip,Brooklyn,Thai; Seafood; Noodles,43.0,
+2176,india cafe,Queens,Indian,43.0,
+2177,salt + charcoal,Brooklyn,Japanese; Steakhouses; Wine Bars,41.0,
+2178,seven sins,Manhattan,New American; Sports Bars,41.0,
+2179,mr dak,Queens,Chicken Wings; Korean,41.0,
+2180,old xi'an,Manhattan,Chinese,40.0,
+2181,la loncheria,Brooklyn,Mexican,40.0,
+2182,burmese harp,Brooklyn,Japanese; Burmese; Sushi Bars,40.0,
+2183,five loaves and two fishes,Queens,Dim Sum; Barbeque; Sushi Bars,40.0,
+2184,chinito latino,Manhattan,Chinese; Asian Fusion,40.0,
+2185,chili,Manhattan,Szechuan; Dim Sum; Cocktail Bars,39.0,
+2186,taqueria el gallo giro,Queens,Mexican; Coffee & Tea,39.0,
+2187,hey thai,Manhattan,Thai; Diners; Asian Fusion,38.0,
+2188,cent'anni,Brooklyn,Italian,37.0,
+2189,seoul ttukbaegi,Queens,Korean,36.0,
+2190,the alchemist cocktail lounge,Staten Island,Cocktail Bars; Lounges; Tapas/Small Plates,36.0,
+2191,quique crudo,Manhattan,Cocktail Bars; Mexican,35.0,
+2192,class on 38th,Manhattan,Bars; Japanese; Seafood,35.0,
+2193,bungalow,Manhattan,Indian; Coffee & Tea; Cocktail Bars,35.0,
+2194,sopo,Manhattan,Korean; Comfort Food; Barbeque,34.0,
+2195,kebab aur sharab,Manhattan,Indian; Kebab; Cocktail Bars,34.0,
+2196,seis vecinos restaurant,Bronx,Latin American; Mexican; Honduran,34.0,
+2197,pier 23,Manhattan,Seafood,33.0,
+2198,sociale,Brooklyn,Italian; Tapas/Small Plates; Pizza,33.0,
+2199,gong fu xiao long bao,Brooklyn,Noodles; Chinese; Soup,33.0,
+2200,avo taco,Queens,Tacos; Cocktail Bars,33.0,
+2201,dr. clark,Manhattan,Japanese,33.0,
+2202,los dos hermanos,Brooklyn,Tapas Bars; Mexican,32.0,
+2203,blue blossom,Manhattan,Chinese; Seafood; Noodles,32.0,
+2204,hyderabadi zaiqa,Manhattan,Desserts; Juice Bars & Smoothies; Indian,32.0,
+2205,hks kitchen,Staten Island,Hong Kong Style Cafe,32.0,
+2206,evalyn's tap house,Brooklyn,Beer Bar; Gastropubs; Venues & Event Spaces,31.0,
+2207,plern thai restaurant and noodle bar,Queens,Thai,30.0,
+2208,makan house,Brooklyn,Malaysian,30.0,
+2209,geisha japanese grill,Manhattan,Japanese,30.0,
+2210,knock knock,Staten Island,Ramen; Donuts; Burgers,30.0,
+2211,the tusk bar,Manhattan,Cocktail Bars; Seafood,29.0,
+2212,randazzo's clam bar,Brooklyn,Seafood,29.0,
+2213,edge restaurant & lounge,Bronx,Lounges; Seafood; Chicken Wings,29.0,
+2214,daphne's,Brooklyn,Italian,28.0,
+2215,tam mai thai,Manhattan,Thai; Salad; Soup,28.0,
+2216,uzuki,Brooklyn,Japanese,28.0,
+2217,junsui,Brooklyn,Japanese; Sushi Bars,28.0,
+2218,taj kabab king,Brooklyn,Indian,28.0,
+2219,curry mee,Brooklyn,Malaysian; Salad; Soup,28.0,
+2220,georgies bistro,Staten Island,American; Mexican,28.0,
+2221,sempre oggi,Manhattan,Italian; Desserts; Venues & Event Spaces,27.0,
+2222,peppercorn station,Manhattan,Szechuan,27.0,
+2223,senn thai comfort food,Manhattan,Thai; Noodles; Comfort Food,27.0,
+2224,the mayfly,Manhattan,American,27.0,
+2225,taste of gyro,Queens,Greek,27.0,
+2226,lime & salt,Brooklyn,New Mexican Cuisine; Mexican,27.0,
+2227,kabab time,Staten Island,Indian; Kebab,27.0,
+2228,terminal one,Staten Island,Mediterranean; Sports Bars; Lounges,27.0,
+2229,de tandoori knight,Brooklyn,Halal; Indian; Vegetarian,26.0,
+2230,il toscano ristorante,Queens,Italian; Seafood,26.0,
+2231,northern 160,Queens,Korean,26.0,
+2232,batik restaurant,Queens,Indonesian; Malaysian,26.0,
+2233,empire wok,Bronx,Chinese,26.0,
+2234,bosino,Manhattan,Pizza; Italian,25.0,
+2235,la caridad 72,Manhattan,Chinese; Cuban,25.0,
+2236,thai 36,Queens,Thai,25.0,
+2237,gupshup,Manhattan,Indian; Cocktail Bars; Breakfast & Brunch,25.0,
+2238,the casual greek,Manhattan,Greek,25.0,
+2239,prem thai restaurant and noodle bar,Brooklyn,Thai; Noodles,25.0,
+2240,gyro king xpress,Brooklyn,Halal; Falafel; Greek,25.0,
+2241,nana teriyaki,Queens,Chinese; Teppanyaki; Ramen,25.0,
+2242,sala astoria,Queens,Spanish; Tapas/Small Plates,25.0,
+2243,budda kitchen & bar,Manhattan,Latin American; Asian Fusion; Cocktail Bars,25.0,
+2244,fan szechuan,Manhattan,Szechuan; Dim Sum; Seafood,25.0,
+2245,gyro mania,Brooklyn,Halal; Falafel; Seafood,25.0,
+2246,osteria barocca,Manhattan,Italian; Bars; Pizza,24.0,
+2247,son del north,Manhattan,Mexican; Wraps,24.0,
+2248,moon kee,Manhattan,Cantonese; Dim Sum; Hong Kong Style Cafe,24.0,
+2249,toriya,Manhattan,Izakaya; Tapas/Small Plates; Beer Bar,24.0,
+2250,meju,Queens,Korean,24.0,
+2251,sea to soul,Manhattan,Seafood; Soul Food; Caterers,24.0,
+2252,greek kitchen,Brooklyn,Greek; Mediterranean; Wine Bars,24.0,
+2253,isabelle's osteria,Manhattan,Italian; Mediterranean,24.0,
+2254,mama yoshi mini mart,Queens,Japanese,24.0,
+2255,look deer sushi,Brooklyn,Sushi Bars; Ramen,24.0,
+2256,avlee greek kitchen,Brooklyn,Greek; Mediterranean; Desserts,24.0,
+2257,mister cangrejo,Queens,Seafood; Colombian; Cocktail Bars,24.0,
+2258,the fish bar,Bronx,Seafood; Wine Bars; Cocktail Bars,24.0,
+2259,flores brunch,Staten Island,Breakfast & Brunch; Waffles; Mexican,24.0,
+2260,little charli,Manhattan,Pizza; Wine Bars; Italian,23.0,
+2261,panzón,Brooklyn,Mexican,23.0,
+2262,grand canyon restaurant city,Manhattan,Breakfast & Brunch; Mexican; Diners,23.0,
+2263,verge,Brooklyn,Sushi Bars; Japanese; Asian Fusion,23.0,
+2264,akdeniz mediterranean cuisine,Manhattan,Turkish; Mediterranean; Salad,23.0,
+2265,liman restaurant,Brooklyn,Turkish; Seafood; Mediterranean,23.0,
+2266,dokdoya,Queens,Seafood; Korean; Sushi Bars,23.0,
+2267,mr hibachi express,Staten Island,Sushi Bars; Teppanyaki,23.0,
+2268,yaho sushi,Staten Island,Sushi Bars; Japanese; Acai Bowls,23.0,
+2269,ambra,Manhattan,Italian,22.0,
+2270,tsumo omakase,Manhattan,Japanese; Sushi Bars,22.0,
+2271,klom klorm,Brooklyn,Thai,22.0,
+2272,rice thief,Queens,Korean; Seafood,22.0,
+2273,lava shawarma,Manhattan,Middle Eastern,22.0,
+2274,jj fish & chicken,Staten Island,Fish & Chips; Seafood; Chicken Wings,22.0,
+2275,quick bite,Staten Island,Falafel; Burgers; Halal,22.0,
+2276,monterey,Manhattan,New American; Desserts; Italian,21.0,
+2277,antidote,Brooklyn,Cocktail Bars; Dim Sum; Szechuan,21.0,
+2278,jazba,Manhattan,Indian; Wine Bars; Cocktail Bars,21.0,
+2279,the parlour room,Manhattan,Cocktail Bars; Seafood; Tapas/Small Plates,21.0,
+2280,clover hill,Brooklyn,New American,21.0,
+2281,il giglio,Manhattan,Italian; Venues & Event Spaces; Cocktail Bars,21.0,
+2282,thai social,Queens,Thai,21.0,
+2283,adam's chicken & pocha,Queens,Korean,21.0,
+2284,taco al pastor,Bronx,Tacos,21.0,
+2285,aoyu sushi,Bronx,Japanese; Sushi Bars; Salad,21.0,
+2286,reverence,Manhattan,Modern European,21.0,
+2287,dh noodles,Manhattan,Noodles; Chinese,20.0,
+2288,elephant district,Brooklyn,Thai,20.0,
+2289,fish sauce,Brooklyn,Thai,20.0,
+2290,anixi,Manhattan,Vegan; Mediterranean; Bars,20.0,
+2291,kumo sushi,Queens,Sushi Bars; Japanese,20.0,
+2292,bbq chicken,Queens,Barbeque; Korean; Chicken Wings,20.0,
+2293,pita,Brooklyn,Falafel; Kosher; Fast Food,20.0,
+2294,song lai xiang,Queens,Barbeque; Dim Sum,20.0,
+2295,georgie's pizza and restaurant,Bronx,Pizza; Italian,20.0,
+2296,sauced up,Bronx,Halal; Burgers; Chicken Wings,20.0,
+2297,nomad tea parlour,Manhattan,"Chinese; Cocktail Bars; Beer, Wine & Spirits",19.0,
+2298,zen astoria,Queens,Chinese; Asian Fusion; Pan Asian,19.0,
+2299,koo thai,Manhattan,Bubble Tea; Thai; Asian Fusion,19.0,
+2300,mykonian house,Manhattan,Bars; Greek; Seafood,19.0,
+2301,theodora,Brooklyn,Mediterranean; Cocktail Bars,19.0,
+2302,port sa'id,Manhattan,Mediterranean; Vinyl Records; Tapas/Small Plates,19.0,
+2303,rafael,Manhattan,Mediterranean; Coffee & Tea; Cocktail Bars,19.0,
+2304,the laurels,Manhattan,Cocktail Bars; Pubs; Mediterranean,19.0,
+2305,amo seafood,Manhattan,Mediterranean; Seafood; Italian,19.0,
+2306,giovanni's brooklyn eats,Brooklyn,Italian,19.0,
+2307,il nonno,Queens,Italian; Desserts; Cocktail Bars,19.0,
+2308,one sip one bite,Queens,Cafes; Korean,19.0,
+2309,super taste,Manhattan,Chinese,18.0,
+2310,rob's of brooklyn - sunset park,Brooklyn,Pizza; Italian,18.0,
+2311,money cat vietnamese american,Brooklyn,Vietnamese,18.0,
+2312,sofun noodle bar,Queens,Noodles,18.0,
+2313,torrisi,Manhattan,Italian,17.0,
+2314,kanyakumari,Manhattan,Seafood; Indian; Cocktail Bars,17.0,
+2315,mesiba,Brooklyn,Cocktail Bars; Middle Eastern; Mediterranean,17.0,
+2316,barrio taqueria,Queens,Tacos,17.0,
+2317,absolutto cuisine & bar,Bronx,Italian; Seafood; Cocktail Bars,17.0,
+2318,kiai,Manhattan,Japanese,17.0,
+2319,bird dog,Manhattan,Southern; Tuscan,16.0,
+2320,okiboru house of udon,Manhattan,Japanese,16.0,
+2321,dagg thai,Manhattan,Thai,16.0,
+2322,seoul bap,Manhattan,Korean; Cocktail Bars; Tapas/Small Plates,16.0,
+2323,little maven,Manhattan,New American; Pasta Shops; Cocktail Bars,16.0,
+2324,yves,Manhattan,Cocktail Bars; French; Moroccan,16.0,
+2325,chao niu hotpot,Queens,Hot Pot,16.0,
+2326,hungry burrito,Brooklyn,Mexican,15.0,
+2327,the noble,Brooklyn,Mediterranean; Venues & Event Spaces; Wine Bars,15.0,
+2328,blossom’s soul food fusion,Brooklyn,Soul Food; Seafood; Comfort Food,15.0,
+2329,cousin larry's,Queens,Irish Pub; Breakfast & Brunch; Cocktail Bars,15.0,
+2330,el conde bar & grill,Manhattan,Latin American; Barbeque; Seafood,15.0,
+2331,newa chhe,Queens,Himalayan/Nepalese; Soup,13.0,
+2332,lion dance,Staten Island,Dim Sum; Bubble Tea; Noodles,13.0,
+2333,cacio e pepe,Manhattan,Italian; Desserts; Cocktail Bars,12.0,
+2334,don chicken,Queens,Korean; Chicken Shop; Chicken Wings,12.0,
+2335,driftwood,Queens,Seafood; New American; Asian Fusion,12.0,
+2336,namudol,Queens,Korean,12.0,
+2337,pakshala restaurant & grill,Queens,Halal; Indian; Mediterranean,12.0,
+2338,one bite omakase,Manhattan,Sushi Bars; Japanese; Seafood,11.0,
+2339,gjelina,Manhattan,New American; Italian; Cocktail Bars,10.0,
+2340,handmade dumpling,Queens,Chinese,10.0,
+2341,guksu jip,Queens,Noodles,10.0,
+2342,terrone,Queens,Pizza; Italian,9.0,
+2343,filoncino cafe,Staten Island,Coffee & Tea; Italian; Sandwiches,9.0,
+2344,taqueria munoz,Bronx,Mexican; Seafood; Breakfast & Brunch,8.0,
+2345,ten seconds yunnan rice noodle,Queens,Noodles; Chinese,7.0,
+2346,thaihee,Queens,Korean,7.0,
+2347,sushiichi,Manhattan,Sushi Bars; Japanese; Live/Raw Food,5.0,
+2348,simply fried,Queens,Fish & Chips; Seafood; Chicken Wings,5.0,
+2349,dduk dabang,Queens,Korean; Ramen,4.0,
+2350,savelli,Brooklyn,Bars; Italian; Venues & Event Spaces,2.0,
+2351,the residence of mr. moto,Brooklyn,Japanese; Sushi Bars,2.0,
+2352,the blaze gourmet,Brooklyn,Turkish; Mediterranean; Vegan,2.0,

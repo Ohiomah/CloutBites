@@ -1,0 +1,2026 @@
+id,name,size,colour
+R_dosa royale,dosa royale,3.6,Brooklyn
+R_gammeeok,gammeeok,3.3,Manhattan
+R_nishida sho-ten,nishida sho-ten,4.0,Manhattan
+R_the graham,the graham,3.9,Brooklyn
+R_cava,cava,4.0,Manhattan
+R_master wok,master wok,4.0,Brooklyn
+R_the halal bros of ny,the halal bros of ny,0.0,Queens
+R_han dynasty,han dynasty,3.8,Manhattan
+R_radhuni sweets & restaurant,radhuni sweets & restaurant,2.5,Brooklyn
+R_sambak sambabjip,sambak sambabjip,5.0,Queens
+R_trinidad golden place,trinidad golden place,4.4,Brooklyn
+R_baar baar,baar baar,3.9,Manhattan
+R_casa publica,casa publica,4.0,Brooklyn
+R_chairman sun,chairman sun,3.7,Queens
+R_tamarind island,tamarind island,3.8,Queens
+R_rosa's pizza,rosa's pizza,4.2,Brooklyn
+R_blazin chicken & gyro,blazin chicken & gyro,3.8,Bronx
+R_rintintin,rintintin,3.7,Manhattan
+R_taqueria coatzingo,taqueria coatzingo,4.0,Queens
+R_sen sakana,sen sakana,4.1,Manhattan
+R_adoro lei,adoro lei,4.4,Manhattan
+R_izakaya fuku,izakaya fuku,4.4,Queens
+R_stamatis restaurant,stamatis restaurant,4.0,Queens
+R_hainan chicken house,hainan chicken house,3.6,Brooklyn
+R_ruma's kitchen,ruma's kitchen,4.0,Queens
+R_el gallo negro,el gallo negro,3.6,Queens
+R_nana thai street,nana thai street,4.3,Manhattan
+R_the greek kitchen,the greek kitchen,3.9,Manhattan
+R_mezeh,mezeh,4.1,Manhattan
+R_bravo african restaurant,bravo african restaurant,4.0,Bronx
+R_long acre tavern,long acre tavern,4.0,Manhattan
+R_la palina restaurant,la palina restaurant,4.1,Brooklyn
+R_zutto japanese american pub,zutto japanese american pub,4.0,Manhattan
+R_forever thai,forever thai,4.4,Brooklyn
+R_the kati roll company,the kati roll company,3.7,Manhattan
+R_profit chinese restaurant,profit chinese restaurant,4.7,Manhattan
+R_angaar,angaar,4.2,Manhattan
+R_nora thai,nora thai,3.8,Brooklyn
+R_sushi on me,sushi on me,4.8,Queens
+R_sakana sushi & hibachi steakhouse,sakana sushi & hibachi steakhouse,4.1,Staten Island
+R_pita pan,pita pan,5.0,Queens
+R_tikka indian grill,tikka indian grill,4.1,Brooklyn
+R_tulcingo restaurant,tulcingo restaurant,3.2,Queens
+R_honey's thai pavilion,honey's thai pavilion,3.5,Bronx
+R_kailash parbat,kailash parbat,3.7,Manhattan
+R_shiawase,shiawase,2.9,Brooklyn
+R_kennedy fried chicken,kennedy fried chicken,3.9,Brooklyn
+R_tosokchon nyc,tosokchon nyc,4.2,Manhattan
+R_sofra mediterranean grill,sofra mediterranean grill,3.6,Queens
+R_tlaxcalita la bella,tlaxcalita la bella,3.9,Queens
+R_handsome rice,handsome rice,4.4,Manhattan
+R_taqueria restaurante mi barrio,taqueria restaurante mi barrio,4.2,Brooklyn
+R_750 myrtle diner,750 myrtle diner,4.2,Brooklyn
+R_star of siam thai kitchen,star of siam thai kitchen,3.3,Queens
+R_indian express,indian express,3.8,Manhattan
+R_mughlai indian cuisine,mughlai indian cuisine,4.4,Manhattan
+R_halal munchies,halal munchies,0.0,Queens
+R_longhorn steakhouse,longhorn steakhouse,3.1,Queens
+R_havana social,havana social,3.4,Manhattan
+R_khao kang,khao kang,4.2,Queens
+R_doaba deli,doaba deli,4.5,Manhattan
+R_taqueria milear,taqueria milear,4.1,Brooklyn
+R_xcellent soul food,xcellent soul food,2.9,Brooklyn
+R_azalea,azalea,3.9,Manhattan
+R_caffe buon gusto,caffe buon gusto,3.9,Manhattan
+R_dos caminos,dos caminos,3.5,Manhattan
+R_spy c cuisine,spy c cuisine,3.8,Queens
+R_flower brook mifen house,flower brook mifen house,4.3,Queens
+R_loi estiatorio,loi estiatorio,4.7,Manhattan
+R_king souvlaki,king souvlaki,4.2,Brooklyn
+R_bed stuy fish fry,bed stuy fish fry,2.2,Brooklyn
+R_khalil biryani house,khalil biryani house,2.6,Queens
+R_sofia's taqueria,sofia's taqueria,5.0,Staten Island
+R_bunnan,bunnan,4.6,Brooklyn
+R_hello bangladesh,hello bangladesh,3.9,Queens
+R_caridad restaurant,caridad restaurant,3.5,Queens
+R_estrellita poblana ii,estrellita poblana ii,3.2,Bronx
+R_las palmas restaurant,las palmas restaurant,3.9,Manhattan
+R_a-pou's taste,a-pou's taste,4.5,Brooklyn
+R_klong,klong,3.8,Manhattan
+R_pelicana chicken,pelicana chicken,4.4,Queens
+R_mint masala,mint masala,4.2,Manhattan
+R_da nonna rosa,da nonna rosa,4.0,Brooklyn
+R_brooklyn waffle house,brooklyn waffle house,3.8,Brooklyn
+R_zaca cafe,zaca cafe,4.3,Brooklyn
+R_fish village,fish village,3.5,Queens
+R_fontana famous pizza & gyro,fontana famous pizza & gyro,3.6,Queens
+R_pipo's restaurant,pipo's restaurant,4.0,Manhattan
+R_kitchen 79,kitchen 79,4.3,Queens
+R_don peppe,don peppe,4.1,Queens
+R_thaism,thaism,3.7,Brooklyn
+R_zen fusion cuisine,zen fusion cuisine,3.4,Queens
+R_tru astoria,tru astoria,3.9,Queens
+R_kuu,kuu,4.0,Manhattan
+R_chipotle mexican grill,chipotle mexican grill,0.0,Manhattan
+R_sarku japan,sarku japan,2.9,Queens
+R_caribbean taste budz,caribbean taste budz,4.1,Queens
+R_anise,anise,3.0,Bronx
+R_renaissance harlem,renaissance harlem,4.1,Manhattan
+R_wu's wonton king,wu's wonton king,3.7,Manhattan
+R_thai diva cuisine,thai diva cuisine,4.1,Queens
+R_miriam,miriam,4.1,Manhattan
+R_patsy's pizzeria,patsy's pizzeria,4.3,Queens
+R_aroqa,aroqa,4.1,Manhattan
+R_yia yia's taverna,yia yia's taverna,4.7,Brooklyn
+R_hook & reel cajun seafood & bar,hook & reel cajun seafood & bar,3.8,Bronx
+R_the local,the local,4.2,Staten Island
+R_seeyamañana,seeyamañana,3.9,Manhattan
+R_donburiya,donburiya,3.8,Manhattan
+R_mokbar,mokbar,3.8,Manhattan
+R_east wind snack shop,east wind snack shop,5.0,Brooklyn
+R_born thai,born thai,3.7,Brooklyn
+R_china cocina,china cocina,4.4,Queens
+R_kura revolving sushi bar,kura revolving sushi bar,3.6,Queens
+R_ronnie's sandwich shoppe,ronnie's sandwich shoppe,4.4,Staten Island
+R_planet taco,planet taco,4.0,Manhattan
+R_bulbap grill,bulbap grill,4.7,Manhattan
+R_snack taverna,snack taverna,3.8,Manhattan
+R_black iris,black iris,3.8,Brooklyn
+R_citrico,citrico,3.9,Brooklyn
+R_liu's shanghai,liu's shanghai,4.4,Brooklyn
+R_greek islands,greek islands,3.9,Queens
+R_taco mahal,taco mahal,4.4,Manhattan
+R_niko's souvlaki,niko's souvlaki,3.9,Queens
+R_la ruta del taco,la ruta del taco,4.3,Queens
+R_secret kitchen,secret kitchen,4.1,Queens
+R_taqueria guerrero,taqueria guerrero,3.4,Bronx
+R_lena's italian kitchen,lena's italian kitchen,4.3,Manhattan
+R_the best sichuan,the best sichuan,4.4,Manhattan
+R_bua thai ramen & robata grill,bua thai ramen & robata grill,4.5,Manhattan
+R_sahib,sahib,4.2,Manhattan
+R_molyvos,molyvos,4.3,Manhattan
+R_marseille,marseille,3.9,Manhattan
+R_camillo,camillo,4.2,Brooklyn
+R_iron chef house,iron chef house,3.9,Brooklyn
+R_rolly kimbab,rolly kimbab,4.0,Queens
+R_dera restaurant,dera restaurant,3.2,Queens
+R_taco bell,taco bell,4.0,Manhattan
+R_pier 76,pier 76,3.9,Staten Island
+R_raja sweets & fast food,raja sweets & fast food,4.0,Queens
+R_ssam,ssam,3.7,Brooklyn
+R_kobeque,kobeque,3.4,Manhattan
+R_di di restaurant,di di restaurant,4.0,Brooklyn
+R_vanka cafe,vanka cafe,3.8,Brooklyn
+R_red panda restaurant,red panda restaurant,4.1,Queens
+R_sweet wonton house,sweet wonton house,4.1,Queens
+R_long island dumplings,long island dumplings,5.0,Manhattan
+R_dannee thai,dannee thai,4.1,Brooklyn
+R_nur thai,nur thai,4.1,Queens
+R_desi grill,desi grill,4.0,Brooklyn
+R_gyro qila,gyro qila,1.4,Brooklyn
+R_happy garden,happy garden,4.7,Brooklyn
+R_carifesta restaurant,carifesta restaurant,3.9,Queens
+R_chirping chicken,chirping chicken,3.3,Bronx
+R_golden wonton king,golden wonton king,3.8,Queens
+R_tia julia restaurant,tia julia restaurant,4.3,Queens
+R_masala kitchen and lounge,masala kitchen and lounge,3.8,Queens
+R_almar,almar,3.9,Brooklyn
+R_dos toros taqueria,dos toros taqueria,3.7,Manhattan
+R_barrio chino,barrio chino,3.9,Manhattan
+R_calaveras corner,calaveras corner,4.1,Manhattan
+R_taqueria santa fe,taqueria santa fe,4.3,Queens
+R_3 times,3 times,4.0,Manhattan
+R_naruto ramen,naruto ramen,3.8,Manhattan
+R_amber,amber,3.9,Manhattan
+R_obao,obao,4.0,Manhattan
+R_osamil,osamil,4.3,Manhattan
+R_rice kitchen,rice kitchen,4.7,Manhattan
+R_bread & butter,bread & butter,2.8,Manhattan
+R_angel indian restaurant,angel indian restaurant,4.5,Queens
+R_desi galli,desi galli,3.6,Manhattan
+R_bustan,bustan,4.0,Manhattan
+R_fornino,fornino,3.7,Brooklyn
+R_graziella's,graziella's,3.9,Brooklyn
+R_maestro pasta,maestro pasta,4.2,Manhattan
+R_kimchi grill,kimchi grill,3.9,Brooklyn
+R_tacos el dorado,tacos el dorado,3.8,Brooklyn
+R_zen vegetarian house,zen vegetarian house,4.2,Brooklyn
+R_sushi tokyo,sushi tokyo,3.2,Brooklyn
+R_cafe lily,cafe lily,4.3,Brooklyn
+R_trini breakfast shed ii,trini breakfast shed ii,3.5,Brooklyn
+R_el mariachi restaurant,el mariachi restaurant,3.8,Queens
+R_coco hotpot,coco hotpot,4.4,Queens
+R_akino,akino,4.2,Queens
+R_fansway teriyaki & sushi kitchen,fansway teriyaki & sushi kitchen,3.8,Queens
+R_joong koog jip,joong koog jip,4.1,Queens
+R_taste of punjab,taste of punjab,3.1,Queens
+R_island foodie,island foodie,3.5,Queens
+R_circulo espanol,circulo espanol,4.4,Queens
+R_taqueria el cebollin,taqueria el cebollin,4.7,Bronx
+R_mayas snack bar,mayas snack bar,0.0,Brooklyn
+R_king's wok,king's wok,4.1,Brooklyn
+R_new china,new china,3.7,Brooklyn
+R_hook & catch cajun seafood,hook & catch cajun seafood,3.3,Bronx
+R_cachapas y mas,cachapas y mas,4.1,Manhattan
+R_the pizza parlor,the pizza parlor,3.7,Staten Island
+R_fusion kitchen,fusion kitchen,3.6,Staten Island
+R_rice pie,rice pie,3.7,Brooklyn
+R_lacey's bridge tavern,lacey's bridge tavern,4.3,Staten Island
+R_nathan's famous,nathan's famous,3.5,Brooklyn
+R_nino's 46,nino's 46,4.0,Manhattan
+R_dante west village,dante west village,4.1,Manhattan
+R_som bo,som bo,3.9,Manhattan
+R_sushi ginza,sushi ginza,4.1,Manhattan
+R_mitr thai,mitr thai,4.6,Manhattan
+R_fresh curry,fresh curry,3.7,Manhattan
+R_taboonette,taboonette,4.3,Manhattan
+R_joe's restaurant,joe's restaurant,4.2,Queens
+R_grand canyon restaurant,grand canyon restaurant,4.4,Brooklyn
+R_laghman express,laghman express,4.6,Brooklyn
+R_new joy garden,new joy garden,2.8,Brooklyn
+R_teriyaki one,teriyaki one,3.4,Bronx
+R_taim,taim,4.4,Manhattan
+R_jing fu house,jing fu house,3.2,Queens
+R_ghoroa restaurant,ghoroa restaurant,3.4,Brooklyn
+R_cheburechnaya,cheburechnaya,3.9,Queens
+R_nora pizza,nora pizza,3.7,Bronx
+R_tacos el torito versatile,tacos el torito versatile,3.5,Bronx
+R_merry land buffet,merry land buffet,2.9,Bronx
+R_el valle restaurant,el valle restaurant,2.3,Bronx
+R_jimbo's hamburger palace,jimbo's hamburger palace,3.3,Bronx
+R_gyro king,gyro king,3.9,Bronx
+R_americano cafe,americano cafe,4.7,Staten Island
+R_aiyara thai,aiyara thai,4.0,Manhattan
+R_little grenjai,little grenjai,4.1,Brooklyn
+R_dhamaka,dhamaka,4.1,Manhattan
+R_tozton,tozton,4.6,Queens
+R_taste of china,taste of china,3.8,Staten Island
+R_udom thai,udom thai,3.2,Brooklyn
+R_claw daddy's,claw daddy's,3.9,Manhattan
+R_kalye bistro,kalye bistro,4.3,Queens
+R_creme cuisine,creme cuisine,5.0,Brooklyn
+R_the legend cafe house,the legend cafe house,3.5,Brooklyn
+R_tibetan japanese restaurant,tibetan japanese restaurant,3.9,Queens
+R_la kuchara,la kuchara,2.3,Queens
+R_la villa restaurant,la villa restaurant,2.4,Bronx
+R_allen restaurant,allen restaurant,4.0,Bronx
+R_jade garden,jade garden,3.5,Queens
+R_el economico restaurant,el economico restaurant,3.7,Bronx
+R_osteria del porto,osteria del porto,4.4,Manhattan
+R_toro loco,toro loco,4.0,Manhattan
+R_mala kitchen,mala kitchen,4.1,Manhattan
+R_takumen,takumen,4.0,Queens
+R_hungry bird,hungry bird,4.2,Bronx
+R_the spaniard,the spaniard,3.6,Manhattan
+R_vernon grille,vernon grille,4.0,Queens
+R_ten japanese cuisine,ten japanese cuisine,3.9,Brooklyn
+R_bangkok degree,bangkok degree,4.4,Brooklyn
+R_come on thai cuisine,come on thai cuisine,4.0,Brooklyn
+R_brooklyn crab,brooklyn crab,3.1,Brooklyn
+R_purbird,purbird,4.2,Brooklyn
+R_holy pita,holy pita,4.9,Brooklyn
+R_zula,zula,2.7,Brooklyn
+R_lao fu zhou,lao fu zhou,2.3,Queens
+R_canton manor,canton manor,3.4,Queens
+R_sake kawa,sake kawa,4.6,Queens
+R_masala box,masala box,4.0,Queens
+R_emilia's restaurant,emilia's restaurant,3.9,Bronx
+R_hong kong kei one,hong kong kei one,4.3,Staten Island
+R_casa limone,casa limone,4.3,Manhattan
+R_supper,supper,3.9,Manhattan
+R_via quadronno,via quadronno,3.8,Manhattan
+R_tacombi,tacombi,4.1,Brooklyn
+R_hot peppers,hot peppers,4.3,Queens
+R_red poke,red poke,4.4,Manhattan
+R_herbs thai bistro,herbs thai bistro,3.4,Manhattan
+R_thai peppercorn,thai peppercorn,3.2,Manhattan
+R_bombay grill house,bombay grill house,4.4,Manhattan
+R_super rice,super rice,3.0,Brooklyn
+R_trad room,trad room,4.3,Brooklyn
+R_kyuramen,kyuramen,0.0,Queens
+R_chawlas 2,chawlas 2,3.8,Queens
+R_howong seafood restaurant,howong seafood restaurant,3.1,Brooklyn
+R_brooklyn suya,brooklyn suya,4.5,Brooklyn
+R_simply greek,simply greek,4.4,Brooklyn
+R_oasis,oasis,4.2,Brooklyn
+R_charlie's place,charlie's place,4.2,Manhattan
+R_enthaice thai kitchen,enthaice thai kitchen,4.2,Queens
+R_sodam,sodam,4.2,Queens
+R_sagar restaurant,sagar restaurant,3.2,Queens
+R_pokeworks,pokeworks,4.4,Manhattan
+R_neir's tavern,neir's tavern,4.3,Queens
+R_tu casa restaurant,tu casa restaurant,3.4,Queens
+R_tulcingo cafe,tulcingo cafe,4.3,Bronx
+R_blanquita restaurant,blanquita restaurant,0.0,Bronx
+R_hong kong kitchen,hong kong kitchen,5.0,Bronx
+R_thai cuisine,thai cuisine,3.0,Bronx
+R_malecon restaurant,malecon restaurant,3.0,Bronx
+R_an beal bocht cafe,an beal bocht cafe,4.2,Bronx
+R_dante,dante,4.0,Manhattan
+R_roberta's,roberta's,4.0,Brooklyn
+R_soledad,soledad,4.7,Manhattan
+R_maisonetta,maisonetta,4.5,Bronx
+R_345 cantina,345 cantina,4.4,Manhattan
+R_flor de mayo,flor de mayo,4.0,Manhattan
+R_katsu-hama,katsu-hama,4.0,Manhattan
+R_jin ramen,jin ramen,3.8,Manhattan
+R_three roosters,three roosters,4.6,Manhattan
+R_hungry bowl,hungry bowl,4.6,Brooklyn
+R_indian table,indian table,4.3,Brooklyn
+R_tom's restaurant,tom's restaurant,2.9,Brooklyn
+R_bite,bite,3.9,Manhattan
+R_chavela's,chavela's,3.9,Brooklyn
+R_el mexicano restaurante & cafe,el mexicano restaurante & cafe,4.7,Brooklyn
+R_soku 1546,soku 1546,4.1,Brooklyn
+R_slow loris,slow loris,4.2,Brooklyn
+R_quick grill japan,quick grill japan,5.0,Staten Island
+R_juicy king crab express,juicy king crab express,2.8,Queens
+R_roka modern mediterranean,roka modern mediterranean,4.6,Brooklyn
+R_puerto plata restaurant,puerto plata restaurant,3.7,Queens
+R_chef wong bistro,chef wong bistro,4.3,Queens
+R_shanghai you garden,shanghai you garden,4.1,Queens
+R_congee village,congee village,2.7,Manhattan
+R_el buen ambiente,el buen ambiente,2.3,Bronx
+R_lucky house,lucky house,4.4,Queens
+R_lash west indian & american cuisine,lash west indian & american cuisine,3.2,Bronx
+R_greek express,greek express,4.2,Bronx
+R_vegan grill,vegan grill,4.0,Manhattan
+R_cafe luna,cafe luna,3.8,Staten Island
+R_sofia's guac bar,sofia's guac bar,4.3,Staten Island
+R_san marino ristorante,san marino ristorante,4.3,Manhattan
+R_forsythia,forsythia,4.3,Manhattan
+R_carbone,carbone,4.0,Manhattan
+R_calle dao chelsea,calle dao chelsea,4.5,Manhattan
+R_dim sum palace,dim sum palace,4.0,Manhattan
+R_tipsy shanghai,tipsy shanghai,4.3,Manhattan
+R_oh dumplings,oh dumplings,4.1,Brooklyn
+R_hi-collar,hi-collar,4.0,Manhattan
+R_zabb putawn,zabb putawn,4.4,Manhattan
+R_mad for chicken,mad for chicken,3.9,Manhattan
+R_spice mantra,spice mantra,4.7,Manhattan
+R_moti mahal delux,moti mahal delux,3.8,Manhattan
+R_the folly,the folly,4.3,Manhattan
+R_mama mia 44 sw,mama mia 44 sw,4.1,Manhattan
+R_jack's wife freda,jack's wife freda,3.9,Manhattan
+R_fazio's,fazio's,4.3,Brooklyn
+R_cruz del sur,cruz del sur,4.6,Brooklyn
+R_yixin restaurant,yixin restaurant,4.5,Brooklyn
+R_indian kitchen,indian kitchen,4.1,Brooklyn
+R_singh's roti shop & bar,singh's roti shop & bar,3.4,Queens
+R_hainan,hainan,4.2,Queens
+R_san aroy thai kitchen,san aroy thai kitchen,4.0,Queens
+R_gulshan terrace,gulshan terrace,4.3,Queens
+R_desi junction,desi junction,0.0,Queens
+R_the oasis cafe,the oasis cafe,4.5,Queens
+R_to steki,to steki,4.0,Queens
+R_cantina taqueria & tequila bar,cantina taqueria & tequila bar,3.5,Manhattan
+R_marisco centro,marisco centro,2.6,Manhattan
+R_shamrock inn,shamrock inn,4.5,Bronx
+R_375 chicken n fries,375 chicken n fries,5.0,Manhattan
+R_boon thai,boon thai,3.2,Brooklyn
+R_shanghai time,shanghai time,4.2,Manhattan
+R_torien,torien,4.3,Manhattan
+R_le thai,le thai,4.0,Queens
+R_let's meat,let's meat,4.0,Manhattan
+R_boka,boka,3.9,Manhattan
+R_india palace,india palace,3.9,Manhattan
+R_el greco,el greco,4.3,Manhattan
+R_brooklyn pizza crew,brooklyn pizza crew,3.6,Brooklyn
+R_duck wong,duck wong,4.0,Brooklyn
+R_thai me,thai me,3.6,Brooklyn
+R_lore,lore,4.3,Brooklyn
+R_popeyes louisiana kitchen,popeyes louisiana kitchen,4.0,Bronx
+R_choice market bar and restaurant,choice market bar and restaurant,4.5,Brooklyn
+R_golda,golda,4.1,Brooklyn
+R_the juicy box,the juicy box,3.6,Brooklyn
+R_momo's mediterranean grill,momo's mediterranean grill,4.1,Brooklyn
+R_porto salvo,porto salvo,4.5,Bronx
+R_takesushi,takesushi,4.0,Queens
+R_dosa hutt,dosa hutt,4.3,Queens
+R_aa chinese restaurant,aa chinese restaurant,2.5,Bronx
+R_888 hudson thai,888 hudson thai,4.3,Manhattan
+R_niukee shumai,niukee shumai,4.2,Manhattan
+R_café hestia,café hestia,3.7,Manhattan
+R_phil-am kusina,phil-am kusina,4.3,Staten Island
+R_mercato,mercato,3.8,Manhattan
+R_tabata,tabata,4.4,Manhattan
+R_chu ros thai,chu ros thai,4.5,Manhattan
+R_sathi,sathi,4.7,Manhattan
+R_karahi indian cuisine,karahi indian cuisine,4.6,Manhattan
+R_ananda,ananda,4.1,Manhattan
+R_earl's beer & cheese,earl's beer & cheese,4.3,Manhattan
+R_lola taverna,lola taverna,3.7,Manhattan
+R_olea,olea,4.2,Brooklyn
+R_dino,dino,3.6,Brooklyn
+R_taqueria el patron,taqueria el patron,3.4,Queens
+R_las margaritas,las margaritas,5.0,Brooklyn
+R_the nuaa table,the nuaa table,4.5,Brooklyn
+R_to be thai,to be thai,3.5,Brooklyn
+R_yaad man thing,yaad man thing,4.0,Brooklyn
+R_chuzo culture,chuzo culture,4.8,Brooklyn
+R_newtown,newtown,4.6,Brooklyn
+R_qdoba mexican eats,qdoba mexican eats,2.0,Staten Island
+R_yin ji chang fen,yin ji chang fen,4.1,Manhattan
+R_may chun garden,may chun garden,3.4,Queens
+R_tea cup cafe,tea cup cafe,3.8,Queens
+R_dosa delight,dosa delight,4.1,Queens
+R_taco inn,taco inn,3.0,Manhattan
+R_kuttanadan indian restaurant,kuttanadan indian restaurant,4.3,Queens
+R_farmers restaurant,farmers restaurant,3.2,Brooklyn
+R_forest thai cuisine,forest thai cuisine,3.8,Staten Island
+R_briciola,briciola,4.0,Manhattan
+R_rosa mexicano,rosa mexicano,3.4,Manhattan
+R_la esquina,la esquina,3.7,Manhattan
+R_san jose restaurant,san jose restaurant,4.6,Bronx
+R_atlas kitchen,atlas kitchen,3.8,Manhattan
+R_pocha 32,pocha 32,3.5,Manhattan
+R_semma,semma,4.1,Manhattan
+R_bombay bistro,bombay bistro,4.4,Manhattan
+R_ammos estiatorio,ammos estiatorio,3.2,Manhattan
+R_jin feng yuan,jin feng yuan,2.0,Brooklyn
+R_wasan brooklyn,wasan brooklyn,4.1,Brooklyn
+R_stang thai,stang thai,4.1,Brooklyn
+R_la casa de julia,la casa de julia,3.7,Queens
+R_godwin coffee & tex-mex eats,godwin coffee & tex-mex eats,4.8,Bronx
+R_last stop bar & grill,last stop bar & grill,3.3,Bronx
+R_seppe pizza bar,seppe pizza bar,4.1,Staten Island
+R_pizzarte,pizzarte,4.1,Manhattan
+R_la masseria,la masseria,4.1,Manhattan
+R_tacovision,tacovision,4.1,Manhattan
+R_dim sum chelsea,dim sum chelsea,4.4,Manhattan
+R_milu,milu,4.4,Manhattan
+R_phoshime,phoshime,4.4,Manhattan
+R_thai delight,thai delight,4.2,Manhattan
+R_kpot korean bbq & hot pot,kpot korean bbq & hot pot,4.2,Brooklyn
+R_colonia verde,colonia verde,4.0,Brooklyn
+R_il passatore,il passatore,4.0,Brooklyn
+R_uncle ng's recipe,uncle ng's recipe,4.5,Brooklyn
+R_fortune house,fortune house,3.2,Brooklyn
+R_blazze seafood & chicken,blazze seafood & chicken,4.6,Brooklyn
+R_king of the sea,king of the sea,3.6,Brooklyn
+R_rondel,rondel,4.3,Brooklyn
+R_bogota latin bistro,bogota latin bistro,4.0,Brooklyn
+R_la chacra,la chacra,3.9,Brooklyn
+R_awang kitchen,awang kitchen,4.2,Queens
+R_jolly tinker,jolly tinker,3.3,Bronx
+R_johnny's bakery,johnny's bakery,4.5,Bronx
+R_soba totto,soba totto,3.8,Manhattan
+R_fish cheeks,fish cheeks,4.4,Manhattan
+R_masala king,masala king,4.1,Manhattan
+R_yara,yara,4.2,Manhattan
+R_casa dani,casa dani,3.8,Manhattan
+R_heights falafel,heights falafel,4.3,Brooklyn
+R_antonio's trattoria,antonio's trattoria,4.5,Bronx
+R_lin's asian cuisine,lin's asian cuisine,3.5,Bronx
+R_fresh tortillas,fresh tortillas,3.1,Staten Island
+R_suross thai bistro,suross thai bistro,4.4,Manhattan
+R_sushi wen,sushi wen,4.7,Staten Island
+R_chang noi thai,chang noi thai,4.3,Staten Island
+R_gelso & grand,gelso & grand,4.3,Manhattan
+R_la cocina de mama,la cocina de mama,4.7,Queens
+R_dimsum garden,dimsum garden,4.2,Queens
+R_raku it's japanese,raku it's japanese,4.4,Manhattan
+R_dhaba indian cuisine,dhaba indian cuisine,3.7,Manhattan
+R_hummus kitchen,hummus kitchen,4.1,Manhattan
+R_ashoka grill,ashoka grill,4.0,Brooklyn
+R_kuzina the greek kitchen,kuzina the greek kitchen,3.4,Staten Island
+R_toscana 49,toscana 49,4.2,Manhattan
+R_milk and roses,milk and roses,3.7,Brooklyn
+R_vanessa's dumpling house,vanessa's dumpling house,3.9,Manhattan
+R_yakitori totto,yakitori totto,4.0,Manhattan
+R_one two thai,one two thai,4.2,Manhattan
+R_thip osha,thip osha,4.3,Brooklyn
+R_turntable chicken jazz,turntable chicken jazz,3.8,Manhattan
+R_gyro uno,gyro uno,3.8,Queens
+R_marlow bistro,marlow bistro,3.9,Manhattan
+R_for all things good,for all things good,4.2,Brooklyn
+R_mama's noodle house,mama's noodle house,4.7,Brooklyn
+R_kings kitchen,kings kitchen,4.0,Brooklyn
+R_momo ramen,momo ramen,3.8,Brooklyn
+R_shokunin bbq,shokunin bbq,3.7,Brooklyn
+R_the crabby shack,the crabby shack,4.0,Brooklyn
+R_lupo rosso,lupo rosso,4.6,Queens
+R_singas famous pizza,singas famous pizza,3.1,Queens
+R_taco veloz,taco veloz,3.5,Queens
+R_sushi island,sushi island,3.5,Queens
+R_elsa la reina del chicharron,elsa la reina del chicharron,4.1,Manhattan
+R_ricardo steak house,ricardo steak house,4.1,Manhattan
+R_nino's restaurant,nino's restaurant,4.5,Manhattan
+R_takahachi bakery,takahachi bakery,4.1,Manhattan
+R_gugu room,gugu room,4.2,Manhattan
+R_jing li,jing li,3.9,Queens
+R_atoboy,atoboy,4.3,Manhattan
+R_tandoor restaurant,tandoor restaurant,3.4,Queens
+R_piccola cucina uptown,piccola cucina uptown,4.4,Manhattan
+R_osteria la baia,osteria la baia,4.3,Manhattan
+R_osteria delbianco,osteria delbianco,4.6,Manhattan
+R_la pecora bianca,la pecora bianca,4.2,Manhattan
+R_forma pasta factory,forma pasta factory,4.6,Brooklyn
+R_norma,norma,4.4,Manhattan
+R_felice 56,felice 56,4.2,Manhattan
+R_tony's di napoli,tony's di napoli,4.2,Manhattan
+R_piccola cucina osteria,piccola cucina osteria,4.3,Manhattan
+R_a pasta bar,a pasta bar,4.0,Manhattan
+R_via carota,via carota,3.8,Manhattan
+R_arco cafe,arco cafe,4.4,Manhattan
+R_spaghetti incident,spaghetti incident,4.1,Manhattan
+R_maiella,maiella,4.2,Queens
+R_polpette 71,polpette 71,4.1,Manhattan
+R_osteria 57,osteria 57,4.3,Manhattan
+R_the odeon,the odeon,3.9,Manhattan
+R_cotenna,cotenna,3.9,Manhattan
+R_misirizzi,misirizzi,4.4,Manhattan
+R_gran morsi,gran morsi,4.4,Manhattan
+R_osteria nando,osteria nando,4.2,Manhattan
+R_felice,felice,4.2,Manhattan
+R_arthur & sons ny italian,arthur & sons ny italian,3.9,Manhattan
+R_mamo restaurant,mamo restaurant,4.1,Manhattan
+R_ainslie bowery,ainslie bowery,3.9,Manhattan
+R_patsy's italian restaurant,patsy's italian restaurant,4.0,Manhattan
+R_fossetta,fossetta,4.4,Manhattan
+R_kahlo,kahlo,4.2,Manhattan
+R_jajaja mexicana,jajaja mexicana,4.3,Manhattan
+R_pink taco,pink taco,3.9,Manhattan
+R_anejo tribeca,anejo tribeca,4.1,Manhattan
+R_summer salt,summer salt,4.4,Manhattan
+R_la contenta oeste,la contenta oeste,4.3,Manhattan
+R_casa carmen,casa carmen,4.3,Manhattan
+R_javelina,javelina,3.9,Manhattan
+R_super burrito,super burrito,4.6,Brooklyn
+R_taco mix,taco mix,3.7,Brooklyn
+R_cemitas el tigre,cemitas el tigre,4.5,Queens
+R_rancho tequileria,rancho tequileria,3.9,Manhattan
+R_sobre masa,sobre masa,4.3,Brooklyn
+R_adobo mexican grill,adobo mexican grill,4.3,Brooklyn
+R_cafe xochimilco,cafe xochimilco,4.7,Queens
+R_bar bruno,bar bruno,4.5,Brooklyn
+R_tacos y quesadillas mexico,tacos y quesadillas mexico,4.1,Queens
+R_el gallo taqueria,el gallo taqueria,3.7,Brooklyn
+R_el mitote,el mitote,3.4,Manhattan
+R_mad dog & beans mexican cantina,mad dog & beans mexican cantina,3.9,Manhattan
+R_taqueria diana,taqueria diana,3.7,Manhattan
+R_el coco,el coco,3.4,Manhattan
+R_buena onda,buena onda,4.5,Manhattan
+R_cascalote latin bistro,cascalote latin bistro,4.5,Manhattan
+R_din tai fung,din tai fung,4.2,Manhattan
+R_chi restaurant & bar,chi restaurant & bar,4.5,Manhattan
+R_silky kitchen,silky kitchen,4.4,Manhattan
+R_uluh,uluh,4.4,Manhattan
+R_awesum dimsum,awesum dimsum,4.5,Manhattan
+R_bites of xi'an,bites of xi'an,4.0,Manhattan
+R_tang by mr sun,tang by mr sun,4.3,Manhattan
+R_joe's steam rice roll,joe's steam rice roll,4.2,Manhattan
+R_cozy rice,cozy rice,4.5,Manhattan
+R_lunar,lunar,4.2,Manhattan
+R_shan,shan,4.4,Brooklyn
+R_shanghai villa,shanghai villa,4.3,Manhattan
+R_baodega,baodega,4.1,Manhattan
+R_noodle village,noodle village,3.9,Manhattan
+R_emperor dumpling,emperor dumpling,4.3,Manhattan
+R_la salle dumpling room,la salle dumpling room,4.0,Manhattan
+R_wu & nussbaum,wu & nussbaum,3.4,Manhattan
+R_brooklyn dumpling shop,brooklyn dumpling shop,3.8,Manhattan
+R_tengri tagh uyghur cuisine,tengri tagh uyghur cuisine,4.5,Queens
+R_ea dumpling,ea dumpling,3.8,Manhattan
+R_shanghai 21,shanghai 21,4.1,Manhattan
+R_shaxian snacks,shaxian snacks,3.8,Brooklyn
+R_raku,raku,4.4,Manhattan
+R_kame,kame,4.4,Manhattan
+R_soba noodle azuma,soba noodle azuma,4.1,Manhattan
+R_ippudo ny,ippudo ny,4.1,Manhattan
+R_kushi kushi yaki,kushi kushi yaki,4.3,Manhattan
+R_hibino,hibino,4.2,Brooklyn
+R_nare sushi,nare sushi,3.8,Manhattan
+R_benemon,benemon,4.3,Manhattan
+R_sip & guzzle,sip & guzzle,4.1,Manhattan
+R_suzuki shokudo,suzuki shokudo,4.6,Queens
+R_maki kosaka,maki kosaka,4.4,Manhattan
+R_bar moga,bar moga,4.0,Manhattan
+R_kin gin,kin gin,4.6,Manhattan
+R_toribro ramen,toribro ramen,4.5,Manhattan
+R_koku ramen,koku ramen,4.0,Manhattan
+R_sushi ishikawa,sushi ishikawa,4.9,Manhattan
+R_thai villa,thai villa,4.4,Manhattan
+R_soothr,soothr,4.5,Manhattan
+R_chalong,chalong,4.6,Manhattan
+R_malii gramercy,malii gramercy,4.5,Manhattan
+R_tong,tong,4.4,Brooklyn
+R_ginger and lemongrass,ginger and lemongrass,4.2,Queens
+R_tha phraya,tha phraya,4.6,Manhattan
+R_tuk tuk,tuk tuk,4.0,Queens
+R_zaab zaab,zaab zaab,4.1,Manhattan
+R_glin thai bistro,glin thai bistro,4.6,Brooklyn
+R_plue,plue,4.5,Manhattan
+R_pye boat noodle,pye boat noodle,4.3,Queens
+R_curry house,curry house,4.3,Manhattan
+R_bangkok 2 thai,bangkok 2 thai,4.0,Manhattan
+R_dock asian eatery,dock asian eatery,4.2,Brooklyn
+R_krob kreung krob ros,krob kreung krob ros,4.5,Queens
+R_chai thai kitchen,chai thai kitchen,3.4,Manhattan
+R_thank you come again,thank you come again,4.0,Brooklyn
+R_williamsburg thai cuisine,williamsburg thai cuisine,4.1,Brooklyn
+R_tommy thai,tommy thai,3.9,Queens
+R_spicy shallot,spicy shallot,3.8,Queens
+R_lovely day,lovely day,3.4,Manhattan
+R_thai tree,thai tree,3.4,Queens
+R_yum yum too,yum yum too,3.4,Manhattan
+R_sticky rice,sticky rice,3.8,Manhattan
+R_thai terminal,thai terminal,3.8,Manhattan
+R_her name is han,her name is han,4.3,Manhattan
+R_moono,moono,4.4,Manhattan
+R_barn joo 35,barn joo 35,4.2,Manhattan
+R_bcd tofu house,bcd tofu house,3.9,Manhattan
+R_8282,8282,4.6,Manhattan
+R_ongi,ongi,4.4,Manhattan
+R_jua,jua,4.7,Manhattan
+R_jungsik,jungsik,4.6,Manhattan
+R_bangia,bangia,4.0,Manhattan
+R_delicacy,delicacy,3.4,Manhattan
+R_gen korean bbq house,gen korean bbq house,3.7,Manhattan
+R_nangman bbq,nangman bbq,3.9,Manhattan
+R_little dokebi,little dokebi,3.9,Brooklyn
+R_duke eatery,duke eatery,3.5,Manhattan
+R_cote korean steakhouse,cote korean steakhouse,4.2,Manhattan
+R_reception bar,reception bar,4.3,Manhattan
+R_chingoo restaurant,chingoo restaurant,4.7,Brooklyn
+R_shanghai mong,shanghai mong,3.1,Manhattan
+R_franchia vegan cafe,franchia vegan cafe,4.0,Manhattan
+R_shingane,shingane,4.7,Manhattan
+R_global kitchen,global kitchen,3.0,Manhattan
+R_joa kitchen,joa kitchen,4.9,Manhattan
+R_rokstar chicken,rokstar chicken,3.9,Queens
+R_red onion,red onion,4.8,Manhattan
+R_gazab,gazab,4.4,Manhattan
+R_ahimsa,ahimsa,4.4,Manhattan
+R_thelewala,thelewala,4.1,Manhattan
+R_raj's indian kitchen,raj's indian kitchen,4.0,Queens
+R_chola,chola,4.0,Manhattan
+R_anar,anar,4.2,Manhattan
+R_cardamom indian cuisine,cardamom indian cuisine,4.5,Queens
+R_darbar grill,darbar grill,4.0,Manhattan
+R_tagmo,tagmo,4.1,Manhattan
+R_jaz indian cuisine,jaz indian cuisine,4.4,Manhattan
+R_chote miya,chote miya,4.0,Manhattan
+R_adyar ananda bhavan,adyar ananda bhavan,3.7,Manhattan
+R_sunshine,sunshine,3.4,Brooklyn
+R_manhattan indian flavor,manhattan indian flavor,4.0,Manhattan
+R_delbianco prime,delbianco prime,4.7,Manhattan
+R_limani,limani,3.8,Manhattan
+R_the ten bells,the ten bells,4.1,Manhattan
+R_the capital grille,the capital grille,4.1,Manhattan
+R_point seven,point seven,4.1,Manhattan
+R_carro cafe,carro cafe,3.3,Brooklyn
+R_aoc east,aoc east,3.9,Manhattan
+R_meraki greek bistro,meraki greek bistro,4.6,Brooklyn
+R_estiatorio milos,estiatorio milos,3.8,Manhattan
+R_heidi's house by the side of the road,heidi's house by the side of the road,4.4,Manhattan
+R_smith & mills,smith & mills,3.7,Manhattan
+R_miss ada,miss ada,4.4,Brooklyn
+R_marc forgione,marc forgione,4.3,Manhattan
+R_the beast next door,the beast next door,4.3,Queens
+R_la bonne soupe,la bonne soupe,4.0,Manhattan
+R_merchants ny,merchants ny,4.1,Manhattan
+R_fresh salt,fresh salt,4.0,Manhattan
+R_rose lane,rose lane,4.3,Manhattan
+R_westville,westville,4.0,Manhattan
+R_sereneco,sereneco,4.1,Brooklyn
+R_eleni's,eleni's,4.3,Manhattan
+R_kiki's,kiki's,4.1,Manhattan
+R_nish nush,nish nush,4.4,Manhattan
+R_yasouvlaki,yasouvlaki,4.3,Manhattan
+R_kyma,kyma,3.9,Manhattan
+R_souvlaki gr,souvlaki gr,4.4,Manhattan
+R_pita yeero,pita yeero,3.9,Manhattan
+R_bahari estiatorio,bahari estiatorio,4.1,Queens
+R_stafili wine cafe,stafili wine cafe,4.3,Manhattan
+R_aliada,aliada,4.1,Queens
+R_chicken feastin,chicken feastin,4.4,Brooklyn
+R_barbounia,barbounia,3.7,Manhattan
+R_gold n honey,gold n honey,4.2,Queens
+R_gregory's 26 corner taverna,gregory's 26 corner taverna,4.2,Queens
+R_pita grill,pita grill,4.4,Manhattan
+R_bz grill,bz grill,3.9,Queens
+R_abaita,abaita,4.3,Manhattan
+R_naya,naya,4.2,Manhattan
+R_balzem,balzem,4.0,Manhattan
+R_ravagh persian grill,ravagh persian grill,4.0,Manhattan
+R_miznon,miznon,4.0,Manhattan
+R_omar's mediterranean cuisine,omar's mediterranean cuisine,4.2,Manhattan
+R_sami & susu,sami & susu,4.4,Manhattan
+R_shoo shoo nolita,shoo shoo nolita,4.1,Manhattan
+R_mum feteer,mum feteer,4.3,Queens
+R_aba turkish restaurant,aba turkish restaurant,4.1,Manhattan
+R_gardenia terrace,gardenia terrace,3.8,Manhattan
+R_harissa grill,harissa grill,4.0,Queens
+R_queen's room,queen's room,4.3,Queens
+R_aromi,aromi,4.6,Brooklyn
+R_piccoli trattoria,piccoli trattoria,4.3,Brooklyn
+R_fausto,fausto,4.2,Brooklyn
+R_cafe mars,cafe mars,4.5,Brooklyn
+R_brooklyn roots italian,brooklyn roots italian,4.5,Brooklyn
+R_rosticceria evelina,rosticceria evelina,4.5,Brooklyn
+R_convivium osteria,convivium osteria,3.9,Brooklyn
+R_piccante,piccante,4.6,Brooklyn
+R_panzerotti bites,panzerotti bites,4.9,Brooklyn
+R_pizza d'amore,pizza d'amore,3.1,Brooklyn
+R_bar toto,bar toto,3.6,Brooklyn
+R_siempre,siempre,4.4,Brooklyn
+R_claro,claro,4.2,Brooklyn
+R_the steel mill,the steel mill,4.2,Brooklyn
+R_el nopal restaurant & juice bar,el nopal restaurant & juice bar,4.1,Brooklyn
+R_tacos el bronco,tacos el bronco,4.5,Brooklyn
+R_cafe nube,cafe nube,4.8,Brooklyn
+R_mallenche mexican grill,mallenche mexican grill,4.3,Brooklyn
+R_pronto cafe,pronto cafe,4.3,Brooklyn
+R_el zason,el zason,4.1,Brooklyn
+R_don patron bar & grill,don patron bar & grill,4.2,Brooklyn
+R_la taqueria,la taqueria,4.0,Brooklyn
+R_xochitl taqueria,xochitl taqueria,3.9,Brooklyn
+R_bk seafood market,bk seafood market,4.3,Brooklyn
+R_petite dumpling,petite dumpling,4.5,Brooklyn
+R_like cafe,like cafe,3.5,Brooklyn
+R_the rogue panda,the rogue panda,4.5,Brooklyn
+R_jj kitchen,jj kitchen,4.5,Brooklyn
+R_wu la bu huan,wu la bu huan,3.8,Brooklyn
+R_jin jin hong kong cafe,jin jin hong kong cafe,3.4,Brooklyn
+R_red bowl,red bowl,4.5,Brooklyn
+R_prime avenue,prime avenue,3.6,Brooklyn
+R_golden palace,golden palace,3.1,Bronx
+R_bamboo seafood restaurant,bamboo seafood restaurant,5.0,Brooklyn
+R_chowtime,chowtime,4.3,Brooklyn
+R_asia harbor,asia harbor,3.9,Brooklyn
+R_ozakaya,ozakaya,4.5,Brooklyn
+R_muteki udon,muteki udon,4.5,Brooklyn
+R_izakaya tenzo,izakaya tenzo,4.8,Brooklyn
+R_suzume,suzume,4.0,Brooklyn
+R_nana ramen,nana ramen,4.0,Brooklyn
+R_karazishi botan,karazishi botan,4.5,Brooklyn
+R_bushniwa,bushniwa,4.2,Brooklyn
+R_shalom japan,shalom japan,3.9,Brooklyn
+R_enso,enso,5.0,Brooklyn
+R_ippudo,ippudo,4.5,Manhattan
+R_izakaya ajimi,izakaya ajimi,4.2,Brooklyn
+R_ninja japan teriyaki & sushi,ninja japan teriyaki & sushi,3.8,Brooklyn
+R_sushi yashin,sushi yashin,4.2,Brooklyn
+R_le chai,le chai,3.8,Brooklyn
+R_amy thai bistro,amy thai bistro,4.4,Brooklyn
+R_am thai bistro,am thai bistro,3.8,Brooklyn
+R_bangkok bar,bangkok bar,4.4,Brooklyn
+R_beds thai,beds thai,4.1,Brooklyn
+R_ricepot thai cookhouse,ricepot thai cookhouse,4.1,Brooklyn
+R_huge thai,huge thai,4.1,Brooklyn
+R_uni thai bistro,uni thai bistro,4.4,Brooklyn
+R_golden thai,golden thai,3.0,Brooklyn
+R_mr wonton,mr wonton,3.5,Queens
+R_sweet basil,sweet basil,3.2,Brooklyn
+R_cafe chili,cafe chili,3.7,Brooklyn
+R_yummy thai,yummy thai,2.5,Manhattan
+R_insa,insa,3.3,Brooklyn
+R_pier 53 coffee & sandwich shop,pier 53 coffee & sandwich shop,4.7,Brooklyn
+R_hunny,hunny,4.2,Bronx
+R_king of tandoor,king of tandoor,3.9,Brooklyn
+R_diwali indian cuisine,diwali indian cuisine,4.9,Brooklyn
+R_punjabi kabab and gyro,punjabi kabab and gyro,4.2,Queens
+R_mayoor indian bistro,mayoor indian bistro,4.9,Brooklyn
+R_kanan indian restaurant,kanan indian restaurant,3.9,Brooklyn
+R_bombay heights,bombay heights,3.5,Brooklyn
+R_masala grill,masala grill,3.6,Brooklyn
+R_sher e punjab gyro & grill,sher e punjab gyro & grill,4.3,Queens
+R_london tandoori,london tandoori,3.7,Brooklyn
+R_curry roti box,curry roti box,3.0,Queens
+R_curry leaf indian cuisine,curry leaf indian cuisine,4.6,Brooklyn
+R_apna pind,apna pind,3.6,Queens
+R_red hook lobster pound,red hook lobster pound,4.0,Brooklyn
+R_the boil,the boil,3.9,Brooklyn
+R_pips,pips,4.2,Brooklyn
+R_peaches grand,peaches grand,3.9,Brooklyn
+R_cap't loui,cap't loui,3.8,Manhattan
+R_royal cuisine yard food,royal cuisine yard food,3.9,Brooklyn
+R_big 5 seafood restaurant,big 5 seafood restaurant,3.9,Brooklyn
+R_ocean prime bar & restaurant,ocean prime bar & restaurant,4.6,Queens
+R_bed-stuy fish fry,bed-stuy fish fry,2.6,Brooklyn
+R_golden blue bar & restaurant,golden blue bar & restaurant,4.3,Brooklyn
+R_house brooklyn,house brooklyn,4.9,Brooklyn
+R_brooklyn ice house,brooklyn ice house,4.4,Brooklyn
+R_el jeffe,el jeffe,4.3,Brooklyn
+R_footprints cafe,footprints cafe,2.9,Brooklyn
+R_dog day afternoon,dog day afternoon,4.8,Brooklyn
+R_barely disfigured,barely disfigured,4.5,Brooklyn
+R_holy schnitzel,holy schnitzel,5.0,Manhattan
+R_the broadway,the broadway,4.2,Brooklyn
+R_falansai,falansai,4.1,Brooklyn
+R_cheryl's global soul,cheryl's global soul,3.8,Brooklyn
+R_wheated,wheated,4.4,Brooklyn
+R_samuels top ranking fish shop,samuels top ranking fish shop,4.1,Brooklyn
+R_white maize,white maize,4.4,Manhattan
+R_spiro's cafe & pizza,spiro's cafe & pizza,3.6,Brooklyn
+R_somethingreek,somethingreek,3.6,Brooklyn
+R_gyro grill,gyro grill,3.7,Queens
+R_mazzat,mazzat,4.6,Brooklyn
+R_ringolevio,ringolevio,4.4,Brooklyn
+R_darna falafel,darna falafel,4.3,Brooklyn
+R_pita palace,pita palace,4.7,Brooklyn
+R_kabob shack,kabob shack,4.2,Brooklyn
+R_fuel fever,fuel fever,4.5,Brooklyn
+R_baku nights,baku nights,4.5,Brooklyn
+R_claudette,claudette,4.0,Manhattan
+R_tuscan hills,tuscan hills,3.8,Queens
+R_liola,liola,4.0,Queens
+R_manetta's ristorante,manetta's ristorante,4.2,Queens
+R_manducatis,manducatis,4.1,Queens
+R_cascata,cascata,2.5,Queens
+R_antica trattoria,antica trattoria,4.1,Queens
+R_nonnas 1977,nonnas 1977,4.5,Queens
+R_trattoria 35,trattoria 35,3.9,Queens
+R_pizza classica,pizza classica,3.9,Queens
+R_spolini's,spolini's,3.5,Queens
+R_palermo restaurant & bar,palermo restaurant & bar,4.3,Queens
+R_da capo,da capo,4.4,Manhattan
+R_follia,follia,3.9,Manhattan
+R_forno siciliano,forno siciliano,3.9,Queens
+R_la casa del mariachi,la casa del mariachi,4.4,Queens
+R_el mero mero,el mero mero,4.4,Queens
+R_burrito republic,burrito republic,4.3,Queens
+R_laly's restaurant,laly's restaurant,4.4,Queens
+R_las chilangas,las chilangas,4.8,Queens
+R_los tres potrillos,los tres potrillos,2.7,Queens
+R_latino bites,latino bites,3.8,Queens
+R_moho mexican grill,moho mexican grill,4.0,Queens
+R_el vaquerito,el vaquerito,4.1,Queens
+R_astoria taco factory,astoria taco factory,4.1,Queens
+R_beijing dumpling house,beijing dumpling house,4.4,Queens
+R_ooodles noodle house,ooodles noodle house,4.6,Queens
+R_noodle lab,noodle lab,3.8,Queens
+R_the bund,the bund,3.5,Queens
+R_mr. wonton,mr. wonton,3.9,Queens
+R_nueva victoria,nueva victoria,4.3,Queens
+R_white bear,white bear,4.0,Queens
+R_china fun,china fun,3.7,Queens
+R_great wall chinese restaurant,great wall chinese restaurant,3.6,Brooklyn
+R_mito,mito,4.2,Queens
+R_sakura 7,sakura 7,4.0,Queens
+R_tokyo ya,tokyo ya,3.5,Queens
+R_three bowls ramen,three bowls ramen,4.1,Queens
+R_mochiron izakaya,mochiron izakaya,4.1,Queens
+R_tamashii ramen,tamashii ramen,4.1,Queens
+R_bkny thai restaurant,bkny thai restaurant,4.0,Queens
+R_buddha asian,buddha asian,4.2,Queens
+R_jang dok dae,jang dok dae,4.6,Queens
+R_mahsil,mahsil,4.1,Queens
+R_hahm ji bach,hahm ji bach,4.0,Queens
+R_i am kimchi,i am kimchi,4.8,Queens
+R_naju gomtang,naju gomtang,4.0,Queens
+R_kababish,kababish,3.6,Queens
+R_nabanno restaurant,nabanno restaurant,3.7,Queens
+R_punjabi kabab house,punjabi kabab house,3.2,Queens
+R_the buffet,the buffet,3.4,Queens
+R_fabrika,fabrika,4.2,Queens
+R_la hueca epa,la hueca epa,4.1,Queens
+R_the door,the door,3.6,Queens
+R_mistura peruana,mistura peruana,5.0,Queens
+R_truth restaurant and lounge,truth restaurant and lounge,4.1,Queens
+R_mar's,mar's,3.9,Queens
+R_off the hook raw bar & grill,off the hook raw bar & grill,4.0,Queens
+R_west bar & lounge,west bar & lounge,3.6,Queens
+R_pho grand,pho grand,2.7,Manhattan
+R_la fusta restaurant,la fusta restaurant,3.9,Queens
+R_rove,rove,4.1,Queens
+R_la vecina,la vecina,4.4,Queens
+R_sotto le stelle,sotto le stelle,4.5,Queens
+R_sangria tapas bar & restaurant,sangria tapas bar & restaurant,3.9,Queens
+R_spicy lanka,spicy lanka,4.6,Queens
+R_andrea's chicken,andrea's chicken,3.6,Queens
+R_jackson hole,jackson hole,3.8,Manhattan
+R_gottscheer hall,gottscheer hall,4.4,Queens
+R_burger city,burger city,4.0,Queens
+R_greek family kitchen,greek family kitchen,3.8,Queens
+R_gyro world,gyro world,3.6,Queens
+R_the halal guys,the halal guys,2.8,Manhattan
+R_shawarmania,shawarmania,4.1,Queens
+R_bayahibe fusion,bayahibe fusion,3.4,Bronx
+R_romanian garden,romanian garden,3.5,Queens
+R_ukus,ukus,4.0,Queens
+R_orrico's italian restaurant,orrico's italian restaurant,4.7,Bronx
+R_beccofino,beccofino,3.9,Bronx
+R_la casa del mofongo,la casa del mofongo,1.9,Manhattan
+R_niccolo pizzeria,niccolo pizzeria,5.0,Manhattan
+R_colima taqueria,colima taqueria,3.9,Bronx
+R_estrellita poblana,estrellita poblana,3.9,Bronx
+R_los girasoles restaurant,los girasoles restaurant,4.2,Bronx
+R_queen of tacos,queen of tacos,3.7,Bronx
+R_taqueria sinaloense,taqueria sinaloense,4.5,Bronx
+R_estrellita mixteca,estrellita mixteca,3.7,Bronx
+R_vista hermosa restaurant,vista hermosa restaurant,3.6,Bronx
+R_las maravillas de mexico restaurant,las maravillas de mexico restaurant,3.3,Bronx
+R_noches mexicanas,noches mexicanas,3.6,Bronx
+R_panda restaurant,panda restaurant,3.8,Bronx
+R_china mia,china mia,3.9,Bronx
+R_peking house,peking house,4.4,Brooklyn
+R_golden chef,golden chef,4.3,Bronx
+R_king dragon,king dragon,4.2,Bronx
+R_golden dragon restaurant,golden dragon restaurant,2.0,Brooklyn
+R_panda express,panda express,1.7,Queens
+R_good taste chinese restaurant,good taste chinese restaurant,3.3,Manhattan
+R_chinese gourmet,chinese gourmet,5.0,Bronx
+R_lucky star,lucky star,2.9,Bronx
+R_flame,flame,4.2,Manhattan
+R_mama sushi,mama sushi,3.0,Bronx
+R_sushi noz,sushi noz,4.2,Manhattan
+R_mughal curry spot,mughal curry spot,3.5,Bronx
+R_halal fresh chinese & indian cuisine,halal fresh chinese & indian cuisine,3.6,Bronx
+R_johnny's reef restaurant,johnny's reef restaurant,3.8,Bronx
+R_galicia tapas,galicia tapas,4.6,Manhattan
+R_hard rock cafe,hard rock cafe,3.6,Manhattan
+R_seafood city,seafood city,3.0,Bronx
+R_shangerila restaurant,shangerila restaurant,3.2,Bronx
+R_los amigos restaurant,los amigos restaurant,3.9,Bronx
+R_up top grill,up top grill,4.1,Bronx
+R_sylvia's restaurant,sylvia's restaurant,3.6,Manhattan
+R_nana's kitchen,nana's kitchen,4.6,Bronx
+R_tortoise & hare,tortoise & hare,4.4,Bronx
+R_fiorentina steakhouse,fiorentina steakhouse,4.6,Bronx
+R_hudson smokehouse,hudson smokehouse,3.9,Bronx
+R_tasty choice,tasty choice,4.1,Bronx
+R_the uptown garrison,the uptown garrison,4.0,Manhattan
+R_parisienne cafe,parisienne cafe,4.7,Bronx
+R_avenue gyro,avenue gyro,4.3,Bronx
+R_cozy cottage restaurant,cozy cottage restaurant,3.6,Bronx
+R_don cheech,don cheech,4.3,Staten Island
+R_coral bay cafe,coral bay cafe,3.7,Staten Island
+R_trattoria toscana,trattoria toscana,4.3,Staten Island
+R_panini grill,panini grill,3.4,Staten Island
+R_angelina's ristorante,angelina's ristorante,3.2,Staten Island
+R_la strada restaurant,la strada restaurant,4.0,Staten Island
+R_eat italian,eat italian,3.8,Staten Island
+R_luce,luce,3.9,Staten Island
+R_artie's,artie's,4.4,Bronx
+R_pizzeria giove,pizzeria giove,4.2,Staten Island
+R_cantina mexicana,cantina mexicana,4.2,Staten Island
+R_la candela espanola,la candela espanola,3.1,Staten Island
+R_los pastorcitos g's,los pastorcitos g's,0.0,Staten Island
+R_taquito,taquito,3.9,Manhattan
+R_siu kitchen,siu kitchen,4.7,Staten Island
+R_moon & flower house,moon & flower house,3.3,Queens
+R_fish noodle house,fish noodle house,3.6,Staten Island
+R_hitto ramen,hitto ramen,4.0,Staten Island
+R_teriyaki one japanese grill,teriyaki one japanese grill,3.8,Queens
+R_noodlefan,noodlefan,4.0,Staten Island
+R_3 guys sushi,3 guys sushi,3.7,Staten Island
+R_soho thai,soho thai,3.6,Manhattan
+R_aroy dee thai kitchen,aroy dee thai kitchen,3.6,Manhattan
+R_once more thai,once more thai,3.7,Manhattan
+R_thai cafe,thai cafe,3.3,Brooklyn
+R_randiwa,randiwa,4.3,Staten Island
+R_blue,blue,3.9,Staten Island
+R_bite burger,bite burger,4.4,Staten Island
+R_the point tavern,the point tavern,4.5,Staten Island
+R_cafe juliet,cafe juliet,4.4,Staten Island
+R_richmond republic,richmond republic,3.4,Staten Island
+R_mike's unicorn diner,mike's unicorn diner,3.0,Staten Island
+R_chinar on the island,chinar on the island,3.8,Staten Island
+R_eat offbeat,eat offbeat,0.0,Manhattan
+R_scarpetta,scarpetta,4.1,Manhattan
+R_locanda verde,locanda verde,3.9,Manhattan
+R_l'artusi,l'artusi,4.3,Manhattan
+R_da raffaele,da raffaele,4.6,Manhattan
+R_da toscano,da toscano,4.6,Manhattan
+R_barolo east,barolo east,4.5,Manhattan
+R_aunt jake's,aunt jake's,4.4,Manhattan
+R_da claudio,da claudio,4.3,Manhattan
+R_mareluna,mareluna,4.3,Manhattan
+R_lilia,lilia,3.9,Brooklyn
+R_fiaschetteria pistoia,fiaschetteria pistoia,4.1,Manhattan
+R_vic's,vic's,4.3,Manhattan
+R_all'antico vinaio,all'antico vinaio,4.4,Manhattan
+R_go nonna,go nonna,4.4,Queens
+R_santi,santi,4.2,Manhattan
+R_rucola,rucola,4.1,Brooklyn
+R_trapizzino,trapizzino,4.4,Manhattan
+R_il bambino,il bambino,4.4,Queens
+R_jupiter,jupiter,3.6,Manhattan
+R_cafe spaghetti,cafe spaghetti,4.5,Brooklyn
+R_levante,levante,3.9,Queens
+R_sergimmo salumeria,sergimmo salumeria,4.2,Manhattan
+R_frida midtown,frida midtown,4.4,Manhattan
+R_amor loco,amor loco,3.9,Manhattan
+R_cafe habana,cafe habana,4.0,Manhattan
+R_mezcali,mezcali,3.9,Manhattan
+R_taqueria 86,taqueria 86,4.5,Manhattan
+R_street taco,street taco,4.0,Manhattan
+R_the calaveras,the calaveras,4.5,Manhattan
+R_taqueria ramirez,taqueria ramirez,4.6,Brooklyn
+R_taqueria gramercy,taqueria gramercy,4.0,Manhattan
+R_oso,oso,4.1,Manhattan
+R_conmigo,conmigo,3.9,Manhattan
+R_cinco de mayo,cinco de mayo,4.5,Queens
+R_de mole,de mole,4.3,Queens
+R_nina's great burrito bar,nina's great burrito bar,4.0,Manhattan
+R_mayahuel,mayahuel,4.3,Queens
+R_pho 39,pho 39,3.6,Manhattan
+R_sullivan taqueria,sullivan taqueria,4.3,Manhattan
+R_joe's home of soup dumplings,joe's home of soup dumplings,4.5,Manhattan
+R_the handpulled noodle,the handpulled noodle,4.4,Manhattan
+R_very fresh noodles,very fresh noodles,4.4,Manhattan
+R_grandma's home,grandma's home,4.2,Manhattan
+R_buddakan,buddakan,4.1,Manhattan
+R_peng's noodle folk,peng's noodle folk,4.5,Manhattan
+R_little alley,little alley,4.0,Manhattan
+R_kings co imperial,kings co imperial,4.0,Brooklyn
+R_yunnan rice noodle house,yunnan rice noodle house,4.1,Brooklyn
+R_brooklyn chop house,brooklyn chop house,3.9,Manhattan
+R_taiwan pork chop house,taiwan pork chop house,4.0,Manhattan
+R_rice bird,rice bird,4.4,Manhattan
+R_king's kitchen,king's kitchen,3.9,Brooklyn
+R_chi chicken,chi chicken,4.4,Queens
+R_bonnie's,bonnie's,3.6,Brooklyn
+R_phoenix palace,phoenix palace,4.4,Manhattan
+R_kin ramen,kin ramen,4.6,Manhattan
+R_izakaya toribar,izakaya toribar,4.2,Manhattan
+R_nobu fifty seven,nobu fifty seven,4.0,Manhattan
+R_sapps,sapps,4.2,Queens
+R_tensai,tensai,4.3,Manhattan
+R_sushi w,sushi w,4.6,Manhattan
+R_hakurakuso,hakurakuso,4.1,Manhattan
+R_sushi lab - east village,sushi lab - east village,4.8,Manhattan
+R_jun-men ramen bar,jun-men ramen bar,4.2,Manhattan
+R_gu japanese fusion sushi & bar,gu japanese fusion sushi & bar,3.9,Manhattan
+R_chikarashi,chikarashi,4.1,Manhattan
+R_aqua,aqua,4.0,Manhattan
+R_susuru ramen,susuru ramen,4.7,Queens
+R_the lobster club,the lobster club,4.1,Manhattan
+R_momokawa,momokawa,4.1,Manhattan
+R_ramen by ra,ramen by ra,4.8,Manhattan
+R_thai diner,thai diner,4.2,Manhattan
+R_pig and khao,pig and khao,3.9,Manhattan
+R_sripraphai thai restaurant,sripraphai thai restaurant,3.9,Queens
+R_lil chef mama,lil chef mama,4.4,Manhattan
+R_gai chicken & rice,gai chicken & rice,4.0,Manhattan
+R_ros niyom thai restaurant,ros niyom thai restaurant,4.3,Queens
+R_thai hot box,thai hot box,4.4,Manhattan
+R_gai kitchen,gai kitchen,4.4,Manhattan
+R_thai super,thai super,3.7,Manhattan
+R_rasa,rasa,4.1,Manhattan
+R_7 elephants,7 elephants,4.3,Manhattan
+R_thailicious,thailicious,4.6,Manhattan
+R_somtum der,somtum der,4.1,Brooklyn
+R_raenu thai,raenu thai,3.9,Manhattan
+R_at nine restaurant & bar,at nine restaurant & bar,3.9,Manhattan
+R_ditmars thai,ditmars thai,4.7,Queens
+R_hug esan,hug esan,4.5,Queens
+R_terra thai,terra thai,4.7,Manhattan
+R_laut,laut,3.7,Manhattan
+R_thai tai eatery,thai tai eatery,4.8,Queens
+R_nubiani,nubiani,4.5,Manhattan
+R_jeju noodle bar,jeju noodle bar,4.2,Manhattan
+R_kisa,kisa,4.4,Manhattan
+R_naro,naro,4.2,Manhattan
+R_sam woo jung,sam woo jung,4.3,Manhattan
+R_barn joo,barn joo,4.0,Manhattan
+R_mari,mari,4.3,Manhattan
+R_mokja,mokja,3.7,Queens
+R_danji,danji,3.9,Manhattan
+R_atomix,atomix,4.5,Manhattan
+R_yoon haeundae galbi,yoon haeundae galbi,4.3,Manhattan
+R_atti,atti,4.2,Brooklyn
+R_koji chicken,koji chicken,4.4,Manhattan
+R_sik gaek,sik gaek,3.9,Queens
+R_noona noodles,noona noodles,4.1,Manhattan
+R_hangawi,hangawi,4.1,Manhattan
+R_new wonjo restaurant,new wonjo restaurant,3.5,Manhattan
+R_cloves indian cuisine,cloves indian cuisine,4.8,Manhattan
+R_indian accent,indian accent,4.3,Manhattan
+R_mumbai place,mumbai place,5.0,Brooklyn
+R_atithi indian cuisine,atithi indian cuisine,4.7,Brooklyn
+R_tandoor oven,tandoor oven,3.8,Manhattan
+R_american brass,american brass,4.3,Queens
+R_nisi,nisi,3.7,Manhattan
+R_oceana,oceana,3.8,Manhattan
+R_del frisco's double eagle steakhouse,del frisco's double eagle steakhouse,4.2,Manhattan
+R_lure fishbar,lure fishbar,3.9,Manhattan
+R_majorelle,majorelle,4.3,Manhattan
+R_anassa taverna,anassa taverna,4.1,Manhattan
+R_terra mediterrania,terra mediterrania,4.4,Manhattan
+R_korali estiatorio,korali estiatorio,4.0,Manhattan
+R_blue sea taverna,blue sea taverna,4.0,Queens
+R_greek xpress,greek xpress,4.2,Manhattan
+R_amylos taverna,amylos taverna,4.2,Queens
+R_acadia,acadia,4.1,Manhattan
+R_mamoun's falafel,mamoun's falafel,4.2,Manhattan
+R_maite,maite,4.2,Brooklyn
+R_fotia mediterranean,fotia mediterranean,4.3,Manhattan
+R_bar mario,bar mario,4.7,Brooklyn
+R_al di la trattoria,al di la trattoria,4.0,Brooklyn
+R_amuni,amuni,4.8,Brooklyn
+R_impasto,impasto,4.3,Brooklyn
+R_la nonna ristorante & bar,la nonna ristorante & bar,4.1,Brooklyn
+R_sweet talk,sweet talk,3.8,Brooklyn
+R_guac time mexican grill,guac time mexican grill,4.0,Brooklyn
+R_bk taco factory,bk taco factory,4.3,Brooklyn
+R_leslie's kitchen,leslie's kitchen,4.6,Brooklyn
+R_taqueria kermes,taqueria kermes,4.2,Queens
+R_china restaurant,china restaurant,4.0,Queens
+R_hainan jones,hainan jones,3.9,Manhattan
+R_peking kitchen,peking kitchen,4.0,Bronx
+R_wing hing chinese restaurant,wing hing chinese restaurant,3.9,Brooklyn
+R_bk asian express,bk asian express,4.5,Brooklyn
+R_momo test kitchen,momo test kitchen,4.6,Brooklyn
+R_ki sushi,ki sushi,4.2,Brooklyn
+R_happy canteen,happy canteen,4.6,Brooklyn
+R_gohan sushi,gohan sushi,4.5,Brooklyn
+R_eats & poke,eats & poke,2.6,Brooklyn
+R_bombay grill,bombay grill,4.5,Brooklyn
+R_joy indian restaurant,joy indian restaurant,3.8,Brooklyn
+R_anything,anything,4.7,Brooklyn
+R_clarendon cuisine,clarendon cuisine,1.0,Brooklyn
+R_the canary,the canary,4.7,Brooklyn
+R_altar,altar,4.5,Brooklyn
+R_the munchies,the munchies,4.6,Brooklyn
+R_cafe tibet,cafe tibet,4.1,Brooklyn
+R_la vara,la vara,4.0,Brooklyn
+R_the brooklyn tree,the brooklyn tree,4.4,Brooklyn
+R_agora taverna,agora taverna,3.6,Queens
+R_levantine,levantine,4.6,Brooklyn
+R_taste of akko,taste of akko,5.0,Brooklyn
+R_mercato lic,mercato lic,4.9,Queens
+R_tartina,tartina,4.0,Manhattan
+R_burrito blvd,burrito blvd,4.1,Queens
+R_5 burro cafe,5 burro cafe,3.6,Queens
+R_girasoles mexican cuisine,girasoles mexican cuisine,4.6,Queens
+R_izakaya nana,izakaya nana,4.4,Queens
+R_umi sushi,umi sushi,4.4,Queens
+R_cha menya,cha menya,4.6,Queens
+R_rakuzen,rakuzen,3.4,Queens
+R_hinomaru ramen,hinomaru ramen,4.0,Queens
+R_ddee thai,ddee thai,4.3,Queens
+R_eatzy thai,eatzy thai,3.4,Queens
+R_friend restaurant,friend restaurant,3.4,Queens
+R_shahi darbar,shahi darbar,3.9,Queens
+R_yaar indian restaurant,yaar indian restaurant,4.5,Queens
+R_cabana,cabana,3.9,Queens
+R_amar peruvian kitchen,amar peruvian kitchen,3.9,Queens
+R_matiz latin cuisine,matiz latin cuisine,3.9,Queens
+R_brooklyn diner,brooklyn diner,1.7,Manhattan
+R_poprice,poprice,3.7,Queens
+R_rafaelis palace,rafaelis palace,4.2,Queens
+R_taim mediterranean kitchen,taim mediterranean kitchen,1.0,Brooklyn
+R_lena trattoria,lena trattoria,4.4,Bronx
+R_legendary bar & grill,legendary bar & grill,4.5,Bronx
+R_taqueria tlaxcalli,taqueria tlaxcalli,4.4,Bronx
+R_rey tacos taqueria,rey tacos taqueria,4.5,Bronx
+R_la catrina mexican bistro,la catrina mexican bistro,3.4,Manhattan
+R_plaza tulcingo restaurant,plaza tulcingo restaurant,2.4,Bronx
+R_reyna restaurant,reyna restaurant,4.6,Bronx
+R_la perla mexicana,la perla mexicana,3.8,Bronx
+R_taqueria lupita ii,taqueria lupita ii,3.0,Bronx
+R_la fiesta restaurant,la fiesta restaurant,3.7,Manhattan
+R_king's chef chinese restaurant,king's chef chinese restaurant,5.0,Bronx
+R_number 1 chinese restaurant,number 1 chinese restaurant,3.6,Brooklyn
+R_lin home chinese restaurant,lin home chinese restaurant,3.8,Bronx
+R_kai fan asian cuisine,kai fan asian cuisine,3.4,Bronx
+R_no. 1 restaurant,no. 1 restaurant,3.1,Manhattan
+R_osaka sushi,osaka sushi,4.0,Bronx
+R_tandoori place,tandoori place,4.2,Bronx
+R_famous fish market,famous fish market,4.0,Manhattan
+R_havana cafe,havana cafe,3.9,Bronx
+R_caribbean sunshine restaurant,caribbean sunshine restaurant,4.1,Bronx
+R_steven restaurant,steven restaurant,2.3,Bronx
+R_the grill house,the grill house,3.7,Bronx
+R_tinto tapas restaurant & wine bar,tinto tapas restaurant & wine bar,4.3,Manhattan
+R_georgina restaurant,georgina restaurant,4.0,Bronx
+R_chicken ranch,chicken ranch,4.3,Manhattan
+R_trattoria oliveto,trattoria oliveto,4.1,Staten Island
+R_leon's,leon's,4.4,Manhattan
+R_las chelitas,las chelitas,4.4,Brooklyn
+R_happy home cuisine,happy home cuisine,4.7,Staten Island
+R_chef tan,chef tan,3.7,Manhattan
+R_ohkami ramen,ohkami ramen,4.3,Staten Island
+R_yummy machi,yummy machi,4.4,Staten Island
+R_arirang hibachi steakhouse,arirang hibachi steakhouse,3.9,Brooklyn
+R_avocado sushi,avocado sushi,3.5,Staten Island
+R_imm thai,imm thai,4.3,Manhattan
+R_kati thai cuisine,kati thai cuisine,3.9,Manhattan
+R_the sabieng thai,the sabieng thai,4.1,Manhattan
+R_deep indian kitchen,deep indian kitchen,4.1,Manhattan
+R_grand sahara mediterranean grill,grand sahara mediterranean grill,4.2,Staten Island
+R_canlon's restaurant,canlon's restaurant,3.9,Staten Island
+R_real madrid restaurant,real madrid restaurant,3.4,Staten Island
+R_cantina cubana,cantina cubana,4.7,Manhattan
+R_holland bay restaurant,holland bay restaurant,4.0,Staten Island
+R_griff's place,griff's place,4.2,Staten Island
+R_kuzina,kuzina,3.5,Staten Island
+R_l'osteria,l'osteria,4.6,Manhattan
+R_tuscany steakhouse,tuscany steakhouse,4.5,Manhattan
+R_roscioli,roscioli,3.9,Manhattan
+R_lolita,lolita,4.3,Manhattan
+R_ofrenda,ofrenda,3.9,Manhattan
+R_dim sum sam,dim sum sam,4.0,Manhattan
+R_lisa's dumplings,lisa's dumplings,3.8,Manhattan
+R_mala house,mala house,4.5,Manhattan
+R_mokyo,mokyo,4.6,Manhattan
+R_ocean prime,ocean prime,4.4,Manhattan
+R_peaches prime,peaches prime,4.4,Brooklyn
+R_villa berulia,villa berulia,4.3,Manhattan
+R_ilili restaurant,ilili restaurant,4.1,Manhattan
+R_pascalou,pascalou,4.1,Manhattan
+R_martha's cocina mexicana,martha's cocina mexicana,4.6,Brooklyn
+R_mama taco,mama taco,3.1,Manhattan
+R_chao thai,chao thai,3.9,Queens
+R_peaches,peaches,3.7,Brooklyn
+R_deux chats,deux chats,4.0,Brooklyn
+R_bay ridge fish bar,bay ridge fish bar,4.4,Brooklyn
+R_winona's,winona's,4.6,Brooklyn
+R_bricolage,bricolage,4.1,Brooklyn
+R_athena mediterranean cuisine,athena mediterranean cuisine,4.4,Brooklyn
+R_concettina,concettina,4.4,Queens
+R_taco azul,taco azul,4.0,Queens
+R_casa asia,casa asia,3.8,Queens
+R_sangarita's,sangarita's,4.1,Queens
+R_empire chinese restaurant,empire chinese restaurant,3.2,Queens
+R_double dragon restaurant,double dragon restaurant,3.1,Brooklyn
+R_yummy house,yummy house,2.0,Bronx
+R_curry king,curry king,2.6,Manhattan
+R_sabor latino seafood restaurant,sabor latino seafood restaurant,3.9,Bronx
+R_bangla garden restaurant,bangla garden restaurant,4.7,Bronx
+R_gurra cafe,gurra cafe,4.2,Bronx
+R_angelina's kitchen,angelina's kitchen,3.4,Staten Island
+R_la carreta restaurant,la carreta restaurant,4.2,Brooklyn
+R_uva,uva,4.0,Manhattan
+R_lulla,lulla,4.2,Manhattan
+R_osteria accademia,osteria accademia,4.4,Manhattan
+R_osteria carlina,osteria carlina,4.3,Manhattan
+R_aurora,aurora,4.0,Brooklyn
+R_briciola harlem,briciola harlem,4.6,Manhattan
+R_osteria brooklyn,osteria brooklyn,4.4,Queens
+R_la contenta les,la contenta les,4.5,Manhattan
+R_rosie's,rosie's,4.0,Manhattan
+R_nenes taqueria,nenes taqueria,4.3,Brooklyn
+R_atla,atla,3.4,Manhattan
+R_hey yuet,hey yuet,4.4,Manhattan
+R_excellent dumpling house,excellent dumpling house,4.1,Manhattan
+R_szechuan garden,szechuan garden,4.0,Manhattan
+R_the corner chinese restaurant,the corner chinese restaurant,4.0,Manhattan
+R_bites of xian,bites of xian,4.3,Manhattan
+R_teppen ramen,teppen ramen,4.3,Manhattan
+R_sappe,sappe,4.3,Manhattan
+R_the buffs,the buffs,4.5,Queens
+R_little thai kitchen,little thai kitchen,3.5,Manhattan
+R_link thai,link thai,4.4,Brooklyn
+R_nari,nari,4.4,Manhattan
+R_korean express,korean express,3.4,Manhattan
+R_muna,muna,4.7,Manhattan
+R_divya's kitchen,divya's kitchen,4.5,Manhattan
+R_ambo,ambo,4.8,Manhattan
+R_tinos,tinos,4.4,Manhattan
+R_buena vista restaurant & bar,buena vista restaurant & bar,4.6,Manhattan
+R_copinette,copinette,4.1,Manhattan
+R_butterflied chicken,butterflied chicken,4.6,Manhattan
+R_yefsi estiatorio,yefsi estiatorio,3.9,Manhattan
+R_telly's taverna,telly's taverna,4.1,Queens
+R_adria,adria,4.8,Manhattan
+R_safir mediterranean,safir mediterranean,4.6,Queens
+R_michael's,michael's,4.4,Manhattan
+R_bar camillo,bar camillo,4.2,Brooklyn
+R_bomberino,bomberino,4.3,Brooklyn
+R_roman's,roman's,3.7,Brooklyn
+R_dolce vita,dolce vita,4.5,Brooklyn
+R_pomo,pomo,5.0,Brooklyn
+R_chilo's,chilo's,4.1,Brooklyn
+R_la fondita,la fondita,4.6,Bronx
+R_china kitchen,china kitchen,2.8,Brooklyn
+R_nai brother,nai brother,4.0,Brooklyn
+R_new china pavilion,new china pavilion,3.3,Brooklyn
+R_fu yuan kitchen,fu yuan kitchen,3.0,Queens
+R_za-ya,za-ya,4.6,Brooklyn
+R_obentoyasan,obentoyasan,4.1,Brooklyn
+R_enerugi ramen,enerugi ramen,4.6,Brooklyn
+R_one more charm,one more charm,4.5,Brooklyn
+R_pata cafe,pata cafe,4.5,Queens
+R_uthai,uthai,3.8,Queens
+R_castillo restaurant,castillo restaurant,3.7,Brooklyn
+R_the islands,the islands,4.2,Brooklyn
+R_armondo's italian restaurant,armondo's italian restaurant,4.3,Queens
+R_caffe rustico,caffe rustico,4.5,Queens
+R_fidela's restaurant,fidela's restaurant,4.0,Queens
+R_kin'd,kin'd,4.4,Queens
+R_black thai,black thai,3.8,Queens
+R_haveli indian restaurant & lounge,haveli indian restaurant & lounge,4.2,Queens
+R_the monster crab,the monster crab,3.9,Queens
+R_mojitos restaurant bar,mojitos restaurant bar,4.0,Queens
+R_bakers cafe,bakers cafe,4.8,Queens
+R_ann & tony's restaurant,ann & tony's restaurant,3.1,Bronx
+R_the kitchen,the kitchen,3.3,Bronx
+R_kam man kitchen,kam man kitchen,4.5,Bronx
+R_la casa del taco,la casa del taco,5.0,Staten Island
+R_chinese fried chicken,chinese fried chicken,4.3,Bronx
+R_china palace,china palace,3.7,Bronx
+R_sushi mambo,sushi mambo,2.9,Manhattan
+R_prime halal restaurant,prime halal restaurant,5.0,Bronx
+R_yolpaqui taqueria,yolpaqui taqueria,3.9,Staten Island
+R_senshi ramen,senshi ramen,4.2,Manhattan
+R_barano,barano,4.4,Brooklyn
+R_ruta oaxaca mexican cuisine,ruta oaxaca mexican cuisine,4.5,Queens
+R_avenida,avenida,3.9,Manhattan
+R_factory tamal,factory tamal,4.5,Manhattan
+R_le sia,le sia,4.3,Manhattan
+R_junzi kitchen,junzi kitchen,4.1,Manhattan
+R_nama,nama,5.0,Manhattan
+R_sushi yasaka,sushi yasaka,4.2,Manhattan
+R_shogun omakase,shogun omakase,4.4,Manhattan
+R_matsuri,matsuri,4.4,Queens
+R_bijan's,bijan's,3.9,Brooklyn
+R_pizzette,pizzette,4.4,Brooklyn
+R_jauja mexican kitchen,jauja mexican kitchen,4.6,Brooklyn
+R_taqueria talavera,taqueria talavera,4.3,Brooklyn
+R_golden 11 seafood restaurant,golden 11 seafood restaurant,5.0,Brooklyn
+R_cotra,cotra,4.5,Brooklyn
+R_okozushi,okozushi,3.9,Brooklyn
+R_hachi,hachi,2.6,Brooklyn
+R_savory thai,savory thai,4.7,Brooklyn
+R_oshi's cafe,oshi's cafe,4.7,Brooklyn
+R_bosna express,bosna express,4.1,Queens
+R_sushi time,sushi time,4.3,Queens
+R_taan thai kitchen,taan thai kitchen,3.0,Queens
+R_pho tan,pho tan,3.7,Queens
+R_asian cafe,asian cafe,3.6,Queens
+R_cali aji con sabor restaurant,cali aji con sabor restaurant,3.9,Queens
+R_lido,lido,4.1,Manhattan
+R_taqueria el tanque,taqueria el tanque,5.0,Bronx
+R_neem indian cuisine,neem indian cuisine,4.2,Bronx
+R_mello bistro,mello bistro,4.9,Staten Island
+R_thai leaf,thai leaf,3.3,Brooklyn
+R_oxomoco,oxomoco,4.2,Brooklyn
+R_corima,corima,4.3,Manhattan
+R_izakaya juraku,izakaya juraku,4.4,Manhattan
+R_oramen,oramen,4.1,Manhattan
+R_asuka sushi,asuka sushi,4.1,Manhattan
+R_hub thai,hub thai,4.0,Manhattan
+R_kimganae,kimganae,3.9,Queens
+R_tolo,tolo,4.2,Manhattan
+R_bersi ethiopian restaurant,bersi ethiopian restaurant,4.8,Brooklyn
+R_psaraki,psaraki,4.9,Brooklyn
+R_12 chairs cafe,12 chairs cafe,3.9,Brooklyn
+R_sushi katsuei,sushi katsuei,4.0,Brooklyn
+R_luck thai,luck thai,3.8,Brooklyn
+R_tasty house,tasty house,4.1,Brooklyn
+R_omar's indian fine cuisine,omar's indian fine cuisine,4.6,Brooklyn
+R_bombay kabab,bombay kabab,4.1,Brooklyn
+R_lucy's asian kitchen,lucy's asian kitchen,2.1,Queens
+R_danny's athens restaurant,danny's athens restaurant,3.3,Bronx
+R_maki,maki,5.0,Manhattan
+R_family indian restaurant,family indian restaurant,5.0,Bronx
+R_la barca restaurant,la barca restaurant,4.0,Manhattan
+R_el mirador restaurant,el mirador restaurant,4.3,Brooklyn
+R_gold bao,gold bao,4.4,Manhattan
+R_osteria 106,osteria 106,4.3,Manhattan
+R_osteria nonnino,osteria nonnino,4.3,Manhattan
+R_siena cafe,siena cafe,3.7,Manhattan
+R_los mariscos,los mariscos,4.6,Manhattan
+R_goku kitchen,goku kitchen,4.6,Staten Island
+R_izakaya nomad,izakaya nomad,3.9,Manhattan
+R_ito,ito,4.8,Manhattan
+R_thai market,thai market,3.9,Manhattan
+R_heng thai,heng thai,3.9,Queens
+R_mint heights,mint heights,4.4,Brooklyn
+R_seva indian cuisine,seva indian cuisine,4.4,Queens
+R_home kitchen,home kitchen,4.4,Manhattan
+R_the red stache,the red stache,4.8,Manhattan
+R_mino brasserie,mino brasserie,4.4,Manhattan
+R_paros,paros,3.8,Manhattan
+R_saigon social,saigon social,4.2,Manhattan
+R_leyla,leyla,4.2,Manhattan
+R_tamam,tamam,4.7,Manhattan
+R_moon wok,moon wok,4.5,Brooklyn
+R_china tastes,china tastes,2.8,Brooklyn
+R_noor palace,noor palace,0.0,Brooklyn
+R_bunny,bunny,4.8,Brooklyn
+R_panino rustico of howard beach,panino rustico of howard beach,4.7,Queens
+R_astoria pizza factory,astoria pizza factory,4.2,Queens
+R_marathon cafe,marathon cafe,4.5,Queens
+R_tj asian bistro,tj asian bistro,4.3,Queens
+R_nine thai,nine thai,2.1,Queens
+R_tianxia asian cuisine,tianxia asian cuisine,3.0,Queens
+R_forest cafe,forest cafe,4.6,Queens
+R_ramro,ramro,4.8,Queens
+R_urban halal grill,urban halal grill,3.8,Queens
+R_bono trattoria,bono trattoria,4.2,Manhattan
+R_ramen ku-raku,ramen ku-raku,4.0,Manhattan
+R_fito,fito,4.8,Manhattan
+R_marina cafe,marina cafe,3.2,Staten Island
+R_maizal restaurant,maizal restaurant,3.8,Staten Island
+R_chakra,chakra,4.0,Manhattan
+R_osteria delbianco bryant park,osteria delbianco bryant park,4.5,Manhattan
+R_olle,olle,4.4,Manhattan
+R_meze,meze,4.2,Brooklyn
+R_inca paisa,inca paisa,3.9,Queens
+R_diamante poblano restaurant,diamante poblano restaurant,3.8,Bronx
+R_la cocina de yala,la cocina de yala,3.1,Bronx
+R_van cafe,van cafe,5.0,Manhattan
+R_sartiano's,sartiano's,4.4,Manhattan
+R_botte brooklyn,botte brooklyn,4.3,Brooklyn
+R_coletta,coletta,4.6,Manhattan
+R_vida verde,vida verde,4.2,Manhattan
+R_ariari,ariari,4.5,Manhattan
+R_flora,flora,4.2,Brooklyn
+R_kitchen grill,kitchen grill,4.4,Brooklyn
+R_ital kitchen,ital kitchen,4.5,Brooklyn
+R_sea witch,sea witch,3.8,Brooklyn
+R_ok ryan restaurant,ok ryan restaurant,4.0,Queens
+R_u-me sushi,u-me sushi,3.7,Queens
+R_bangkok avenue,bangkok avenue,4.5,Queens
+R_momo crave,momo crave,4.3,Queens
+R_art of grill,art of grill,3.9,Queens
+R_roberto's,roberto's,4.0,Bronx
+R_taqueria los angeles,taqueria los angeles,5.0,Bronx
+R_enoteca maria,enoteca maria,4.2,Staten Island
+R_wonderland,wonderland,3.7,Manhattan
+R_shinjuku ramen,shinjuku ramen,4.4,Manhattan
+R_marwin thai restaurant,marwin thai restaurant,4.6,Manhattan
+R_chicken insider,chicken insider,4.7,Manhattan
+R_tina's cuban cuisine,tina's cuban cuisine,3.9,Manhattan
+R_friendly restaurant,friendly restaurant,3.4,Queens
+R_my kitchen,my kitchen,3.9,Queens
+R_sugar cafe,sugar cafe,4.5,Manhattan
+R_raval steakhouse,raval steakhouse,4.7,Staten Island
+R_golden kitchen,golden kitchen,3.6,Queens
+R_tri dim shanghai,tri dim shanghai,4.0,Manhattan
+R_up thai,up thai,4.4,Manhattan
+R_ted's corner tavern,ted's corner tavern,4.4,Manhattan
+R_taqueria el torito,taqueria el torito,3.5,Brooklyn
+R_fuding wok,fuding wok,5.0,Brooklyn
+R_musha sushi,musha sushi,4.5,Brooklyn
+R_holic thai bistro,holic thai bistro,4.8,Brooklyn
+R_tasty thai,tasty thai,4.2,Queens
+R_the lonesome club,the lonesome club,3.8,Brooklyn
+R_shi,shi,3.6,Queens
+R_tung thong thai restaurant,tung thong thai restaurant,3.6,Manhattan
+R_szechuan gourmet,szechuan gourmet,4.2,Manhattan
+R_tam sang thai kitchen,tam sang thai kitchen,4.1,Manhattan
+R_pecking house,pecking house,4.7,Manhattan
+R_ammi,ammi,4.4,Manhattan
+R_indian spice,indian spice,4.0,Brooklyn
+R_mumbai masala,mumbai masala,4.4,Manhattan
+R_falguni restaurant,falguni restaurant,1.0,Queens
+R_taqueria al pastor,taqueria al pastor,4.2,Brooklyn
+R_tihu the noodle house,tihu the noodle house,4.1,Queens
+R_queens seafood restaurant,queens seafood restaurant,3.8,Queens
+R_sally's smokehouse,sally's smokehouse,4.2,Staten Island
+R_seth thai restaurant,seth thai restaurant,5.0,Queens
+R_taco express mexican grill,taco express mexican grill,4.3,Bronx
+R_mezban house,mezban house,3.9,Queens
+R_utshob restaurant,utshob restaurant,5.0,Manhattan
+R_sweet wonton king,sweet wonton king,3.8,Queens
+R_nan xiang express,nan xiang express,4.7,Brooklyn
+R_lucky cat,lucky cat,3.8,Manhattan
+R_el jobo seafood restaurant,el jobo seafood restaurant,2.6,Bronx
+R_thai time,thai time,3.7,Manhattan
+R_riverdale indian kitchen,riverdale indian kitchen,3.1,Bronx
+R_gaia restaurant,gaia restaurant,4.7,Manhattan
+R_carnation restaurant,carnation restaurant,5.0,Brooklyn
+R_lea,lea,3.5,Brooklyn
+R_pho thai,pho thai,4.1,Queens
+R_omg shawarma,omg shawarma,4.4,Manhattan
+R_ilegal taqueria,ilegal taqueria,4.4,Brooklyn
+R_seawalk restaurant,seawalk restaurant,5.0,Manhattan
+R_india cafe,india cafe,3.6,Queens
+R_chili,chili,4.6,Manhattan
+R_taqueria el gallo giro,taqueria el gallo giro,4.0,Queens
+R_hey thai,hey thai,4.3,Manhattan
+R_seis vecinos restaurant,seis vecinos restaurant,3.5,Bronx
+R_sociale,sociale,3.8,Brooklyn
+R_hks kitchen,hks kitchen,4.2,Staten Island
+R_plern thai restaurant and noodle bar,plern thai restaurant and noodle bar,4.8,Queens
+R_edge restaurant & lounge,edge restaurant & lounge,3.3,Bronx
+R_tam mai thai,tam mai thai,4.9,Manhattan
+R_junsui,junsui,4.7,Brooklyn
+R_curry mee,curry mee,4.4,Brooklyn
+R_batik restaurant,batik restaurant,3.7,Queens
+R_bosino,bosino,4.5,Manhattan
+R_prem thai restaurant and noodle bar,prem thai restaurant and noodle bar,4.6,Brooklyn
+R_gyro king xpress,gyro king xpress,5.0,Brooklyn
+R_sala astoria,sala astoria,4.6,Queens
+R_gyro mania,gyro mania,3.5,Brooklyn
+R_osteria barocca,osteria barocca,4.1,Manhattan
+R_toriya,toriya,4.7,Manhattan
+R_greek kitchen,greek kitchen,4.6,Brooklyn
+R_avlee greek kitchen,avlee greek kitchen,4.3,Brooklyn
+R_the fish bar,the fish bar,4.0,Bronx
+R_grand canyon restaurant city,grand canyon restaurant city,4.4,Manhattan
+R_akdeniz mediterranean cuisine,akdeniz mediterranean cuisine,4.1,Manhattan
+R_liman restaurant,liman restaurant,3.8,Brooklyn
+R_yaho sushi,yaho sushi,4.8,Staten Island
+R_ambra,ambra,4.3,Manhattan
+R_tsumo omakase,tsumo omakase,4.6,Manhattan
+R_rice thief,rice thief,4.3,Queens
+R_jj fish & chicken,jj fish & chicken,4.7,Staten Island
+R_antidote,antidote,4.6,Brooklyn
+R_jazba,jazba,4.3,Manhattan
+R_clover hill,clover hill,4.5,Brooklyn
+R_thai social,thai social,4.4,Queens
+R_adam's chicken & pocha,adam's chicken & pocha,4.5,Queens
+R_aoyu sushi,aoyu sushi,4.4,Bronx
+R_dh noodles,dh noodles,4.5,Manhattan
+R_anixi,anixi,4.6,Manhattan
+R_kumo sushi,kumo sushi,3.1,Queens
+R_bbq chicken,bbq chicken,3.6,Queens
+R_georgie's pizza and restaurant,georgie's pizza and restaurant,0.0,Bronx
+R_zen astoria,zen astoria,4.3,Queens
+R_koo thai,koo thai,4.4,Manhattan
+R_theodora,theodora,4.5,Brooklyn
+R_sofun noodle bar,sofun noodle bar,4.1,Queens
+R_barrio taqueria,barrio taqueria,3.9,Queens
+R_kiai,kiai,5.0,Manhattan
+R_dagg thai,dagg thai,4.8,Manhattan
+R_little maven,little maven,4.7,Manhattan
+R_hungry burrito,hungry burrito,4.2,Brooklyn
+R_the noble,the noble,4.1,Brooklyn
+R_don chicken,don chicken,4.6,Queens
+R_pakshala restaurant & grill,pakshala restaurant & grill,4.0,Queens
+R_gjelina,gjelina,3.9,Manhattan
+R_handmade dumpling,handmade dumpling,5.0,Queens
+R_filoncino cafe,filoncino cafe,4.0,Staten Island
+R_taqueria munoz,taqueria munoz,0.0,Bronx
+R_simply fried,simply fried,4.2,Queens
+R_savelli,savelli,4.4,Brooklyn
+R_the blaze gourmet,the blaze gourmet,0.0,Brooklyn
+U_Jose Miguel,Jose Miguel,1.0,grey
+U_Md Shapon,Md Shapon,1.0,grey
+U_Joy Hazucha,Joy Hazucha,1.0,grey
+U_Keyona,Keyona,1.0,grey
+U_Lirox B,Lirox B,1.0,grey
+U_Pasquale Monaco,Pasquale Monaco,1.0,grey
+U_Shahed Demis,Shahed Demis,1.0,grey
+U_Molly Zupancich,Molly Zupancich,1.0,grey
+U_Arri Ye,Arri Ye,1.0,grey
+U_Matthew Leavy (Matt),Matthew Leavy (Matt),1.0,grey
+U_Tango NYC,Tango NYC,1.0,grey
+U_HASSAN DENNIS,HASSAN DENNIS,1.0,grey
+U_Ahmed shahnewaz siraj,Ahmed shahnewaz siraj,1.0,grey
+U_Lily Liang,Lily Liang,1.0,grey
+U_Alberto Escorza,Alberto Escorza,1.0,grey
+U_George O'krepkie,George O'krepkie,1.0,grey
+U_Evan Rival,Evan Rival,1.0,grey
+U_Yang Nur,Yang Nur,1.0,grey
+U_Marcos Silveira,Marcos Silveira,1.0,grey
+U_Pedro Bastos,Pedro Bastos,1.0,grey
+U_Amna Afsheen,Amna Afsheen,1.0,grey
+U_Jiren Zhou,Jiren Zhou,1.0,grey
+U_Leilla I.,Leilla I.,1.0,grey
+U_Melanny Diaz,Melanny Diaz,1.0,grey
+U_Elka Martinez,Elka Martinez,1.0,grey
+U_Kate Martin,Kate Martin,1.0,grey
+U_khondoker Sohag,khondoker Sohag,1.0,grey
+U_Giuliano Ronca,Giuliano Ronca,1.0,grey
+U_Diana,Diana,1.0,grey
+U_Julio Cesar Vasquez Pino,Julio Cesar Vasquez Pino,1.0,grey
+U_Jiwon Moon,Jiwon Moon,1.0,grey
+U_Rohith Nandagiri,Rohith Nandagiri,1.0,grey
+U_Phenom Hendrix,Phenom Hendrix,1.0,grey
+U_Daniel Chen,Daniel Chen,1.0,grey
+U_José López Zurita,José López Zurita,1.0,grey
+U_Daniel Hardjono,Daniel Hardjono,1.0,grey
+U_Sunil Yadav,Sunil Yadav,1.0,grey
+U_Thucha TC,Thucha TC,1.0,grey
+U_Keian R,Keian R,1.0,grey
+U_suting chen,suting chen,1.0,grey
+U_한혜경,한혜경,1.0,grey
+U_Alex Ortiz,Alex Ortiz,1.0,grey
+U_abdullah alkandari,abdullah alkandari,1.0,grey
+U_Nunthanut Traitipudomchai,Nunthanut Traitipudomchai,1.0,grey
+U_Hakan Erzurumluoglu,Hakan Erzurumluoglu,1.0,grey
+U_Kenneth Jobs,Kenneth Jobs,1.0,grey
+U_Fabio L.,Fabio L.,1.0,grey
+U_Usmail Ali0,Usmail Ali0,1.0,grey
+U_nalu,nalu,1.0,grey
+U_Jean Ng,Jean Ng,1.0,grey
+U_Emily Feng,Emily Feng,1.0,grey
+U_Catherine Tintle,Catherine Tintle,1.0,grey
+U_Eyude Samboy garcia,Eyude Samboy garcia,1.0,grey
+U_Bill Chepolis,Bill Chepolis,1.0,grey
+U_jo will,jo will,1.0,grey
+U_Thaqif Mohammed,Thaqif Mohammed,1.0,grey
+U_Shikha Tawari,Shikha Tawari,1.0,grey
+U_Herman E,Herman E,1.0,grey
+U_Alondra Joaly Rodriguez,Alondra Joaly Rodriguez,1.0,grey
+U_Nasseh Khodaie,Nasseh Khodaie,1.0,grey
+U_Arwin Vinny Sardana,Arwin Vinny Sardana,1.0,grey
+U_Daniel Lehman,Daniel Lehman,1.0,grey
+U_Jane Kim,Jane Kim,1.0,grey
+U_Noel Mendez,Noel Mendez,1.0,grey
+U_Mahitha Kotipalli,Mahitha Kotipalli,1.0,grey
+U_Matthias Hess,Matthias Hess,1.0,grey
+U_Jonathan Ayala,Jonathan Ayala,1.0,grey
+U_Sunshine NY,Sunshine NY,1.0,grey
+U_Ido Simyoni,Ido Simyoni,1.0,grey
+U_Lynn E. Brice (HarlemzFlyGirl),Lynn E. Brice (HarlemzFlyGirl),1.0,grey
+U_Honest Reviewer,Honest Reviewer,1.0,grey
+U_Gerardo Villalba,Gerardo Villalba,1.0,grey
+U_13A13Y .J,13A13Y .J,1.0,grey
+U_Brenda Carter,Brenda Carter,1.0,grey
+U_Kabrito 625,Kabrito 625,1.0,grey
+U_Hirain Hernández,Hirain Hernández,1.0,grey
+U_Janie Lee,Janie Lee,1.0,grey
+U_Chanel Matsunami Govreau,Chanel Matsunami Govreau,1.0,grey
+U_Si te ríes pierde Carlos mercedes,Si te ríes pierde Carlos mercedes,1.0,grey
+U_Vladyslav Dihtar,Vladyslav Dihtar,1.0,grey
+U_Irina “IrinaAnnaRose” Yakubovskaya,Irina “IrinaAnnaRose” Yakubovskaya,1.0,grey
+U_B,B,1.0,grey
+U_md nizam uddin,md nizam uddin,1.0,grey
+U_Neeraj Kakria,Neeraj Kakria,1.0,grey
+U_Nie Znany,Nie Znany,1.0,grey
+U_Jatinder Singh,Jatinder Singh,1.0,grey
+U_Lan Soffer,Lan Soffer,1.0,grey
+U_Michael Ostergren,Michael Ostergren,1.0,grey
+U_Lalita Selochan,Lalita Selochan,1.0,grey
+U_Frank “DJ FRANKYPHENOM” Alvarez,Frank “DJ FRANKYPHENOM” Alvarez,1.0,grey
+U_Maria Cajero,Maria Cajero,1.0,grey
+U_Glenn DiResto,Glenn DiResto,1.0,grey
+U_Yifan,Yifan,1.0,grey
+U_Samaritan 313,Samaritan 313,1.0,grey
+U_Fernando Torres,Fernando Torres,1.0,grey
+U_Jay Tribe,Jay Tribe,1.0,grey
+U_KEN Liang,KEN Liang,1.0,grey
+U_紀嘉淯,紀嘉淯,1.0,grey
+U_May Thant Sin Tun,May Thant Sin Tun,1.0,grey
+U_Nujrahat Nujrahat,Nujrahat Nujrahat,1.0,grey
+U_Julienne Ryan,Julienne Ryan,1.0,grey
+U_Ivan Tapia,Ivan Tapia,1.0,grey
+U_Robert Ruszkowski,Robert Ruszkowski,1.0,grey
+U_Gonzalez,Gonzalez,1.0,grey
+U_Kessiana “Kayc” Promaphile,Kessiana “Kayc” Promaphile,1.0,grey
+U_Naydeli Lariza Rodriguez Rojas,Naydeli Lariza Rodriguez Rojas,1.0,grey
+U_Nicole Li,Nicole Li,1.0,grey
+U_Sophia Scalzo,Sophia Scalzo,1.0,grey
+U_Franklinsierra Bustillo,Franklinsierra Bustillo,1.0,grey
+U_Felix,Felix,1.0,grey
+U_E Law,E Law,1.0,grey
+U_Shany Thakur,Shany Thakur,1.0,grey
+U_dan73nyc Alvarado,dan73nyc Alvarado,1.0,grey
+U_Lee Sam,Lee Sam,1.0,grey
+U_Leeat Massuda,Leeat Massuda,1.0,grey
+U_Fen Zhang,Fen Zhang,1.0,grey
+U_Daniella Fodera,Daniella Fodera,1.0,grey
+U_B Sav,B Sav,1.0,grey
+U_Ratna Payel80,Ratna Payel80,1.0,grey
+U_Efren Cazares,Efren Cazares,1.0,grey
+U_Guorui Li,Guorui Li,1.0,grey
+U_Richard Mendez,Richard Mendez,1.0,grey
+U_ridwanulhaque adon,ridwanulhaque adon,1.0,grey
+U_Diego R,Diego R,1.0,grey
+U_Eric Sasia,Eric Sasia,1.0,grey
+U_Emilio Dominguez,Emilio Dominguez,1.0,grey
+U_Jimmy Chiu,Jimmy Chiu,1.0,grey
+U_Crystal,Crystal,1.0,grey
+U_Margarita De Martinez,Margarita De Martinez,1.0,grey
+U_Artëm Кazantsev,Artëm Кazantsev,1.0,grey
+U_Danielle Nascimento,Danielle Nascimento,1.0,grey
+U_Hector Benitez,Hector Benitez,1.0,grey
+U_khandaker jamy,khandaker jamy,1.0,grey
+U_IndyKevin317,IndyKevin317,1.0,grey
+U_Hanfung C,Hanfung C,1.0,grey
+U_dali fernandez,dali fernandez,1.0,grey
+U_Eva Chan,Eva Chan,1.0,grey
+U_Migatte No Gokui,Migatte No Gokui,1.0,grey
+U_gabriela trinidad,gabriela trinidad,1.0,grey
+U_Valeria Soto,Valeria Soto,1.0,grey
+U_elkin-kun wolf,elkin-kun wolf,1.0,grey
+U_Javier Kohen,Javier Kohen,1.0,grey
+U_Jamal Beast,Jamal Beast,1.0,grey
+U_Sissy C,Sissy C,1.0,grey
+U_Bee NYC,Bee NYC,1.0,grey
+U_Sean “WonderMan”,Sean “WonderMan”,1.0,grey
+U_Marc Gonzales,Marc Gonzales,1.0,grey
+U_Thom Craver,Thom Craver,1.0,grey
+U_Eden Gonzalez,Eden Gonzalez,1.0,grey
+U_Zhong Yang,Zhong Yang,1.0,grey
+U_Sandy,Sandy,1.0,grey
+U_Oliver Fiegel,Oliver Fiegel,1.0,grey
+U_Gregory DimSum,Gregory DimSum,1.0,grey
+U_Matthew Lee,Matthew Lee,1.0,grey
+U_dina Cristina Rachele Cilli,dina Cristina Rachele Cilli,1.0,grey
+U_De Jesus B Med,De Jesus B Med,1.0,grey
+U_Ramon,Ramon,1.0,grey
+U_Papa Niang,Papa Niang,1.0,grey
+U_Wilfred Jones,Wilfred Jones,1.0,grey
+U_joel andres caraballo,joel andres caraballo,1.0,grey
+U_Mel,Mel,1.0,grey
+U_Fabiola Gorgonio (Amoy),Fabiola Gorgonio (Amoy),1.0,grey
+U_Elena Wl,Elena Wl,1.0,grey
+U_Utsavi Dalwadi,Utsavi Dalwadi,1.0,grey
+U_andrea carreto,andrea carreto,1.0,grey
+U_J.,J.,1.0,grey
+U_Mae C,Mae C,1.0,grey
+U_Beulah Romero,Beulah Romero,1.0,grey
+U_Z.G Y,Z.G Y,1.0,grey
+U_محمد الجوهري,محمد الجوهري,1.0,grey
+U_Mechelle Lassiter,Mechelle Lassiter,1.0,grey
+U_kevin cai,kevin cai,1.0,grey
+U_Mayer Jotkowitz,Mayer Jotkowitz,1.0,grey
+U_Wenlan,Wenlan,1.0,grey
+U_Alvin Cheung,Alvin Cheung,1.0,grey
+U_Kasei Chen by 「かせいのいえ」,Kasei Chen by 「かせいのいえ」,1.0,grey
+U_jinfeng xie,jinfeng xie,1.0,grey
+U_Ryan Raaum,Ryan Raaum,1.0,grey
+U_Kevin,Kevin,1.0,grey
+U_Simon Son,Simon Son,1.0,grey
+U_Mehmet Gök,Mehmet Gök,1.0,grey
+U_Yufan Yu,Yufan Yu,1.0,grey
+U_Xueqing Hu,Xueqing Hu,1.0,grey
+U_Jalana mcarthur,Jalana mcarthur,1.0,grey
+U_Jaren Nadong,Jaren Nadong,1.0,grey
+U_John Nguyen,John Nguyen,1.0,grey
+U_Jojo,Jojo,1.0,grey
+U_Claire Crisp,Claire Crisp,1.0,grey
+U_Wil Snodgrass,Wil Snodgrass,1.0,grey
+U_Celedonia Gutierrez,Celedonia Gutierrez,1.0,grey
+U_Gwan Law,Gwan Law,1.0,grey
+U_Rey Jeronimo,Rey Jeronimo,1.0,grey
+U_Margot Corzo,Margot Corzo,1.0,grey
+U_Maria Patricia Londoño,Maria Patricia Londoño,1.0,grey
+U_Laura Campos,Laura Campos,1.0,grey
+U_Trinity,Trinity,1.0,grey
+U_Edson Danyas,Edson Danyas,1.0,grey
+U_Emily Frenkel,Emily Frenkel,1.0,grey
+U_Gregory Ford,Gregory Ford,1.0,grey
+U_R S,R S,1.0,grey
+U_Kay Love,Kay Love,1.0,grey
+U_יענקי שיינברגר,יענקי שיינברגר,1.0,grey
+U_Edith Pilaf,Edith Pilaf,1.0,grey
+U_Tai bai Jiang (自由人姜太白),Tai bai Jiang (自由人姜太白),1.0,grey
+U_shaunak patel,shaunak patel,1.0,grey
+U_Yani E,Yani E,1.0,grey
+U_Jonathan Belle,Jonathan Belle,1.0,grey
+U_Shui T.,Shui T.,1.0,grey
+U_Nancy Perez,Nancy Perez,1.0,grey
+U_Evelin C,Evelin C,1.0,grey
+U_Aaliyah,Aaliyah,1.0,grey
+U_Andrea Mclaughlin,Andrea Mclaughlin,1.0,grey
+U_Christopher McCleary,Christopher McCleary,1.0,grey
+U_Jenny Lu,Jenny Lu,1.0,grey
+U_Jonquel NYC,Jonquel NYC,1.0,grey
+U_Sangcheol “charles” AHN,Sangcheol “charles” AHN,1.0,grey
+U_William Petz,William Petz,1.0,grey
+U_vn lau,vn lau,1.0,grey
+U_Marcelo Almaraz,Marcelo Almaraz,1.0,grey
+U_Shaun S.,Shaun S.,1.0,grey
+U_Tristan King,Tristan King,1.0,grey
+U_Theresa L,Theresa L,1.0,grey
+U_Alex Kim,Alex Kim,1.0,grey
+U_olga mi,olga mi,1.0,grey
+U_flickerphil,flickerphil,1.0,grey
+U_Charlie Huang,Charlie Huang,1.0,grey
+U_sakchai tharanisorn,sakchai tharanisorn,1.0,grey
+U_Nobel Vale (TheNobelOne),Nobel Vale (TheNobelOne),1.0,grey
+U_楊淯丞,楊淯丞,1.0,grey
+U_Frank Castellano,Frank Castellano,1.0,grey
+U_Ken S,Ken S,1.0,grey
+U_O G,O G,1.0,grey
+U_Gilberto Frausto,Gilberto Frausto,1.0,grey
+U_Nellie Bee,Nellie Bee,1.0,grey
+U_Roseann Visconti,Roseann Visconti,1.0,grey
+U_Ay Ze,Ay Ze,1.0,grey
+U_Y. “Relly Rosegold” H.,Y. “Relly Rosegold” H.,1.0,grey
+U_Win B,Win B,1.0,grey
+U_ALBA GIL DEL RIO,ALBA GIL DEL RIO,1.0,grey
+U_Rose Santos,Rose Santos,1.0,grey
+U_Long Ho,Long Ho,1.0,grey
+U_Jane K.,Jane K.,1.0,grey
+U_lucero luna,lucero luna,1.0,grey
+U_Noah Tarinyebwa,Noah Tarinyebwa,1.0,grey
+U_SSK玄宗大帝,SSK玄宗大帝,1.0,grey
+U_Oscar De La Rosa,Oscar De La Rosa,1.0,grey
+U_Anton S,Anton S,1.0,grey
+U_natalia cupul,natalia cupul,1.0,grey
+U_Carlos Chumil,Carlos Chumil,1.0,grey
+U_Cesar Dominguez,Cesar Dominguez,1.0,grey
+U_CocaCola Mia,CocaCola Mia,1.0,grey
+U_Kanlayanee Kosapattarapim,Kanlayanee Kosapattarapim,1.0,grey
+U_John Sotiriadis,John Sotiriadis,1.0,grey
+U_maria beaulieu,maria beaulieu,1.0,grey
+U_BK Man,BK Man,1.0,grey
+U_Toxic M,Toxic M,1.0,grey
+U_Shasha Li,Shasha Li,1.0,grey
+U_Reginald Blue,Reginald Blue,1.0,grey
+U_趙里昱,趙里昱,1.0,grey
+U_yim Thanks,yim Thanks,1.0,grey
+U_clayret,clayret,1.0,grey
+U_Karthik Proag,Karthik Proag,1.0,grey
+U_iz the truth,iz the truth,1.0,grey
+U_Rakesh Anand,Rakesh Anand,1.0,grey
+U_Mike Lynn,Mike Lynn,1.0,grey
+U_anmol ailani,anmol ailani,1.0,grey
+U_Patty Barrientos,Patty Barrientos,1.0,grey
+U_Jeffrey Sean Tang,Jeffrey Sean Tang,1.0,grey
+U_Aaron Davidson,Aaron Davidson,1.0,grey
+U_Mengjie Zhang,Mengjie Zhang,1.0,grey
+U_Yi Ren,Yi Ren,1.0,grey
+U_111 4G,111 4G,1.0,grey
+U_Amita Shukla,Amita Shukla,1.0,grey
+U_Scott Kleinberg,Scott Kleinberg,1.0,grey
+U_Lucy Gomez,Lucy Gomez,1.0,grey
+U_Ana Bogdanov,Ana Bogdanov,1.0,grey
+U_David Lowe,David Lowe,1.0,grey
+U_Doni Doni,Doni Doni,1.0,grey
+U_MICHAEL G,MICHAEL G,1.0,grey
+U_Wade,Wade,1.0,grey
+U_Yao-Wen Mei,Yao-Wen Mei,1.0,grey
+U_ami garcia,ami garcia,1.0,grey
+U_Flor Garcia,Flor Garcia,1.0,grey
+U_Jose Gambirazio,Jose Gambirazio,1.0,grey
+U_Angel Mahuiztl,Angel Mahuiztl,1.0,grey
+U_Karan Sethi,Karan Sethi,1.0,grey
+U_Olulola Adenike,Olulola Adenike,1.0,grey
+U_Prem Sahadeo,Prem Sahadeo,1.0,grey
+U_Jenny Zhu,Jenny Zhu,1.0,grey
+U_Maninder Singh,Maninder Singh,1.0,grey
+U_Chelsea Soto,Chelsea Soto,1.0,grey
+U_Claudio Bazzani,Claudio Bazzani,1.0,grey
+U_Sensei Sama,Sensei Sama,1.0,grey
+U_Trisha T,Trisha T,1.0,grey
+U_Laurel Laurino Savoca,Laurel Laurino Savoca,1.0,grey
+U_andrea willson,andrea willson,1.0,grey
+U_Grace Oleary,Grace Oleary,1.0,grey
+U_Matteo Ruggiu,Matteo Ruggiu,1.0,grey
+U_박현옥,박현옥,1.0,grey
+U_Sharon Her,Sharon Her,1.0,grey
+U_Nelson Pascual,Nelson Pascual,1.0,grey
+U_田萌,田萌,1.0,grey
+U_Lorraine J,Lorraine J,1.0,grey
+U_Liquid Poetria,Liquid Poetria,1.0,grey
+U_Victoria Daylor,Victoria Daylor,1.0,grey
+U_Fulton Sim,Fulton Sim,1.0,grey
+U_Cat is Blessed,Cat is Blessed,1.0,grey
+U_David Studinski,David Studinski,1.0,grey
+U_Nancy Cavazos,Nancy Cavazos,1.0,grey
+U_Lana Ahrim Kim,Lana Ahrim Kim,1.0,grey
+U_MM Mee,MM Mee,1.0,grey
+U_Xiaoyan Huang,Xiaoyan Huang,1.0,grey
+U_Angie Mosquera,Angie Mosquera,1.0,grey
+U_Fefe's Journey,Fefe's Journey,1.0,grey
+U_Sandra Ramirez H.,Sandra Ramirez H.,1.0,grey
+U_Mr BOSTON !,Mr BOSTON !,1.0,grey
+U_Aaron Sharp,Aaron Sharp,1.0,grey
+U_ImBroke Rob,ImBroke Rob,1.0,grey
+U_stephanie Wettach,stephanie Wettach,1.0,grey
+U_Sara Durkacs,Sara Durkacs,1.0,grey
+U_Issa mathina Jui,Issa mathina Jui,1.0,grey
+U_Stefani Castro,Stefani Castro,1.0,grey
+U_Ian Galvez,Ian Galvez,1.0,grey
+U_Camilo Aguilar,Camilo Aguilar,1.0,grey
+U_Akyra,Akyra,1.0,grey
+U_Simran Purokayastha,Simran Purokayastha,1.0,grey
+U_Gustavo Marín,Gustavo Marín,1.0,grey
+U_Ster It,Ster It,1.0,grey
+U_Tian Zheng,Tian Zheng,1.0,grey
+U_Michael,Michael,1.0,grey
+U_Chris Meng,Chris Meng,1.0,grey
+U_Unknown,Unknown,1.0,grey
+U_Almi,Almi,1.0,grey
+U_Mukesh Jain,Mukesh Jain,1.0,grey
+U_FoodieNJ VMP,FoodieNJ VMP,1.0,grey
+U_Shelley P.,Shelley P.,1.0,grey
+U_Aneisha,Aneisha,1.0,grey
+U_nairobi peña,nairobi peña,1.0,grey
+U_Ahmet Kizilay,Ahmet Kizilay,1.0,grey
+U_Christina Chow,Christina Chow,1.0,grey
+U_Shabnam,Shabnam,1.0,grey
+U_tre remix nhac,tre remix nhac,1.0,grey
+U_V cristina,V cristina,1.0,grey
+U_Kent Walker,Kent Walker,1.0,grey
+U_Victor campos,Victor campos,1.0,grey
+U_Sir Bernard Mendes France,Sir Bernard Mendes France,1.0,grey
+U_Melixah Artacademy,Melixah Artacademy,1.0,grey
+U_ali shahmoradi,ali shahmoradi,1.0,grey
+U_Jacqueline Chen,Jacqueline Chen,1.0,grey
+U_Rodney Klein,Rodney Klein,1.0,grey
+U_Reggie Mateo,Reggie Mateo,1.0,grey
+U_Artemis Blighty,Artemis Blighty,1.0,grey
+U_Jovon V.,Jovon V.,1.0,grey
+U_Eric Sanchez,Eric Sanchez,1.0,grey
+U_Jaeyeon Kim,Jaeyeon Kim,1.0,grey
+U_S H,S H,1.0,grey
+U_Brian Boland,Brian Boland,1.0,grey
+U_Thai Tree,Thai Tree,1.0,grey
+U_g lee,g lee,1.0,grey
+U_L. Tan,L. Tan,1.0,grey
+U_Diocorides Baez,Diocorides Baez,1.0,grey
+U_Michael Ramsay,Michael Ramsay,1.0,grey
+U_tom ngo,tom ngo,1.0,grey
+U_Carol Benjamin,Carol Benjamin,1.0,grey
+U_Brian Roddy,Brian Roddy,1.0,grey
+U_Hina Cao,Hina Cao,1.0,grey
+U_C Neon,C Neon,1.0,grey
+U_Nelly DM,Nelly DM,1.0,grey
+U_Carol Koronec,Carol Koronec,1.0,grey
+U_Kai Parcher-Charles,Kai Parcher-Charles,1.0,grey
+U_Aaron Zhou,Aaron Zhou,1.0,grey
+U_Cinthia Rivera-Garzon,Cinthia Rivera-Garzon,1.0,grey
+U_David Moon,David Moon,1.0,grey
+U_Sam Cutting,Sam Cutting,1.0,grey
+U_Carlos Hernandez De Pena,Carlos Hernandez De Pena,1.0,grey
+U_Fernanda S Soares Kapaz,Fernanda S Soares Kapaz,1.0,grey
+U_Jon Yeh,Jon Yeh,1.0,grey
+U_Shanelle S,Shanelle S,1.0,grey
+U_Jania Rodriguez,Jania Rodriguez,1.0,grey
+U_TRƏVØR 9,TRƏVØR 9,1.0,grey
+U_David Perez,David Perez,1.0,grey
+U_沈依琳,沈依琳,1.0,grey
+U_David Kim,David Kim,1.0,grey
+U_Chiara Noelle Londoño,Chiara Noelle Londoño,1.0,grey
+U_Quetta Williams,Quetta Williams,1.0,grey
+U_Enrique G,Enrique G,1.0,grey
+U_David Sheinkopf (at bbq underscore dave),David Sheinkopf (at bbq underscore dave),1.0,grey
+U_Dil Abbas,Dil Abbas,1.0,grey
+U_Syed Doha,Syed Doha,1.0,grey
+U_Deepak vaid,Deepak vaid,1.0,grey
+U_Chris Aldrich,Chris Aldrich,1.0,grey
+U_Meredith Zink,Meredith Zink,1.0,grey
+U_Neisha Evadney,Neisha Evadney,1.0,grey
+U_Dudy Bar-Tal,Dudy Bar-Tal,1.0,grey
+U_claudia reyes,claudia reyes,1.0,grey
+U_Scott F Wilson,Scott F Wilson,1.0,grey
+U_Jonathan Ong,Jonathan Ong,1.0,grey
+U_변정이,변정이,1.0,grey
+U_Ur Mom,Ur Mom,1.0,grey
+U_Eva,Eva,1.0,grey
+U_Na Tasha,Na Tasha,1.0,grey
+U_502 chapin502,502 chapin502,1.0,grey
+U_Neil Broadley,Neil Broadley,1.0,grey
+U_Kelli Durkin,Kelli Durkin,1.0,grey
+U_Nali Yan,Nali Yan,1.0,grey
+U_yongsung Yun,yongsung Yun,1.0,grey
+U_めいちゃん,めいちゃん,1.0,grey
+U_Julian Fraize,Julian Fraize,1.0,grey
+U_Susan Savage,Susan Savage,1.0,grey
+U_Joseph NewYork,Joseph NewYork,1.0,grey
+U_Scott Ellison,Scott Ellison,1.0,grey
+U_Anti Todo,Anti Todo,1.0,grey
+U_Melissa Demaio,Melissa Demaio,1.0,grey
+U_Tom S,Tom S,1.0,grey
+U_Susie Su,Susie Su,1.0,grey
+U_Kathy Xie,Kathy Xie,1.0,grey
+U_MrWoo,MrWoo,1.0,grey
+U_Marsha Yecla,Marsha Yecla,1.0,grey
+U_Reginald Harris,Reginald Harris,1.0,grey
+U_Celena Chang,Celena Chang,1.0,grey
+U_A Hanna,A Hanna,1.0,grey
+U_Abraham Palma,Abraham Palma,1.0,grey
+U_teisis sanchez,teisis sanchez,1.0,grey
+U_Liz W,Liz W,1.0,grey
+U_Alexis Amezcua,Alexis Amezcua,1.0,grey
+U_Champ Pechsukh,Champ Pechsukh,1.0,grey
+U_Phil P.,Phil P.,1.0,grey
+U_Sergii Starostin,Sergii Starostin,1.0,grey
+U_Carter Young,Carter Young,1.0,grey
+U_Phil Wingo,Phil Wingo,1.0,grey
+U_Giorgi Chkhetiani,Giorgi Chkhetiani,1.0,grey
+U_Jiovani Rivera,Jiovani Rivera,1.0,grey
+U_Doraemon,Doraemon,1.0,grey
+U_Janine McCargo,Janine McCargo,1.0,grey
+U_Jeffrey Romero,Jeffrey Romero,1.0,grey
+U_Chee Chow,Chee Chow,1.0,grey
+U_LAURA DI,LAURA DI,1.0,grey
+U_BigHollywood Nyc,BigHollywood Nyc,1.0,grey
+U_Benny Nabavian,Benny Nabavian,1.0,grey
+U_Edward Fort,Edward Fort,1.0,grey
+U_Hoiping Ngo,Hoiping Ngo,1.0,grey
+U_Wesley Simpson,Wesley Simpson,1.0,grey
+U_Melissa T,Melissa T,1.0,grey
+U_Paola Montero Suero,Paola Montero Suero,1.0,grey
+U_Zoey Tang,Zoey Tang,1.0,grey
+U_Nek Rey,Nek Rey,1.0,grey
+U_Zhiquan Cao,Zhiquan Cao,1.0,grey
+U_Megan Watson,Megan Watson,1.0,grey
+U_Katie Attubato,Katie Attubato,1.0,grey
+U_Edison Villegas,Edison Villegas,1.0,grey
+U_Nathan Lin,Nathan Lin,1.0,grey
+U_Shafaat,Shafaat,1.0,grey
+U_Simon Raymundo,Simon Raymundo,1.0,grey
+U_LL,LL,1.0,grey
+U_Asher Ollivierre,Asher Ollivierre,1.0,grey
+U_A ODK,A ODK,1.0,grey
+U_Elaine Messi,Elaine Messi,1.0,grey
+U_MONICA BADDAR,MONICA BADDAR,1.0,grey
+U_lionel cai,lionel cai,1.0,grey
+U_Israel Perez,Israel Perez,1.0,grey
+U_Merari,Merari,1.0,grey
+U_José Giraldo,José Giraldo,1.0,grey
+U_Jeremy Chen,Jeremy Chen,1.0,grey
+U_Mallory,Mallory,1.0,grey
+U_Eric Villafane,Eric Villafane,1.0,grey
+U_Tlac Lacan,Tlac Lacan,1.0,grey
+U_Brian Fung (ImproRx),Brian Fung (ImproRx),1.0,grey
+U_Osmar Ramos,Osmar Ramos,1.0,grey
+U_Shunyi Zhu,Shunyi Zhu,1.0,grey
+U_Linda Carrasco,Linda Carrasco,1.0,grey
+U_Jingyu He (Jack He),Jingyu He (Jack He),1.0,grey
+U_Alexandros Balili,Alexandros Balili,1.0,grey
+U_Maria S,Maria S,1.0,grey
+U_a charter,a charter,1.0,grey
+U_MooreBeats Studio,MooreBeats Studio,1.0,grey
+U_Cha Y,Cha Y,1.0,grey
+U_Dave Kotsar,Dave Kotsar,1.0,grey
+U_Meiye Xu,Meiye Xu,1.0,grey
+U_Gregor J. Rothfuss,Gregor J. Rothfuss,1.0,grey
+U_Wesley M,Wesley M,1.0,grey
+U_Kristi-Ann Baggan,Kristi-Ann Baggan,1.0,grey
+U_Jayasimha Nuggehalli,Jayasimha Nuggehalli,1.0,grey
+U_Jahnavi,Jahnavi,1.0,grey
+U_Yuming Yan,Yuming Yan,1.0,grey
+U_Choko Lorac,Choko Lorac,1.0,grey
+U_Eli Santos,Eli Santos,1.0,grey
+U_Kiariladyboss,Kiariladyboss,1.0,grey
+U_mcLa twofivesix,mcLa twofivesix,1.0,grey
+U_K. Y. WONG,K. Y. WONG,1.0,grey
+U_midnightangel981,midnightangel981,1.0,grey
+U_Paul Tapia,Paul Tapia,1.0,grey
+U_Evan Gutierrez,Evan Gutierrez,1.0,grey
+U_Brian Peralta,Brian Peralta,1.0,grey
+U_Rachel LeClaire,Rachel LeClaire,1.0,grey
+U_A Martin,A Martin,1.0,grey
+U_Chris Rogalski,Chris Rogalski,1.0,grey
+U_Claudio Guanziroli,Claudio Guanziroli,1.0,grey
+U_D C,D C,1.0,grey
+U_Marshall Shaffer,Marshall Shaffer,1.0,grey
+U_Ehsan,Ehsan,1.0,grey
+U_Jeanine Martinez,Jeanine Martinez,1.0,grey
+U_Andy,Andy,1.0,grey
+U_Adi A,Adi A,1.0,grey
+U_Dilshod Adilov,Dilshod Adilov,1.0,grey
+U_Qiziwei Wu,Qiziwei Wu,1.0,grey
+U_Matthew McGrath,Matthew McGrath,1.0,grey
+U_Cantante Alex Ramirez,Cantante Alex Ramirez,1.0,grey
+U_Nayda Reymundo baltazar,Nayda Reymundo baltazar,1.0,grey
+U_M.A. Dans,M.A. Dans,1.0,grey
+U_Moynul Hussain,Moynul Hussain,1.0,grey

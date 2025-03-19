@@ -1,0 +1,4 @@
+bipartite 
+connect two users if they reviewed same restaurant, and do the same on the restaurants side
+
+do two projections and have separate gephi workspaces

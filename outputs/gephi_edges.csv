@@ -1,0 +1,547 @@
+source,target,weight
+U_Dilshod Adilov,R_Fish Village,4.1
+U_Mr BOSTON !,R_Fontana Famous Pizza & Gyro,4.4
+U_Migatte No Gokui,R_Kitchen 79,4.7
+U_Leilla I.,R_TRU Astoria,4.4
+U_Fabio L.,R_Ivan Ramen,4.6
+U_Cat is Blessed,R_Kuu,4.4
+U_Yang Nur,R_Sarku Japan,4.6
+U_Andrea Mclaughlin,R_Renaissance Harlem,4.3
+U_iz the truth,R_Wu's Wonton King,4.2
+U_Neil Broadley,R_Patsy's Pizzeria,4.3
+U_ALBA GIL DEL RIO,R_Miriam,4.3
+U_Aaron Davidson,R_aRoqa,4.3
+U_De Jesus B Med,R_Hook & Reel Cajun Seafood & Bar,4.6
+U_Wil Snodgrass,R_seeyamañana,4.3
+U_Ryan Raaum,R_Donburiya,4.4
+U_Aaliyah,R_Born,4.3
+U_Frank Castellano,R_Ronnie's Sandwich Shoppe,4.7
+U_Ramon,R_China Cocina,4.3
+U_Brian Roddy,R_Bulbap Grill,4.5
+U_Shahed Demis,R_Black Iris,4.7
+U_Akyra,R_Citrico Cafe,4.4
+U_IndyKevin317,R_Taco Mahal,4.4
+U_Franklinsierra Bustillo,R_La Ruta Del Taco,4.0
+U_Nancy Perez,R_Niko's Souvlaki,4.6
+U_Chris Meng,R_Secret Kitchen 粤精彩,4.2
+U_Sunshine NY,R_Stamatis,4.6
+U_Scott Ellison,R_Hainan Chicken House | 海南鸡记,4.2
+U_Noel Mendez,R_The Greek Kitchen,4.4
+U_Chris Rogalski,R_El Gallo Negro 3 LIC,4.3
+U_stephanie Wettach,R_The Long Acre Tavern,4.4
+U_Win B,R_Zutto Japanese Ramen Sushi Bar,4.7
+U_Champ Pechsukh,R_Forever Thai,4.7
+U_Shikha Tawari,R_The Kati Roll Company,4.1
+U_Jayasimha Nuggehalli,R_Angaar Classic Indian Cuisine,4.4
+U_natalia cupul,R_Sakana Sushi & Hibachi Steakhouse,4.6
+U_Toxic M,R_Sushi On Me,4.8
+U_Ana Bogdanov,R_Pita Pan,3.9
+U_Evan Rival,R_Honey's Thai Pavilion,3.8
+U_Mukesh Jain,R_Kailash Parbat,4.1
+U_Ster It,R_Kennedy Fried Chicken,4.1
+U_Tian Zheng,R_Tosokchon NYC,4.4
+U_Melixah Artacademy,R_Sofra Mediterranean Grill,3.5
+U_Eric Sanchez,R_Star of Siam,4.2
+U_Sophia Scalzo,R_Mughlai Grill Indian Cuisine,4.6
+U_Diana,R_Havana Social,4.2
+U_Gonzalez,R_LongHorn Steakhouse,4.2
+U_Rakesh Anand,R_Doaba Deli,4.6
+U_Emily Frenkel,R_Taqueria Milear,4.4
+U_Simon Raymundo,R_Gammeeok,3.9
+U_Leeat Massuda,R_Dosa Royale,3.8
+U_Sergii Starostin,R_Nishida Sho-ten,4.4
+U_Aaron Sharp,R_The Graham,4.2
+U_BigHollywood Nyc,R_Han Dynasty,4.3
+U_Alex Kim,R_Sambak Sambabzip,4.5
+U_Shany Thakur,R_Radhuni Sweets & Restaurant,3.8
+U_Matteo Ruggiu,R_Trinidad Golden Place,4.6
+U_Honest Reviewer,R_Casa Pública,4.5
+U_Marcos Silveira,R_Rose's Pizza,4.1
+U_Lalita Selochan,R_Blazin Chicken & Gyro,4.7
+U_Margarita De Martinez,R_Taqueria Coatzingo,4.2
+U_Kasei Chen by 「かせいのいえ」,R_Izakaya Fuku,4.5
+U_Carol Koronec,R_Dos Caminos,4.0
+U_Md Shapon,R_Khalil Biriyani House Jamaica,3.1
+U_Phenom Hendrix,R_King Souvlaki,4.5
+U_Merari,R_Sofia Mexican Restaurant,4.3
+U_md nizam uddin,R_Hello Bangladesh Restaurant,4.3
+U_Chanel Matsunami Govreau,R_BunNan,4.7
+U_Eyude Samboy garcia,R_Caridad Restaurant,4.1
+U_Nelly DM,R_Estrellita Poblana II,4.2
+U_ImBroke Rob,R_Las Palmas Restaurant,4.3
+U_Aaron Zhou,R_Pelicana Chicken,4.4
+U_Scott Kleinberg,R_Da Nonna Rosa,4.4
+U_Daniel Lehman,R_Mayas Snack Bar Bed-Stuy,4.4
+U_Qiziwei Wu,R_The Best Sichuan,4.6
+U_Kathy Xie,R_Bua Thai Ramen & Robata Grill,4.7
+U_Joy Hazucha,R_Molyvos,4.4
+U_Matthew Leavy (Matt),R_The Pizza Parlor,4.1
+U_Christopher McCleary,R_Marseille,4.5
+U_Eva Chan,R_Laghman Express,4.9
+U_Michael,R_Camillo,4.6
+U_Gwan Law,R_Rice Pie,3.7
+U_Patty Barrientos,R_Bread & Butter,4.0
+U_Jimmy Chiu,R_Iron Chef House,4.4
+U_Wenlan,R_Spice Thai,4.0
+U_Gregory Ford,R_Teriyaki One Japanese Grill (Teriyaki & Sushi),4.7
+U_Moynul Hussain,R_Nur Thai,4.3
+U_Felix,R_Rolly Kimbab,4.1
+U_Samaritan 313,R_Dera Restaurant,3.7
+U_Mehmet Gök,R_taïm mediterranean kitchen,4.4
+U_Paul Tapia,R_Nathan's Famous,3.6
+U_Reggie Mateo,R_Fornino,4.6
+U_Marsha Yecla,R_Dante West Village,4.5
+U_Wesley M,R_Carifesta,3.7
+U_Reginald Harris,R_Ramen DANBO West Village,4.4
+U_502 chapin502,R_Chirping Chicken,4.3
+U_Melissa Demaio,R_Maestro Pasta,4.6
+U_Nathan Lin,R_Golden Wonton King 糖潮滋味館,3.9
+U_Edith Pilaf,R_Raja Sweets & Fast Food,4.2
+U_John Nguyen,R_Nami Nori West Village,4.4
+U_elkin-kun wolf,R_Merryland Buffet,4.2
+U_andrea willson,R_Sushi Ginza,4.6
+U_박현옥,R_Mitr Thai Restaurant,4.8
+U_Kabrito 625,R_El Valle,3.6
+U_Dave Kotsar,R_Kobeque,3.9
+U_Doni Doni,R_Sushi Tokyo,4.4
+U_Carter Young,R_Fresh Curry,4.1
+U_Elaine Messi,R_Americano Cafe,4.6
+U_Vladyslav Dihtar,R_gyro king,4.3
+U_Margot Corzo,R_Taqueria Santa Fe,4.6
+U_Hanfung C,R_Coco Hotpot 皇椰鸡,4.7
+U_Gerardo Villalba,R_Sweet Wonton House,4.2
+U_Rose Santos,R_Joe's Restaurant,4.6
+U_andrea carreto,R_Grand Canyon Restaurant City,4.8
+U_Kevin,R_Aiyara Thai,4.2
+U_LAURA DI,R_Fansway Teriyaki & Sushi,4.1
+U_Lily Liang,R_Naruto Ramen,4.4
+U_olga mi,R_Mikado Sushi,4.8
+U_Karthik Proag,R_Dhamaka,4.5
+U_Oscar De La Rosa,R_Tozton,4.8
+U_Artemis Blighty,R_Joong Koog Jip,4.0
+U_Jamal Beast,R_Island Foodie,3.8
+U_Usmail Ali0,R_Osamil,4.6
+U_Janie Lee,R_Rice Kitchen,4.6
+U_Cantante Alex Ramirez,R_Taqueria El Cebollin,4.0
+U_Reggie Mateo,R_Claw Daddy's,4.3
+U_M.A. Dans,R_Kalye Bistro,4.6
+U_Nali Yan,R_Tibetan Japanese,4.5
+U_K. Y. WONG,R_The Legend Cafe House 雅谷,3.6
+U_lucero luna,R_La Kuchara,4.2
+U_Neeraj Kakria,R_Lucky Dhaba Indian Restaurant,4.1
+U_Tlac Lacan,R_Jade Garden,3.9
+U_joel andres caraballo,R_El Economico Restaurant,4.2
+U_mcLa twofivesix,R_Osteria Del Porto,4.4
+U_Shasha Li,R_Mala Kitchen,4.7
+U_Mel,R_Toro Loco,4.3
+U_Evelin C,R_Takumen,4.5
+U_Karan Sethi,R_The Spaniard,4.2
+U_MM Mee,R_Vernon Grille,4.4
+U_Kanlayanee Kosapattarapim,R_Bangkok Degree,4.6
+U_Jahnavi,R_Come On Thai Cuisine,4.1
+U_Marcos Silveira,R_Brooklyn Crab,4.2
+U_Nasseh Khodaie,R_Zula,3.6
+U_Jonquel NYC,R_Brother’s,4.6
+U_Yi Ren,R_Lao Fu Zhou,3.0
+U_Christina Chow,R_新東湖 Canton Manor,4.0
+U_Xiaoyan Huang,R_Sake Kawa,4.4
+U_Prem Sahadeo,R_Masala Box,4.3
+U_Sunil Yadav,R_Supper,4.4
+U_Rohith Nandagiri,R_Via Quadronno,4.1
+U_Camilo Aguilar,R_Bombay Grill house,4.7
+U_Oliver Fiegel,R_Trad Room,4.5
+U_mcLa twofivesix,R_Howong,3.8
+U_Unknown,R_Brooklyn Suya,4.6
+U_Michael Ramsay,R_Oasis,4.6
+U_Nujrahat Nujrahat,R_Sodam,4.3
+U_Grace Oleary,R_Neir's Tavern,4.7
+U_suting chen,R_Pokeworks,4.5
+U_Zoey Tang,R_Indian Table,4.5
+U_Liquid Poetria,R_Malecon,4.4
+U_Si te ríes pierde Carlos mercedes,R_Chavela's,4.5
+U_Bee NYC,R_Roberta's,4.5
+U_Susie Su,R_Calle Dao Chelsea,4.4
+U_Daniel Chen,R_Dim Sum Palace,4.3
+U_claudia reyes,R_345 Cantina,4.4
+U_Ay Ze,R_Flor de Mayo Restaurant,4.4
+U_Keian R,R_Cantina Taqueria & Tequila Bar,4.2
+U_Jayasimha Nuggehalli,R_Katsu-Hama,4.3
+U_Diocorides Baez,R_Marisco Centro,4.1
+U_Janine McCargo,R_Hi-Collar,4.4
+U_Nunthanut Traitipudomchai,R_Three Roosters,4.6
+U_Jania Rodriguez,R_Puerto Plata Restaurant,4.0
+U_Sensei Sama,R_Mad for Chicken Flushing,4.5
+U_Zhong Yang,R_福臨門食府 Chef Wong Bistro,4.4
+U_Eden Gonzalez,R_Spice Mantra,4.7
+U_Keyona,R_Shanghai You Garden,4.3
+U_Jean Ng,R_Congee Village,4.1
+U_Brian Fung (ImproRx),R_Shanghai Time,4.5
+U_Lee Sam,R_Nawabari (Korean & Japanese cuisine),4.5
+U_Jingyu He (Jack He),R_Torien,4.6
+U_Carlos Hernandez De Pena,R_El Buen Ambiente,3.9
+U_Fernanda S Soares Kapaz,R_Jack's Wife Freda,4.4
+U_Jenny Lu,R_Lucky House Kitchen,4.5
+U_Noah Tarinyebwa,R_Greek Xpress,4.3
+U_Simran Purokayastha,R_Vegan Grill Diner,4.9
+U_Kai Parcher-Charles,R_Indian Kitchen,4.8
+U_めいちゃん,R_Cafe Luna,4.6
+U_Shafaat,R_Singh's Roti Shop & Bar,4.2
+U_John Sotiriadis,R_Brooklyn Pizza Crew,4.4
+U_David Kim,R_Hainan,4.5
+U_Nicole Li,R_Duck Wong,4.1
+U_Jovon V.,R_Chef Quang,4.0
+U_Anti Todo,R_Thai Me,4.3
+U_Wilfred Jones,R_To Steki,4.5
+U_mcLa twofivesix,R_Popeyes Louisiana Kitchen,3.6
+U_Trinity,R_Choice Market,4.3
+U_Claire Crisp,R_Golda,4.2
+U_Sean “WonderMan”,R_The Juicy Box,4.2
+U_clayret,R_Porto Salvo,4.6
+U_Charlie Huang,R_Takesushi,4.5
+U_Osmar Ramos,R_AA Chinese Restaurant,3.2
+U_Wenlan,R_Niukee Shumai,4.9
+U_Alvin Cheung,R_Phil-Am Kusina,4.7
+U_Hoiping Ngo,R_Café Hestia,4.1
+U_Y. “Relly Rosegold” H.,R_Chu Ros Thai NYC,4.7
+U_Jonathan Ayala,R_Earl's Beer and Cheese,4.6
+U_Chiara Noelle Londoño,R_Sathi,4.7
+U_Kelli Durkin,R_Lola Taverna,4.4
+U_Hakan Erzurumluoglu,R_Olea,4.6
+U_Jane Kim,R_Dino,4.2
+U_Gregory DimSum,R_The Nuaa Table,4.7
+U_Jayasimha Nuggehalli,R_Semma,4.2
+U_Paola Montero Suero,R_QDOBA Mexican Eats,4.5
+U_mcLa twofivesix,R_Yin Ji Chang Fen,4.2
+U_13A13Y .J,R_Tea Cup Cafe,4.2
+U_mcLa twofivesix,R_Wasan Brooklyn,4.3
+U_Deepak vaid,R_Dosa Delight,4.4
+U_Ratna Payel80,R_Ittadi,3.7
+U_Kate Martin,R_Briciola,4.5
+U_Evan Gutierrez,R_Guac Time Mexican Grill,4.3
+U_Ken S,R_Uncle Ng's Recipe,4.2
+U_Jose Miguel,R_Ai Ki Ya Japanese Restaurant,4.4
+U_Eli Santos,R_San Jose Restaurant,4.4
+U_Sir Bernard Mendes France,R_TacoVision,4.3
+U_Daniella Fodera,R_Atlas Kitchen,4.0
+U_Asher Ollivierre,R_Bogota Latin Bistro,4.3
+U_Jose Gambirazio,R_La Chacra Restaurant,4.3
+U_Amita Shukla,R_Phoshime,4.6
+U_Shany Thakur,R_Awang Kitchen,4.6
+U_ridwanulhaque adon,R_Ashoka Grill,4.0
+U_Cha Y,R_Toscana 49,4.5
+U_111 4G,R_Johnny's Caribbean Bakery & Resturant,4.0
+U_Kenneth Jobs,R_Soba Totto,4.3
+U_Mahitha Kotipalli,R_Fish Cheeks,4.8
+U_Phil P.,R_Casa Dani,4.0
+U_vn lau,R_Kings Kitchen,4.0
+U_Amna Afsheen,R_Sushi Wen,4.8
+U_Thucha TC,R_Suross Thai Bistro,4.3
+U_Maria Cajero,R_Chang Noi Thai,4.4
+U_Elena Wl,R_Shokunin,3.9
+U_Giuliano Ronca,R_Gelso & Grand,4.4
+U_Jane K.,R_Singas Famous Pizza,4.1
+U_LL,R_Sushi Island,3.9
+U_Kessiana “Kayc” Promaphile,R_Ricardo Steakhouse,4.5
+U_Mengjie Zhang,R_Takahachi Bakery,4.6
+U_Lorraine J,R_Atoboy,4.5
+U_Danielle Nascimento,R_Piccola Cucina Uptown,4.6
+U_nalu,R_Osteria Delbianco,4.7
+U_dan73nyc Alvarado,R_Forma Pasta Factory,4.6
+U_Mike Lynn,R_A Pasta Bar,4.2
+U_George O'krepkie,R_Norma,4.6
+U_Ehsan,R_Via Carota,4.4
+U_Dil Abbas,R_Tony's Di Napoli,4.6
+U_yongsung Yun,R_Piccola Cucina Osteria Siciliana,4.6
+U_dina Cristina Rachele Cilli,R_Maiella,4.4
+U_Reginald Blue,R_Polpette 71,4.5
+U_Benny Nabavian,R_Osteria 57,4.5
+U_ali shahmoradi,R_The Odeon,4.5
+U_楊淯丞,R_uluh,4.4
+U_Kiariladyboss,R_Misirizzi,4.5
+U_Shunyi Zhu,R_AweSum DimSum,4.6
+U_Hirain Hernández,R_Kame,4.7
+U_Emily Feng,R_Soba Noodle Azuma,4.4
+U_Alexis Amezcua,R_Gran Morsi,4.4
+U_Andy,R_Ippudo NY,4.4
+U_변정이,R_Mamo,4.4
+U_Elka Martinez,R_Ainslie Bowery,4.5
+U_Brian Boland,R_Patsy's Italian Restaurant,4.3
+U_Andy,R_Nare Sushi,4.2
+U_Reggie Mateo,R_Shan,4.6
+U_Jon Yeh,R_Shanghai Villa,4.4
+U_Tango NYC,R_Benemon,4.5
+U_Olulola Adenike,R_Baodega 小杨生煎,4.7
+U_mcLa twofivesix,R_Jajaja Mexicana,4.6
+U_Melissa T,R_Suzuki Shokudo,4.6
+U_Megan Watson,R_Noodle Village,4.3
+U_Papa Niang,R_Pink Taco,4.1
+U_a charter,R_Añejo Tribeca,4.4
+U_Victoria Daylor,R_Wu and Nussbaum,3.8
+U_Ahmed shahnewaz siraj,R_Brooklyn Dumpling Shop,4.1
+U_Zhiquan Cao,R_Tengri Tagh Uyghur Cuisine,4.6
+U_Thaqif Mohammed,R_Thai Villa,4.7
+U_mcLa twofivesix,R_Shanghai 21,4.5
+U_jinfeng xie,R_Soothr,4.7
+U_Tom S,R_沙县小吃 Shaxian Snacks,3.7
+U_沈依琳,R_Chalong NYC,4.8
+U_Susie Su,R_Raku,4.5
+U_Jeremy Chen,R_Malii Gramercy,4.8
+U_tom ngo,R_Ginger and Lemongrass,4.5
+U_Shanelle S,R_Up Thai,4.8
+U_Matthew Lee,R_Tha Phraya,4.8
+U_Gregor J. Rothfuss,R_Tuk Tuk,4.4
+U_Jaren Nadong,R_Barn Joo 35,4.4
+U_Jacqueline Chen,R_BCD Tofu House,4.3
+U_Xueqing Hu,R_Glin Thai Bistro,4.9
+U_MrWoo,R_8282,4.7
+U_田萌,R_Plue,4.8
+U_Adi A,R_Pye Boat Noodle,4.6
+U_Daniel Chen,R_Jua,4.7
+U_mcLa twofivesix,R_Curry House,4.5
+U_Yuming Yan,R_Bangkok 2 Thai,4.9
+U_Jaeyeon Kim,R_Jungsik,4.7
+U_MONICA BADDAR,R_Dock Asian Eatery,4.4
+U_Cinthia Rivera-Garzon,R_Gen Korean BBQ House,3.9
+U_A ODK,R_Nangman BBQ,4.3
+U_Brian Peralta,R_Little Dokebi,4.4
+U_Daniel Chen,R_COTE Korean Steakhouse,4.6
+U_Thai Tree,R_Thai Tree NYC,4.7
+U_Utsavi Dalwadi,R_ChinGoo,4.7
+U_Susie Su,R_Meraki Greek Bistro Williamsburg,4.7
+U_Pasquale Monaco,R_estiatorio Milos Midtown,4.5
+U_TRƏVØR 9,R_Franchia Vegan Café,4.6
+U_Sam Cutting,R_Smith & Mills,4.4
+U_Julian Fraize,R_Miss Ada,4.6
+U_Catherine Tintle,R_Forgione,4.6
+U_Sangcheol “charles” AHN,R_Joa Kitchen,4.9
+U_Simran Purokayastha,R_Thelewala,4.3
+U_Chris Aldrich,R_La Bonne Soupe,4.4
+U_anmol ailani,R_Cardamom Indian Cuisine,4.5
+U_Thom Craver,R_Jerk House Caribbean Restaurant,4.9
+U_David Studinski,R_Jaz Indian Cuisine,4.5
+U_Ahmet Kizilay,R_Westville Chelsea,4.4
+U_Pedro Bastos,R_Kiki's,4.4
+U_Kent Walker,R_Nish Nush,4.5
+U_Joseph NewYork,R_Yasouvlaki,4.6
+U_Hina Cao,R_Limani,4.3
+U_Laura Campos,R_Souvlaki GR,4.4
+U_Hina Cao,R_Del Frisco's Double Eagle Steakhouse,4.5
+U_Rodney Klein,R_The Capital Grille,4.6
+U_Brenda Carter,R_Bahari Estiatorio,4.6
+U_Hina Cao,R_Point Seven,4.4
+U_Israel Perez,R_Carro Cafe,4.2
+U_Carol Benjamin,R_Summer Salt,4.5
+U_Yifan,R_La Contenta Oeste,4.5
+U_R S,R_Javelina,4.3
+U_David Lowe,R_Rancho Tequileria,4.5
+U_Eric Sasia,R_Adobo Mexican Grill,4.9
+U_nairobi peña,R_El Gallo Taqueria,4.8
+U_William Petz,R_Queen’s Room,4.5
+U_Claudio Bazzani,R_Aromi,4.9
+U_Julio Cesar Vasquez Pino,R_El Coco,4.6
+U_Choko Lorac,R_Fausto,4.5
+U_Long Ho,R_Cascalote,4.6
+U_shaunak patel,R_Din Tai Fung,4.3
+U_SSK玄宗大帝,R_Chi Restaurant & Bar 棋餐厅&酒吧,4.7
+U_Sara Durkacs,R_Pasta Louise Restaurant,4.5
+U_Shabnam,R_Belli Ristorante & Bar,4.5
+U_Trisha T,R_Gold'N Honey,4.5
+U_C Neon,R_Barbounia,4.5
+U_J.,R_Piccante,4.6
+U_Glenn DiResto,R_Pizza D'amore,3.8
+U_Rachel LeClaire,R_Panzerotti Bites,4.9
+U_Irina “IrinaAnnaRose” Yakubovskaya,R_Bar Toto,4.3
+U_Yao-Wen Mei,R_Crave Fishbar,4.5
+U_HASSAN DENNIS,R_BZ Grill,4.4
+U_Syed Doha,R_Claro,4.6
+U_Wesley Simpson,R_Sonora Restaurant & Bar,4.2
+U_Chelsea Soto,R_The Steel Mill,4.5
+U_Gilberto Frausto,R_Tacos El Bronco,4.6
+U_Ido Simyoni,R_Cafe Nube,4.9
+U_Lynn E. Brice (HarlemzFlyGirl),R_Lighthouse Fish Market,4.3
+U_محمد الجوهري,R_Ravagh Persian Grill,4.3
+U_Issa mathina Jui,R_Omars Mediterranean Cuisine,4.5
+U_abdullah alkandari,R_Miznon,4.5
+U_E Law,R_ABA Turkish Restaurant,4.3
+U_khondoker Sohag,R_Mum Feteer فطير,4.7
+U_Anton S,R_Mallenche,4.7
+U_gabriela trinidad,R_El Zason,4.6
+U_Angel Mahuiztl,R_Don Patron Mexican Bar & Grill,4.3
+U_Abraham Palma,R_La Taqueria,4.3
+U_jo will,R_Xochitl Taqueria,4.4
+U_Mae C,R_Like Cafe,4.0
+U_Fulton Sim,R_Red Bowl,4.6
+U_Ur Mom,R_Prime Avenue,4.1
+U_Edison Villegas,R_Yummy Thai,4.1
+U_midnightangel981,R_Golden Palace,3.8
+U_Nek Rey,R_Insa,4.2
+U_B,R_Pier 53 Coffee & Sandwich Shop,4.4
+U_mcLa twofivesix,R_Bushniwa,4.4
+U_Matthew McGrath,R_Shalom Japan,4.3
+U_Eva,"R_Ocean Prime, Bar and Restaurant",4.3
+U_Victor campos,R_Ozakaya,4.8
+U_Maninder Singh,R_Punjabi Kabab and Gyro,4.3
+U_Jenny Zhu,R_Mayoor Indian Bistro,4.5
+U_David Sheinkopf (at bbq underscore dave),R_Brooklyn Ice House,4.5
+U_sakchai tharanisorn,R_Ninja Japan Teriyaki & Sushi,4.5
+U_L. Tan,R_Sushi Yashin,4.4
+U_MooreBeats Studio,R_Footprints Cafe,4.0
+U_Marc Gonzales,R_Dog Day Afternoon,4.9
+U_B Sav,R_El Jeffe,4.5
+U_Prem Sahadeo,R_Amy Thai Bistro,4.5
+U_יענקי שיינברגר,R_Holy Schnitzel,4.9
+U_Carlos Chumil,R_Masala Grill,3.9
+U_Sissy C,R_Am Thai Bistro,4.4
+U_Jojo,R_Ricepot Thai Cookhouse,4.3
+U_CocaCola Mia,R_Delhi Heights Indian Restaurant,3.9
+U_maria beaulieu,R_Wheated,4.7
+U_Jatinder Singh,R_Apna pind,3.4
+U_Lan Soffer,R_Uni Thai Bistro,4.6
+U_Angie Mosquera,R_White Maize +,4.8
+U_Edward Fort,R_Golden Thai,3.9
+U_Julienne Ryan,R_Ringolevio,4.6
+U_Arwin Vinny Sardana,R_Pita Palace,4.7
+U_Theresa L,R_Kabob Shack,4.4
+U_Yufan Yu,R_Claudette,4.5
+U_BK Man,R_Pizza Classica,4.5
+U_kevin cai,R_Trattoria 35,4.4
+U_Nellie Bee,R_Palermo,4.4
+U_Artëm Кazantsev,R_Da Capo,4.5
+U_Kristi-Ann Baggan,R_Follia,4.3
+U_Rey Jeronimo,R_El Mero Mero,4.6
+U_Katie Attubato,R_Dos Toros Taqueria,4.2
+U_Cesar Dominguez,R_Los Tres Potrillos,3.5
+U_Melanny Diaz,R_Latino Bites,4.6
+U_Stefani Castro,R_Las chilangas,4.7
+U_José López Zurita,R_El Vaquerito,4.4
+U_Emilio Dominguez,R_Astoria Taco Factory,4.3
+U_Chee Chow,R_BKNY Thai Restaurant,4.5
+U_Lirox B,R_Beijing Dumpling House,4.6
+U_Matthias Hess,R_Jang Dok Dae Corp,4.7
+U_Shui T.,R_Noodle Lab,4.3
+U_Nobel Vale (TheNobelOne),R_Mahsil,4.4
+U_Lee Sam,R_Hahm Ji Bach,4.1
+U_Simon Son,R_I am Kimchi,4.8
+U_Roseann Visconti,R_White Bear,4.4
+U_Crystal,R_Sakura 7,4.4
+U_Linda Carrasco,R_Kababish,3.9
+U_Guorui Li,R_Tokyo Ya,4.2
+U_David Moon,R_Three Bowls Ramen,4.3
+U_Z.G Y,R_Mochiron Izakaya,4.6
+U_Maria Patricia Londoño,R_Off The Hook Raw Bar & Grill,4.4
+U_Almi,R_Tamashii Ramen,4.6
+U_Fen Zhang,R_The Buffet,3.9
+U_Celedonia Gutierrez,R_Fabrika,4.7
+U_Cha Y,R_Phở Grand,4.1
+U_Diego R,R_La Hueca Epa,4.1
+U_Shelley P.,R_Rove,4.5
+U_Jiovani Rivera,R_La Vecina,4.3
+U_Jalana mcarthur,R_The Door,4.3
+U_Naydeli Lariza Rodriguez Rojas,R_Mistura Peruana,4.2
+U_Jeanine Martinez,R_Sotto Le Stelle,4.7
+U_MICHAEL G,R_Sangria,4.4
+U_趙里昱,R_Spicy Lanka,4.6
+U_Nayda Reymundo baltazar,R_Andrea’s Chicken,4.3
+U_Meredith Zink,R_Mar's,4.4
+U_Lucy Gomez,R_Gottscheer Hall,4.6
+U_teisis sanchez,R_Estrellita Poblana,4.2
+U_David Perez,R_Bayahibe Fusion,4.5
+U_Dudy Bar-Tal,R_Romanian Garden,4.3
+U_Ivan Tapia,R_Queen of Tacos,4.1
+U_Eric Villafane,R_Orrico's Italian Restaurant,4.6
+U_Marcelo Almaraz,R_Taqueria Sinaloense,4.4
+U_Enrique G,R_Estrellita Mixteca,4.2
+U_Nelson Pascual,R_La Casa Del Mofongo,4.1
+U_O G,R_Vista Hermosa,4.1
+U_Flor Garcia,R_Las Maravillas De Mexico,3.6
+U_tre remix nhac,R_Peking Duck House,4.0
+U_Mallory,R_King Dragon 188,4.0
+U_V cristina,R_China Gourmet,3.5
+U_Celena Chang,R_Flame,4.3
+U_flickerphil,R_Mamasushi,4.2
+U_Herman E,R_Sushi Noz,4.6
+U_Laurel Laurino Savoca,R_Coral Bay Cafe,4.3
+U_Aneisha,R_Angelina Paris Bryant Park,4.3
+U_Nie Znany,R_Thai Cafe,4.4
+U_Alberto Escorza,R_Café Luce Italian Restaurant & Wine Bar,4.7
+U_Nellie Bee,R_Artie's Steak and Seafood Restaurant,4.4
+U_khandaker jamy,R_Halal Fresh Chinese and Indian cuisine,4.1
+U_Ratna Payel80,R_Cafe Juliet,4.7
+U_Daniel Hardjono,R_Johnny's Reef,4.4
+U_Robert Ruszkowski,R_Richmond Republic,4.2
+U_Beulah Romero,R_Mike's Unicorn Diner,4.2
+U_Michael Ostergren,R_Galicia Tapas,4.8
+U_Giorgi Chkhetiani,R_Chinar On The Island,4.4
+U_Wenlan,R_ilili Restaurant,4.5
+U_Sandy,R_Hard Rock Cafe,4.4
+U_Quetta Williams,R_Seafood City,4.2
+U_Na Tasha,R_Scarpetta,4.4
+U_Fernando Torres,R_Locanda Verde Tribeca,4.4
+U_Jeffrey Romero,R_Teriyaki One Japanese Grill (Teriyaki & Sushi),4.7
+U_Lana Ahrim Kim,R_L'Artusi,4.6
+U_Neisha Evadney,R_Sylvia's Restaurant,4.3
+U_dali fernandez,R_Nana's Kitchen New York,4.5
+U_Gustavo Marín,R_Soho Thai,4.3
+U_Jeffrey Sean Tang,R_Aroy Dee Thai Kitchen,4.6
+U_Alex Ortiz,R_Fiorentina Steakhouse,4.8
+U_A Martin,R_Hudson Smokehouse,4.2
+U_Hector Benitez,R_Lilia,4.3
+U_Wade,R_The Uptown Garrison,4.5
+U_Marshall Shaffer,R_Vic's,4.5
+U_Yani E,R_All'Antico Vinaio,4.7
+U_Richard Mendez,R_La Parisienne,4.6
+U_Liz W,R_Go Nonna,4.6
+U_Jay Tribe,R_Trapizzino,4.5
+U_Claudio Guanziroli,R_Cafe Spaghetti,4.7
+U_Z.G Y,R_Il Bambino,4.6
+U_Fabiola Gorgonio (Amoy),R_Amor Loco,4.6
+U_ami garcia,R_Mayahuel,4.6
+U_한혜경,R_Café Habana,4.5
+U_Jonathan Belle,R_Mezcali,4.6
+U_Artëm Кazantsev,R_Pho 39,4.2
+U_FoodieNJ VMP,R_Joe's Home of Soup Dumplings,4.5
+U_KEN Liang,R_The Handpulled Noodle | Hell’s Kitchen,4.8
+U_Shanelle S,R_Very Fresh Noodles,4.5
+U_Frank “DJ FRANKYPHENOM” Alvarez,R_Taqueria Ramirez,4.7
+U_José Giraldo,R_Grandma's Home,4.3
+U_Kay Love,R_Buddakan,4.4
+U_Alexandros Balili,R_Conmigo,4.5
+U_Scott F Wilson,R_Little Alley,4.3
+U_Tai bai Jiang (自由人姜太白),R_Yunnan Rice Noodle House,4.0
+U_yim Thanks,R_Taiwan Pork Chop House,4.4
+U_g lee,R_Rice Bird NYC,4.5
+U_Meiye Xu,R_Kings Kitchen,3.9
+U_lionel cai,R_Chi Chicken吃鸡,4.9
+U_Bill Chepolis,R_Bonnie's,4.3
+U_Molly Zupancich,R_Ros Niyom Thai Restaurant,4.4
+U_Ian Galvez,R_Gai Kitchen,4.6
+U_S H,R_Nobu Fifty Seven,4.4
+U_Jiren Zhou,R_Kin ramen,4.7
+U_Maria S,R_Sapps,4.5
+U_D C,R_Rasa,4.5
+U_Valeria Soto,R_7 Elephants,4.8
+U_Doraemon,R_Somtum Der,4.5
+U_Sharon Her,R_Sushi Lab - East Village,4.7
+U_Fefe's Journey,R_At Nine Restaurant & Bar,4.4
+U_A Hanna,R_Ditmars Thai,4.7
+U_Tristan King,R_Jun-Men Ramen Bar,4.5
+U_Edson Danyas,R_Chikarashi,4.3
+U_Jonathan Ong,R_Laut,4.4
+U_Gregor J. Rothfuss,R_Terra Thai,4.8
+U_Phil Wingo,R_Susuru Ramen,4.8
+U_Daniel Chen,R_Jeju Noodle Bar,4.5
+U_紀嘉淯,R_Kisa,4.6
+U_Mechelle Lassiter,R_Thai Diner,4.4
+U_Susan Savage,R_Pig and Khao,4.3
+U_Jiwon Moon,R_Samwoojung,4.4
+U_Javier Kohen,R_Mari,4.5
+U_Sandra Ramirez H.,R_SriPraPhai,4.5
+U_Shaun S.,R_Lil Chef Mama,4.5
+U_May Thant Sin Tun,R_Mokja,4.1
+U_Efren Cazares,R_Danji,4.4
+U_Mayer Jotkowitz,R_Gai Chicken & Rice,4.2
+U_Susie Su,R_Yoon Haeundae Galbi,4.5
+U_Arri Ye,R_Koji Chicken,4.8
+U_Hina Cao,R_Oceana,4.5
+U_Nancy Cavazos,R_Lure Fishbar,4.4
+U_Alondra Joaly Rodriguez,R_Sik Gaek,4.1
