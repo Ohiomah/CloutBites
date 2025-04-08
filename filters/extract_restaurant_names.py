@@ -4,11 +4,14 @@
 # after that, I manually went through and took care of some spelling errors to match the candidate names with the merged_restaurants_final.csv
 
 import json
+import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 from tqdm import tqdm # for a progress bar
 
 # Configure Gemini API
-genai.configure(api_key=GOOGLE_API_KEY) # API Key is exposed because this is a private repo
+load_dotenv()
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY")) # API Key is exposed because this is a private repo
 
 # # call listmodels
 # list_models = genai.list_models()
