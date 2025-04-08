@@ -8,7 +8,7 @@ import google.generativeai as genai
 from tqdm import tqdm # for a progress bar
 
 # Configure Gemini API
-genai.configure(api_key='AIzaSyC91lYMZjNiUw_AuzzniWHqDqWVeH0De9Q') # API Key is exposed because this is a private repo
+genai.configure(api_key=GOOGLE_API_KEY) # API Key is exposed because this is a private repo
 
 # # call listmodels
 # list_models = genai.list_models()
