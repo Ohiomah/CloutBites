@@ -20,6 +20,15 @@ CloutBites (just a name we created) analyzes restaurant reviews and sentiment ac
 - **Scope**: Restaurants in the New York City metropolitan area
 - **Focus**: Analyzing restaurant reviews through social media influencers
 
+## See Our Dataset (Flask app)
+We prepared a shortlist of restaurants and their reviews by borough, including the Yelp rating and the # of Instagram reviews, on which we conducted sentiment analysis.
+
+To access,
+```bash
+cd app
+python app.py # which will start the app on http://localhost:5000 by default
+```
+
 ## Key Data Files (please look)
 
 - `IG_posts.json`: Raw Instagram post data
