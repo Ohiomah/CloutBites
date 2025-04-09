@@ -33,8 +33,6 @@ User-generated content from 2023 onward to ensure relevance
 
 THIS IS BIPARTITE (recommend acknowledgement)
 
-1. Does high review volume correlate with high social media engagement?
+1. Can we identify user communities based on shared preferences?
 
-2. Can we identify user communities based on shared preferences?
-
-3. How does social proof (people talk online!) contribute to restaurant popularity?
+2. How does social proof (people talk online!) contribute to restaurant popularity?

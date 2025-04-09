@@ -87,6 +87,10 @@ Created two one-mode projections of a bipartite network:
 
 ### Installation Steps
 1. Clone the repository
+   ```bash
+   git clone https://github.com/Ohiomah/CloutBites.git
+   cd cloutbites
+   ```
 2. Create a virtual environment (linux instructions):
    ```bash
    python -m venv venv
